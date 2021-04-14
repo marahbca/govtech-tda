@@ -12,9 +12,9 @@ links:
   - title: Symposium
     url: /symposium/
   - title: Programme
-    collection: example-collection
+    url: /programme/
   - title: Showcase
-    resource_room: true
+    url: /showcase/
   - title: Tournament
     url: /tournament/
   - title: Partners

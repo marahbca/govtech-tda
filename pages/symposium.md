@@ -2,7 +2,7 @@
 title: Symposium
 permalink: /symposium
 
-
+section:
 <h1>Programme</h1>
 <table>
   <tr>

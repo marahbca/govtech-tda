@@ -7,11 +7,19 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
+  - title: Home
     url: /contact-us/
-  - title: Example Page
+  - title: Symposium
     url: /example-page/
-  - title: Example Collection
+  - title: Programme
     collection: example-collection
-  - title: Example Resource Room
+  - title: Showcase
     resource_room: true
+  - title: Tournament
+    url: /example-page/
+  - title: Partners
+    url: /example-page/
+  - title: FAQ
+    url: /example-page/
+  - title: Contact Us
+    url: /example-page/

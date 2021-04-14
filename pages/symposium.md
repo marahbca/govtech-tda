@@ -3,7 +3,8 @@ title: Symposium
 permalink: /symposium
 ---
 
-header: Programme
+sections:
+title: Programme
 <table>
   <tr>
     <td>9.00am - 9.30am</td>

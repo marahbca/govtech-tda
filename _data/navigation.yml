@@ -10,16 +10,16 @@ links:
   - title: Home
     url: /contact-us/
   - title: Symposium
-    url: /example-page/
+    url: /symposium/
   - title: Programme
     collection: example-collection
   - title: Showcase
     resource_room: true
   - title: Tournament
-    url: /example-page/
+    url: /tournament/
   - title: Partners
-    url: /example-page/
+    url: /partners/
   - title: FAQ
-    url: /example-page/
+    url: /faq/
   - title: Contact Us
-    url: /example-page/
+    url: /contact-us/

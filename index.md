@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: The Digital Academy Learning Festival (by GovTech)
+description: Championing Digital Confidence in Public Service
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!

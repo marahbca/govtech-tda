@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: Learning Festival
+        subtitle: Championing Digital Confidence in Public Service
         background: /images/website-header.jpg
         button: Contact Us
         url: /contact-us/

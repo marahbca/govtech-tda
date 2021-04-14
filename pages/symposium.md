@@ -4,7 +4,7 @@ permalink: /symposium
 ---
 
 
-Programme
+<h1>Programme</h1>
 <table>
   <tr>
     <td width="30%">9.00am - 9.30am</td>

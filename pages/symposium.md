@@ -1,6 +1,7 @@
 ---
 title: Symposium
 permalink: /symposium
+---
 
 sections:
 title: Programme
@@ -22,4 +23,4 @@ title: Programme
   </tr>
 </table>
 
----
+

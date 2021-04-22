@@ -67,8 +67,11 @@ permalink: /symposium
   <tr>
     <td>10.45am - 11.25am</td>
     <td>
-      Panel Discussion (moderated by DN Prasad)<br>
-      <strong>Title: Pushing Digital Transformation Boundaries in Public Sector</strong> <br>
+      <strong>Panel Discussion:</strong><br>
+      <strong>Pushing Digital Transformation Boundaries in Public Sector</strong>
+      <br><br>
+      <strong>Moderator:</strong><br>
+      D.N. Prasad
       Panelists:<br>
       -SMS Janil Puthucheary<br>
       -Keynote speaker 1<br>

@@ -16,8 +16,8 @@ permalink: /symposium
   <tr>
     <td>9.10am - 9.25am</td>
     <td>
-      <strong></strong><br>
-      Opening address by SMS Janil Puthucheary
+      <strong>Opening Address</strong><br>
+      by SMS Janil Puthucheary
     </td>
   </tr>
   

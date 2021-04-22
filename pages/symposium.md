@@ -36,7 +36,7 @@ permalink: /symposium
   </td>
   </tr>
   
-  </tr>
+
    <tr>
     <td>9.40am - 9.50am</td>
     <td>

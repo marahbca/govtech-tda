@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Learning Festival
-        subtitle: Championing Digital Confidence in Public Service
+        title: The Digital Academy Learning Festival
+        subtitle: 31 May – 4 Jun 2021
         background: /images/website-header.jpg
         button: Contact Us
         url: /contact-us/

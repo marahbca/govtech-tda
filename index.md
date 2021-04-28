@@ -4,28 +4,19 @@ title: The Digital Academy Learning Festival (by GovTech)
 description: Championing Digital Confidence in Public Service
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: The Digital Academy Learning Festival
         subtitle: 31 May – 4 Jun 2021
         background: /images/website-header.jpg
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+        button: Register Your Interest
+        url: /contact-us/   
     - infobar:
         title: Be at the intersection of technology and public service
         subtitle: Subtitle
-        description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula vel augue accumsan mattis. Nunc nec ultricies arcu, sed commodo elit. Quisque sapien libero, egestas id est ut, tincidunt iaculis mi. Sed sit amet tristique dolor, et fringilla dui. Nunc aliquet leo ex, at vehicula turpis fermentum vitae. Phasellus et efficitur eros. Vivamus convallis ex nunc, ac mattis erat auctor et. Mauris gravida non justo eu imperdiet. Aliquam condimentum et magna et varius. Ut porttitor magna nec nibh ornare bibendum. Vivamus eget urna volutpat, dignissim quam varius, fringilla nulla.
+        description: Join us for a week-long immersive learning experience and get a taster of courses that will be delivered at The Digital Academy!
+We have lined up a series of talks which are engaging and interactive, to nurture the joy of learning.  An e-exhibition will showcase projects from GovTech, to demonstrate their functional clusters’ capabilities to tackle challenges with the use of technology and innovation.
+Following the soft launch in Jan 2021 to GovTech and SNDGO, the Launch Symposium and Learning Festival will now extend its reach to a wider audience from WoG - Public Service Leaders, ICT professionals and Public Service Officers. With a variety of tech domains to choose from, there is something for everyone at the Learning Festival.
         button: Button text
         url: /faq/
     - resources:

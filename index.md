@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: Learning Festival
-        subtitle: 31st May - 4th June
+        subtitle: 31st May to 4th June
         background: /images/website-header.jpg
         button: Register Your Interest
         url: /contact-us/

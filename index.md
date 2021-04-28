@@ -4,7 +4,7 @@ title: The Digital Academy Learning Festival (by GovTech)
 description: Championing Digital Confidence in Public Service
 image: /images/isomer-logo.svg
 permalink: /
-notification:
+notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: The Digital Academy Learning Festival
@@ -13,6 +13,9 @@ sections:
         button: Register Your Interest
         url: /contact-us/
         key_highlights:
+              - title: Highlight A
+              description: Important highlight A is important
+              url: https://google.com
     - infobar:
         title: Be at the intersection of technology and public service
         subtitle: The Digital Academy
@@ -21,6 +24,7 @@ sections:
         Following the soft launch in Jan 2021 to GovTech and SNDGO, the Launch Symposium and Learning Festival will now extend its reach to a wider audience from           WoG - Public Service Leaders, ICT professionals and Public Service Officers. With a variety of tech domains to choose from, there is something for everyone         at the Learning Festival.
         button: Button text
         url: /faq/
+     - resources:
 
 ---
 

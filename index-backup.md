@@ -29,8 +29,8 @@ sections:
         button: Button text
         url: /faq/
     - resources:
-        title: 
-        subtitle: 
-        button:
+        title: Media
+        subtitle: Learn more
+        button: View More
 ---
 

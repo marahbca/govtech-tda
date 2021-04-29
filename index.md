@@ -25,7 +25,7 @@ sections:
         title: Be at the intersection of technology and public service
         subtitle: The Digital Academy
         description: Hello testing!
-        button: Button text
+        button: 
         url: /faq/
     - resources:
         title: Media

@@ -18,7 +18,7 @@ sections:
         button: Register Interest
         url: /faq/
 ---
-sections:
+
 # Be At The Intersection of Technology and Public Service
 Join us for a week-long immersive learning experience and get a taster of courses that will be delivered at The Digital Academy!
 We have lined up a series of talks which are engaging and interactive, to nurture the joy of learning.  An e-exhibition will showcase projects from GovTech, to demonstrate their functional clusters' capabilities to tackle challenges with the use of technology and innovation.

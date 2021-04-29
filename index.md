@@ -19,7 +19,7 @@ sections:
               description: 
               url: 
             - title: 
-              description: P
+              description:
               url: 
     - infobar:
         title: Be at the intersection of technology and public service
@@ -28,8 +28,8 @@ sections:
         button: 
         url: /faq/
     - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+        title:
+        subtitle:
+        button:
 ---
 

@@ -2,9 +2,8 @@
 layout: homepage
 title: The Digital Academy Learning Festival (by GovTech)
 description: Championing Digital Confidence in Public Service
-image: /images/isomer-logo.svg
+image: /images/tda-logo.png
 permalink: /
-notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: Learning Festival

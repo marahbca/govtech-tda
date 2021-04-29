@@ -11,21 +11,5 @@ sections:
         background: /images/website-header.jpg
         button: Register Interest
         url: /contact-us/
-        key_highlights:
-            - title: 
-              description: 
-              url: 
-            - title: 
-              description: 
-              url: 
-            - title: 
-              description:
-              url: 
-    - infobar:
-        title: Be at the intersection of technology and public service
-        subtitle: The Digital Academy
-        description: Test
-        button: 
-        url: /faq/
 ---
 

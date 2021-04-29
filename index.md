@@ -11,6 +11,12 @@ sections:
         background: /images/website-header.jpg
         button: Register Interest
         url: /contact-us/
+    - infobar:
+        title: Be At The Intersection of Technology and Public Service
+        subtitle: The Digital Academy
+        description: Join us for a week-long immersive learning experience and get a taster of courses that will be delivered at The Digital Academy!
+        button: Register Interest
+        url: /faq/
 ---
 sections:
 # Be At The Intersection of Technology and Public Service

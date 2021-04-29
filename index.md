@@ -6,7 +6,7 @@ image: /images/tda-logo.png
 permalink: /
 sections:
     - hero:
-        title: The Digital Academy Learning Festival (by GovTech)
+        title: The Digital Academy Learning Festival
         subtitle: 31 May to 4 June
         background: /images/website-header.jpg
         button: Register Interest

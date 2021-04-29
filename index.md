@@ -27,9 +27,5 @@ sections:
         description: Hello testing!
         button: 
         url: /faq/
-    - resources:
-        title:
-        subtitle:
-        button:
 ---
 

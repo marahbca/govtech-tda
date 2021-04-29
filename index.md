@@ -9,7 +9,7 @@ sections:
         title: Learning Festival
         subtitle: 31 May to 4 June
         background: /images/website-header.jpg
-        button: Contact Us
+        button: Register Interest
         url: /contact-us/
         key_highlights:
             - title: Highlight A

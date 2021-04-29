@@ -7,7 +7,7 @@ permalink: /
 sections:
     - hero:
         title: Learning Festival
-        subtitle: Championing Digital Confidence in Public Service
+        subtitle: 31 May to 4 June
         background: /images/website-header.jpg
         button: Contact Us
         url: /contact-us/

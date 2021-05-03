@@ -13,7 +13,9 @@ permalink: /speakers
   </tr>
     <tr>
     <td width="30%"><img src="https://via.placeholder.com/200x200" alt="Partner 1"></td>
-    <td width="70%">Information</td>
+    <td width="70%">Ms Lim Wee Khee and Mr Eugene Wong are practitioners and lecturers from Digital Innovation and Design Practice at the NUS-ISS,  supporting organisations in their digital transformation journeys through skills development, mentoring and consultancy in the areas of user experience, service design, design thinking and digital marketing. 
+ 
+Wee Khee, as the practice lead, drives curriculum design and brings years of leadership experience in digital initiatives and customer-centric programmes for MNCs in consumer technology, electronics, telecommunications industries and government sectors.   A strong collaborator and people developer, she is interested in building capabilities and developing competencies in the domain of customer experience design, digital marketing, and ecommerce, combining both industry application with education.</td>
   </tr>
     <tr>
     <td width="30%"><img src="https://via.placeholder.com/200x200" alt="Partner 1"></td>

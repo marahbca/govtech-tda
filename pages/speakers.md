@@ -5,7 +5,7 @@ permalink: /speakers
 
 <table>
   <tr>
-    <td width="30%"><img src="/images/nirmal" alt="nirmal"></td>
+    <td width="30%"><img src="/images/nirmal.png" alt="nirmal"></td>
     <td width="70%"> <strong>Mr Nirmal Raja Palaparthi </strong><br>
     <em>Principal Lecturer & Consultant, Data Science Practice, NUS-ISS </em>
     <br> <br>

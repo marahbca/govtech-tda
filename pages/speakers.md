@@ -26,6 +26,7 @@ Wee Khee, as the practice lead, drives curriculum design and brings years of lea
     <em>Senior Lecturer & Consultant, Digital Innovation & Design Practice, NUS-ISS</em>
     <br><br> 
     <p>Mr Eugene Wong is a practitioner and lecturer from Digital Innovation and Design Practice at the NUS-ISS,  supporting organisations in their digital transformation journeys through skills development, mentoring and consultancy in the areas of user experience, service design, design thinking and digital marketing. 
+      
   Eugene has a strong background in driving digital innovation initiatives across diverse industries including logistics, banking, healthcare, education, defence and media. He employs a mix of human-centered design and lean methodologies to achieve business viable and technologically feasible solutions that solve the right customer problems.  Eugene’s previous roles include leading a team of UX researchers and designers at NCS Digital, building team competencies in user research, design thinking, prototyping, and concept/usability testing, as well as driving several transformation project in the public sector.</p></td>
   </tr>
     <tr>

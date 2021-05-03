@@ -1,5 +1,5 @@
 ---
-title: Tournament
+title: The Coding Tournament
 permalink: /tournament
 ---
 

@@ -56,7 +56,7 @@ Vivek has over a decade of experience in security and has keen interest in the a
   </tr>
     <tr>
     <td width="30%"><img src="https://via.placeholder.com/200x200" alt="Partner 7"></td>
-  <td width="70%"><strong> Mr CK Tan </strong> <br>
+  <td width="70%"><strong> Mr Tan Chin Kuan </strong> <br>
     <em>Senior Director, Solutions & Value Engineering, Qlik </em> 
     <br><br>
     <p>CK is a Senior Director in Solutions and Value Engineering at Qlik. His team focus on business value consulting and advises top strategic clients in Asia Pacific to create strategic, well-aligned data and analytics solutions. As a design thinking practitioner, he often incorporates human-centred design to help businesses transform their business by adopting data-first culture and sustainable data-driven practices. 

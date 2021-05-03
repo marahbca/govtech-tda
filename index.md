@@ -14,14 +14,14 @@ sections:
     - infobar:
         title: Be At The Intersection of Technology and Public Service
         subtitle: The Digital Academy
-        description: Join us for a week-long immersive learning festival and get a taste of courses that will be delivered at The Digital Academy! <br> 
+        description: Join us for a week-long immersive learning festival and get a taste of courses that will be delivered at The Digital Academy! <br> <br>
         We have lined up a series of exciting programmes available to everyone across the public service. There is also an e-exhibition that will showcase innovative projects from GovTech, designed to tackle challenges with the use of technology.
         button: Register Interest
         url: /faq/
 ---
 
 # Be At The Intersection of Technology and Public Service
-Join us for a week-long immersive learning festival and get a taste of courses that will be delivered at The Digital Academy! <br> 
+Join us for a week-long immersive learning festival and get a taste of courses that will be delivered at The Digital Academy! <br> <br>
         We have lined up a series of exciting programmes available to everyone across the public service. There is also an e-exhibition that will showcase innovative projects from GovTech, designed to tackle challenges with the use of technology
 
 

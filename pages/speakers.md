@@ -56,10 +56,19 @@ Vivek has over a decade of experience in security and has keen interest in the a
   </tr>
     <tr>
     <td width="30%"><img src="https://via.placeholder.com/200x200" alt="Partner 7"></td>
-    <td width="70%">Information</td>
+  <td width="70%"><strong> Mr CK Tan </strong> <br>
+    <em>Senior Director, Solutions & Value Engineering, Qlik </em> 
+    <br><br>
+    <p>CK is a Senior Director in Solutions and Value Engineering at Qlik. His team focus on business value consulting and advises top strategic clients in Asia Pacific to create strategic, well-aligned data and analytics solutions. As a design thinking practitioner, he often incorporates human-centred design to help businesses transform their business by adopting data-first culture and sustainable data-driven practices. 
+      
+He brings to his role over 15 years of progressive experience in consulting, product marketing and industry sales within the Analytics and Technology space. He has extensive experience in leading consultancy practice teams whose focus is on delivering business value and driving customer success within data and analytics.</p></td>
   </tr>
     <tr>
-    <td width="30%"><img src="https://via.placeholder.com/200x200" alt="Partner 1"></td>
-    <td width="70%">Information</td>
+    <td width="30%"><img src="https://via.placeholder.com/200x200" alt="Partner 8"></td>
+  <td width="70%"><strong> Mr Mohammad Adeel Khan </strong><br>
+    <em>Technology Specialist, Microsoft </em> 
+    <br><br>
+    <p>Adeel is a seasoned Technology professional with experience in various digitization solutions for various industries. Experienced in devising, envisioning and managing implementations for Enterprise wide solutions with special focus on Microsoft Dynamics CRM. Fortunate to work with global brands in EMEA and APAC region.</p>
+</td>
   </tr>
 </table>

@@ -45,7 +45,7 @@ Wee Khee, as the practice lead, drives curriculum design and brings years of lea
   </tr>
     <tr>
     <td width="30%"><img src="https://via.placeholder.com/200x200" alt="Partner 6"></td>
-  <td width="70%"><strong Mr Vivek Ramachandran </strong> <br>
+  <td width="70%"><strong> Mr Vivek Ramachandran </strong> <br>
     <em>Founder & CEO, Pentester Academy </em>
     <br><br>
     <p>He discovered the Caffe Latte attack, broke WEP Cloaking - a WEP protection schema, conceptualized enterprise Wi-Fi Backdoors and created Chellam, the world's first Wi-Fi Firewall. He is also the author of multiple five star rated books which have together sold over 13,000+ copies worldwide and have been translated to multiple languages.

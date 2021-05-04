@@ -21,7 +21,7 @@ permalink: /speakers
 Wee Khee, as the practice lead, drives curriculum design and brings years of leadership experience in digital initiatives and customer-centric programmes for MNCs in consumer technology, electronics, telecommunications industries and government sectors.   A strong collaborator and people developer, she is interested in building capabilities and developing competencies in the domain of customer experience design, digital marketing, and ecommerce, combining both industry application with education.</p></td>
   </tr>
     <tr>
-    <td width="30%"><img src="https://via.placeholder.com/200x200" alt="Partner 3"></td>
+    <td width="30%"><img src="/images/eugene.png" alt="eugene"></td>
   <td width="70%"><strong> Mr Eugene Wong </strong><br>
     <em>Senior Lecturer & Consultant, Digital Innovation & Design Practice, NUS-ISS</em>
     <br>

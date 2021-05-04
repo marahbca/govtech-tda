@@ -10,5 +10,5 @@ permalink: /tournament
 <p><strong>How it works:</strong></p>
 <p>Join and complete challenges anytime between 31st May and 4th June. You will need between 60-90 minutes to complete the challenges. </p>
 <br><br>
-<a href="#!">Register Now</a>
+<a href="https://form.gov.sg/#!/608f46f439fe84001123dba2">Register Now</a>
 

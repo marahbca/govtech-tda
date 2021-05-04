@@ -14,7 +14,11 @@ sections:
     - infobar:
         title: Be At The Intersection of Technology and Public Service
         subtitle: The Digital Academy
-        description: Join us for a week-long immersive learning festival and get a taste of courses that will be delivered at The Digital Academy! We have lined up a series of exciting programmes available to everyone across the public service. There is also an e-exhibition that will showcase innovative projects from GovTech, designed to tackle challenges with the use of technology.
+        description: How will Cybersecurity affect public service in the next 5 years?
+What are the Challenges of Digital Product Development in the Public Sector?
+Why is it vital to upskill public service on ICT & SS competencies through The Digital Academy?
+Attend the complimentary week-long Learning Festival and hear from leading industry experts such as Google, Microsoft, NUS-ISS and more! Be immersed in a myriad of activities such as webinars, panel discussions, workshops and get a taste of courses that will be delivered at The Digital Academy. Designed for the public service, explore the line-up of exciting programmes and discover five different tracks in-depth on Cybersecurity (Day 1); Apps Infrastructure & ICT Infrastructure (Day 2), Apps Management & Apps Development (Day 3), Technology & Product Management and Data Science & AI (Day 4), New Technology (Day 5). Leave inspired by an innovative virtual exhibition showcasing GovTech projects and a virtual live band performance not to be missed.  
+.
         button: Register Interest
         url: https://form.gov.sg/608f46f439fe84001123dba2
 ---

@@ -9,6 +9,12 @@ permalink: /tournament
 <p>Prizes are awarded for 3 lucky prize draw participants. </p>
 <p><strong>How it works:</strong></p>
 <p>Join and complete challenges anytime between 31st May and 4th June. You will need between 60-90 minutes to complete the challenges. </p>
+<p><strong>Who can participate in the secure coding tournament?</strong></p>
+<p>This secure coding tournament is open to all, whether you are a developer or not. <br>
+You can join the following categories:<br>
+Category 1: Developers, Dev Managers, Appsec people<br>
+Category 2: Anyone interested in secure coding but may not be developers
+</p>
 <br><br>
 <a href="https://form.gov.sg/#!/608f46f439fe84001123dba2">Register Now</a>
 

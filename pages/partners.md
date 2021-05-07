@@ -9,7 +9,7 @@ In partnership with
   <tr>
     <td width="33%" align="center"><img src="/images/nus-iss.png" alt="nus-iss"></td>
     <td width="33%" align="center"><img src="/images/microsoft.png" alt="microsoft"></td>
-    <td width="33%" align="center"><img src="/images/securecodewarrior.png" alt="securecodewarrior"></td>
+    <td width="33%" align="center"><img src="/images/securecode.png" alt="securecodewarrior"></td>
   </tr>
   <tr>
     <td align="center"><img src="/images/qlik.png" alt="qlik"></td>

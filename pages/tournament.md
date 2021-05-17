@@ -8,7 +8,7 @@ permalink: /tournament
 <p>All challenges are based on the OWASP Top 10, and players can choose to compete in a range of software languages including Pseudocode for non-developers. Throughout the tournament, players earn points and watch as they climb to the top of the leaderboard. </p>
 <p>Prizes are awarded for 3 lucky prize draw participants. </p>
 <p><strong>How it works:</strong></p>
-<p>Join and complete challenges anytime between 31st May and 4th June. You will need between 60-90 minutes to complete the challenges. </p>
+<p>Join and complete challenges anytime between 21st and 25th June 2021. You will need between 60-90 minutes to complete the challenges. </p>
 <p><strong>Who can participate in the secure coding tournament?</strong></p>
 <p>This secure coding tournament is open to all, whether you are a developer or not. <br>
 You can join the following categories:<br>

@@ -3,22 +3,24 @@ title: Partners
 permalink: /partners
 ---
 
-In partnership with
-
+<h2>Operations Partner</h2>
+<img src="/images/logo-nusiss.jpg" alt="nus-iss">
+<br>
+<h2>In partnership with</h2>
 <table>
   <tr>
-    <td width="33%" align="center"><img src="/images/nus-iss.png" alt="nus-iss"></td>
-    <td width="33%" align="center"><img src="/images/microsoft.png" alt="microsoft"></td>
-    <td width="33%" align="center"><img src="/images/securecode.png" alt="securecodewarrior"></td>
+    <td width="33%" align="center"><img src="/images/logo-microsoft.jpg" alt="microsoft"></td>
+    <td width="33%" align="center"><img src="/images/logo-scw.jpg" alt="securecodewarrior"></td>
+    <td width="33%" align="center"><img src="/images/logo-qlik.jpg" alt="qlik"></td>
   </tr>
   <tr>
-    <td align="center"><img src="/images/qlik.png" alt="qlik"></td>
-    <td align="center"><img src="/images/google.png" alt="google"></td>
-    <td align="center"><img src="/images/coursera.png" alt="coursera"></td>
-    <td align="center"><img src="/images/trustwave.png" alt="trustwave"></td>
+    <td align="center"><img src="/images/logo-google.jpg" alt="google"></td>
+    <td align="center"><img src="/images/logo-coursera.jpg" alt="coursera"></td>
+    <td align="center"><img src="/images/logo-trustwave.jpg" alt="trustwave"></td>
   </tr>
-   <tr>
-   <td width="33%" align="center"><img src="/images/generalassembly.png" alt="generalassembly"></td>
-   <td width="33%" align="center"><img src="/images/trustwave.png" alt="trustwave"></td> 
+  <tr>
+   <td align="center"><img src="/images/logo-ga.jpg" alt="generalassembly"></td>
+   <td align="center"></td>
+   <td align="center"></td>
   </tr>
 </table>

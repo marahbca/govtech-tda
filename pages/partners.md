@@ -4,7 +4,7 @@ permalink: /partners
 ---
 
 <h2>Operations Partner</h2>
-<img src="/images/logo-nusiss.jpg" alt="nus-iss">
+<img src="/images/logo-nusiss.jpg" style="max-width:250px;" alt="Institute of Systems Science, NUS">
 <br>
 <h2>In partnership with</h2>
 <table>

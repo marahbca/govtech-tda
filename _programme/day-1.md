@@ -8,7 +8,7 @@ breadcrumb: 'Day 1'
 **Mon, 21 Jun 2021**
 <br>
 <a href="https://form.gov.sg/60b5e79d0ae04100136c1b04" class="bp-button is-secondary is-uppercase search-button">Register Now</a>
-<hr>
+<hr style="margin-top:0;">
 <table>
   <tr>
     <td width="20%"><strong>1.30pm - 2.30pm</strong></td>

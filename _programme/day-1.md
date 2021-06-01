@@ -46,7 +46,7 @@ moderated by DN Prasad
 
 <table>
   <tr>
-    <td width="20%">3.30pm - 3.45pm</td>
+    <td width="20%"><strong>3.30pm - 3.45pm</strong></td>
     <td width="80%">
       <h4>Intermission</h4>
       
@@ -58,7 +58,7 @@ moderated by DN Prasad
 
 <table>
   <tr>
-    <td width="20%">3.45pm - 4.45pm</td>
+    <td width="20%" style="border-right: 2px solid;"><strong>3.45pm - 4.45pm</strong></td>
     <td width="40%">
       <h4>Digital Academy Secure Coding Tournament</h4>
       Jaap K Singh, Secure Code Warrior
@@ -74,7 +74,7 @@ moderated by DN Prasad
 
 <table>
   <tr>
-    <td width="20%">4.45pm - 5.00pm</td>
+    <td width="20%"><strong>4.45pm - 5.00pm</strong></td>
     <td width="80%">
       <h4>Intermission</h4>
       
@@ -86,7 +86,7 @@ moderated by DN Prasad
 
 <table>
   <tr>
-    <td width="20%">5.00pm - 6.00pm</td>
+    <td width="20%"><strong>5.00pm - 6.00pm</strong></td>
     <td width="40%">
       <h4>Fireside Chat on cyber attacks targeting public sectors (tbc)</h4>
       Wilson Tan and Jim Fitzsimmons, Singtel Trustwave

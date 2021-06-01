@@ -4,7 +4,9 @@ permalink: /programme/day-1/
 breadcrumb: 'Day 1'
 
 ---
-### **Mon, 21 Jun 2021**
+### Cybersecurity
+**Mon, 21 Jun 2021**
+
 <hr>
 <table>
   <tr>

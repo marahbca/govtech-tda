@@ -98,7 +98,7 @@ breadcrumb: 'Day 3'
     <td width="20%"><strong>1.15pm - 2.15pm</strong></td>
     <td width="40%" style="border-right: 2px solid #cccccc;">
       <h4>Democratizing Application Development</h4>
-      Adeel Khan, Microsof
+      Adeel Khan, Microsoft
     </td>
     <td width="40%">
       <h4>Applications Security In The Age of Cyber</h4>

@@ -5,7 +5,9 @@ breadcrumb: 'Day 2'
 
 ---
 
-### **Tue, 22 Jun 2021**
+### Apps Infrastructure & ICT Infrastructure
+**Tue, 22 Jun 2021**
+
 <hr>
 <table>
   <tr>

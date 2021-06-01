@@ -6,7 +6,7 @@ breadcrumb: 'Day 1'
 ---
 ### Cybersecurity
 **Mon, 21 Jun 2021**
-
+<a href="https://form.gov.sg/60b5e79d0ae04100136c1b04" class="bp-button is-secondary is-uppercase search-button">Register Now</a>
 <hr>
 <table>
   <tr>

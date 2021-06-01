@@ -92,7 +92,7 @@ moderated by DN Prasad
       Wilson Tan and Jim Fitzsimmons, Singtel Trustwave
     </td>
     <td width="40%">
-      
+      <h4>-</h4>
       Pentester Academy 
     </td>
   </tr>

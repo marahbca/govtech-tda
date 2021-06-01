@@ -5,7 +5,7 @@ breadcrumb: 'Day 4'
 
 ---
 
-### **Technology & Product Management and Data Science & AI**
+### Technology & Product Management and Data Science & AI
 **Thu, 24 Jun 2021**
 
 <hr>

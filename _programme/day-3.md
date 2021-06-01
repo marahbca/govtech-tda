@@ -5,8 +5,9 @@ breadcrumb: 'Day 3'
 
 ---
 
-### **Wed, 23 Jun 2021**
-### Apps Management & Apps Development
+### **Apps Management & Apps Development**
+**Wed, 23 Jun 2021**
+
 <hr>
 <table>
   <tr>

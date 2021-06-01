@@ -4,7 +4,8 @@ permalink: /programme/day-5/
 breadcrumb: 'Day 5'
 
 ---
-### CNew Technology - Sensors IoT, Modelling & Simulation, Digital Leadership
+
+### New Technology - Sensors IoT, Modelling & Simulation, Digital Leadership
 **Fri, 25 Jun 2021**
 
 <hr>

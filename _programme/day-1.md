@@ -5,9 +5,10 @@ breadcrumb: 'Day 1'
 
 ---
 ### **Mon, 21 Jun 2021**
+<hr>
 <table>
   <tr>
-    <td width="20%">1.30pm - 2.30pm</td>
+    <td width="20%"><strong>1.30pm - 2.30pm</strong></td>
     <td width="80%">
     <h4>Introduction to The Digital Academy by DN Prasad</h4>
 Panel discussion – How DA is doing to upskill public service on ICT & SS competency framework (topic tbc)
@@ -21,7 +22,7 @@ moderated by DN Prasad
 
 <table>
   <tr>
-    <td width="20%">2.30pm - 2.50pm</td>
+    <td width="20%"><strong>2.30pm - 2.50pm</strong></td>
     <td width="80%">
       <h4>SecureCode Warrior Coding Tournament announcement</h4>
       (by Chin Loon & SCW)
@@ -33,7 +34,7 @@ moderated by DN Prasad
 
 <table>
   <tr>
-    <td width="20%">2.50pm - 3.30pm</td>
+    <td width="20%"><strong>2.50pm - 3.30pm</strong></td>
     <td width="80%">
       <h4>Panel discussion: Transition to Zero trust for Government</h4>
       Panelist –Microsoft, CSA, moderator by Chin Loon

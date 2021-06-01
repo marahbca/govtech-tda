@@ -4,7 +4,7 @@ permalink: /programme/day-1/
 breadcrumb: 'Day 1'
 
 ---
-
+### **Mon, 21 Jun 2021**
 <table>
   <tr>
     <td width="20%">1.30pm - 2.30pm</td>

@@ -98,23 +98,3 @@ moderated by DN Prasad
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="20%">1.30pm - 2.30pm</td>
-    <td width="40%">
-    
-    </td>
-    <td width="40%">
-    
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="20%">1.30pm - 2.30pm</td>
-    <td width="80%">
-    
-    </td>
-  </tr>
-</table>

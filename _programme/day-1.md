@@ -64,11 +64,14 @@ moderated by DN Prasad
     <td width="20%"><strong>3.45pm - 4.45pm</strong></td>
     <td width="40%" style="border-right: 2px solid #cccccc;">
       <h4>Digital Academy Secure Coding Tournament</h4>
-      Jaap K Singh, Secure Code Warrior
+      Jaap K Singh, Chief Singh & Co-Founder,Secure Code Warrior
+      <br><br>
+      Discover and put your secure coding skills to test at this live Secure Code Warrior tournament! Compete against the other participants in a series of vulnerable code         challenges based on the OWASP Top 10. Players can choose to compete in a range of software languages, including Pseudocode for non-developers. 
     </td>
     <td width="40%">
       <h4>Rise of Human Operated Ransomware across Asia</h4>
-      Avinash  Lotke, Microsoft<br><br>
+      Avinash Lotke, Head of Security Solutions - APJ, Microsoft<br><br>
+      Unlike commodity ransomware, which only requires malware remediation, human-operated ransomware is a significant and growing threat in most industries. These “hands-on-       keyboard” attacks leverage human attackers’ knowledge of system and security misconfigurations to infiltrate a network, adapting to the network and its weak points           along the way.
     </td>
   </tr>
 </table>
@@ -91,12 +94,16 @@ moderated by DN Prasad
   <tr>
     <td width="20%"><strong>5.00pm - 6.00pm</strong></td>
     <td width="40%" style="border-right: 2px solid #cccccc;">
-      <h4>Fireside Chat on cyber attacks targeting public sectors (tbc)</h4>
+      <h4>It is a matter of when, NOT if.  Leadership lessons from managing response and recovery from cyber-attacks targeting public sector.</h4>
       Wilson Tan and Jim Fitzsimmons, Singtel Trustwave
+      <br><br>
+      Are you ready when your agency is hit with a cyber-attack? Agency leadership must be prepared for challenges much more complex than a simple technology incident. Beyond       the technical response of triage, investigation and remediation, a whole-of-organisation response is required to navigate the agency through the crisis.
     </td>
     <td width="40%">
-      <h4>-</h4>
-      Pentester Academy 
+      <h4>Cybersecurity Education: Evolving with the Times</h4>
+      Vivek Ramachandran, Founder & CEO, Pentester Academy 
+      <br><br>
+      With almost all aspects of our lives now online, the virtual space is a lucrative target for hackers – yet cybersecurity professionals have been unable to up-skill          themselves in time. This talk explores the core challenges of cybersecurity education and how organisations can better prepare themselves against cyber-threats.
     </td>
   </tr>
 </table>

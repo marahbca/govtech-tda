@@ -71,11 +71,10 @@ breadcrumb: 'Day 3'
 <table>
   <tr>
     <td width="20%"><strong>11.15am - 12.15pm</strong></td>
-    <td width="40%" style="border-right: 2px solid #cccccc;">
+    <td width="80%">
       <h4>Simply API management with Apigee and/or AppSheet, Google's no-code app building platform</h4>
       Google
-    </td>
-    <td width="40%">
+    
       <h4>DevOps in App Development </h4>
       Mahesh Krishnamurthy,Business Head of ECCI(Apex Global)
       <br><br>
@@ -100,11 +99,10 @@ breadcrumb: 'Day 3'
 <table>
   <tr>
     <td width="20%"><strong>1.15pm - 2.15pm</strong></td>
-    <td width="40%" style="border-right: 2px solid #cccccc;">
+    <td width="80%">
       <h4>Democratizing Application Development</h4>
       Adeel Khan, Microsoft
-    </td>
-    <td width="40%">
+    <hr>
       <h4>Applications Security In The Age of Cyber</h4>
       John Lim,  Nanyang Polytechnic
     </td>
@@ -127,11 +125,10 @@ breadcrumb: 'Day 3'
 <table>
   <tr>
     <td width="20%"><strong>2.30pm - 3.30pm</strong></td>
-    <td width="40%" style="border-right: 2px solid #cccccc;">
+    <td width="80%">
       <h4>TBC</h4>
       -
-    </td>
-    <td width="40%">
+    <hr>
       <h4>Harnessing The Full Value of Digital Transformation Through Your People</h4>
       Dr Yong Hsin Ning, Co-Founder & Director,Change Voyage
       <br><br>
@@ -156,11 +153,10 @@ breadcrumb: 'Day 3'
 <table>
   <tr>
     <td width="20%"><strong>3.45pm - 4.45pm</strong></td>
-    <td width="40%" style="border-right: 2px solid #cccccc;">
+    <td width="80%">
       <h4>TBC</h4>
       Eyung, GovTech
-    </td>
-    <td width="40%">
+    <hr>
       <h4>Automated Security And Compliance</h4>
       Florian Sellmayr,Head of Technology (Southeast Asia),ThoughtWorks
       <br><br> 
@@ -185,13 +181,12 @@ breadcrumb: 'Day 3'
 <table>
   <tr>
     <td width="20%"><strong>3.45pm - 4.45pm</strong></td>
-    <td width="40%" style="border-right: 2px solid #cccccc;">
+    <td width="80%">
       <h4>Implementing successful Outsourced Agile Project</h4>
       Angela Lim,Senior Assistant Director, WINS Outsource, Ministry of Manpower
       <br><br>
       Agile development and software outsourcing are concepts that don’t automatically go hand in hand and come with their unique set of challenges. But when done right,           agile outsourcing can significantly boost the effectiveness of IT projects. In this talk, learn about how to make outsourced agile projects a success.
-    </td>
-    <td width="40%">
+    <hr>
       <h4>TBC</h4>
       by Processworks
     </td>

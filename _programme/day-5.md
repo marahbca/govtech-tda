@@ -109,7 +109,7 @@ breadcrumb: 'Day 5'
       Timothy Tan, GovTech
     <hr>
       <h4>TBC</h4>
-      Max Neo, NUS-ISSh
+      Max Neo, NUS-ISS
     </td>
   </tr>
 </table>
@@ -134,7 +134,7 @@ breadcrumb: 'Day 5'
       <h4>Leadership and the Heartware for Enabling Digital Transformation</h4>
       Tan Chi Siong,Chief, MTech Digital Leadership Programme, NUS-ISS
       <br><br>
-      In a digital age, a leader needs to empower people to thrive through the evolution and complexities of the digital space. Learn about the heartware of digital                 leadership in a VUCA environment, and the key to creating a trusting culture and building adaptive capabilities for an end-to-end transformation.
+      In a digital age, a leader needs to empower people to thrive through the evolution and complexities of the digital space. Learn about the heartware of digital leadership in a VUCA environment, and the key to creating a trusting culture and building adaptive capabilities for an end-to-end transformation.
     <hr>
       <h4>TBC</h4>
       -

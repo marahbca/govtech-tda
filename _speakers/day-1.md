@@ -1,6 +1,6 @@
 ---
 title: Speakers - Day 1
-permalink: /day-1
+permalink: /speakers/day-1
 ---
 
 <table>

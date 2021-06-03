@@ -49,10 +49,10 @@ breadcrumb: 'Day 2'
     <td width="80%">
       <h4>Observability And Recovery In The Cloud</h4>
       Aditi Agarwal, Senior Software Development Consultant, ThoughtWorks <br> <br>
-      A major benefit of going cloud-native is that systems are able to respond to problems in near real-time. This session covers topics including the difference between           observability and monitoring, how to pick observability targets, and how to design systems that can find and handle unknown unknowns.
+      A major benefit of going cloud-native is that systems are able to respond to problems in near real-time. This session covers topics including the difference between observability and monitoring, how to pick observability targets, and how to design systems that can find and handle unknown unknowns.
    <hr>
-      <h4>-</h4>
-      Lee Chuk Mun, NUS-ISS (TBC)
+      <h4>TBC</h4>
+      Lee Chuk Mun, NUS-ISS
     </td>
   </tr>
 </table>
@@ -162,7 +162,8 @@ breadcrumb: 'Day 2'
   <tr>
     <td width="20%"><strong>3.45pm - 4.45pm</strong></td>
     <td width="80%">
-      <h4>Session by ICT Infrastructure</h4>
+      <h4>TBC</h4>
+      ICT Infrastructure
     </td>
   </tr>
 </table>

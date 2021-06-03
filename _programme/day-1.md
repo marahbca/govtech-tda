@@ -94,7 +94,7 @@ moderated by DN Prasad
     <td width="20%"><strong>5.00pm - 6.00pm</strong></td>
     <td width="80%">
       <h4>It is a matter of when, NOT if.  Leadership lessons from managing response and recovery from cyber-attacks targeting public sector.</h4>
-      Wilson Tan and Jim Fitzsimmons, Singtel Trustwave
+      Wilson Tan, Director, Trustwave and Jim Fitzsimmons, Director, Control Risks
       <br><br>
       Are you ready when your agency is hit with a cyber-attack? Agency leadership must be prepared for challenges much more complex than a simple technology incident. Beyond       the technical response of triage, investigation and remediation, a whole-of-organisation response is required to navigate the agency through the crisis.
     <hr>

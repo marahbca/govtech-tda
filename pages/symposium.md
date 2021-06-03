@@ -54,7 +54,7 @@ AWS, Coursera, Google, Microsoft, Qlik, Secure Code Warrior, TrustWave, Tableau 
     <td>
       <strong>Symposium commence</strong>
       <br>
-    <td>Keynote by Mr Patrick Teo, Head of Engineering for Payments, Next Billion Users and Site Leader for Google Singapore </td>
+    Keynote by Mr Patrick Teo, Head of Engineering for Payments, Next Billion Users and Site Leader for Google Singapore </td>
   </tr>
 
   <tr>

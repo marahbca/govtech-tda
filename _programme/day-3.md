@@ -185,10 +185,10 @@ breadcrumb: 'Day 3'
       <h4>Implementing successful Outsourced Agile Project</h4>
       Angela Lim,Senior Assistant Director, WINS Outsource, Ministry of Manpower
       <br><br>
-      Agile development and software outsourcing are concepts that don’t automatically go hand in hand and come with their unique set of challenges. But when done right,           agile outsourcing can significantly boost the effectiveness of IT projects. In this talk, learn about how to make outsourced agile projects a success.
+      Agile development and software outsourcing are concepts that don’t automatically go hand in hand and come with their unique set of challenges. But when done right, agile outsourcing can significantly boost the effectiveness of IT projects. In this talk, learn about how to make outsourced agile projects a success.
     <hr>
       <h4>TBC</h4>
-      by Processworks
+      Processworks
     </td>
   </tr>
 </table>

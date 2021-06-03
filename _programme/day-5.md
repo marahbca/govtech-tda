@@ -48,7 +48,9 @@ breadcrumb: 'Day 5'
     <td width="20%"><strong>10.00am - 11.00am</strong></td>
     <td width="40%" style="border-right: 2px solid #cccccc;">
       <h4>Driving Smart Urban Solutions with IOT</h4>
-      Dr Matthew Chua, NUS-ISS 
+      Dr Matthew Chua,Lecturer & Consultant, Smart Health Leadership Centre, NUS-ISS
+      <br><br>
+      With the upward trend in IoT adoption and the government’s focus on Smart Nation initiatives, there has been increasing interest in the smart city ecosystem. Dr Matthew       Chua will share how his team at NUS-ISS spearheaded IoT projects to improve quality of life in urban Singapore.
     </td>
     <td width="40%">
       <h4>TBC</h4>
@@ -75,12 +77,16 @@ breadcrumb: 'Day 5'
     <td width="20%"><strong>11.15am - 12.15pm</strong></td>
     <td width="40%" style="border-right: 2px solid #cccccc;">
       <h4>The Design and Manufacturing Journey behind TraceTogether Tokens</h4>
-      Yang Boon, GovTech
+      Quek Yang Boon,Director (SIoT), GovTech
+      <br><br>
+      Enabling the digitally excluded to participate in the national TraceTogether initiative was a problem statement tasked to the Sensors and IoT team of GovTech – and the       TraceTogether Token is the solution. Yang Boon will share how they brought a product from concept to mass distribution within a matter of months.  
     </td>
     <td width="40%">
       <h4>Azure Quantum and Industry Use Cases</h4>
-      Ujjwal Kumar, Microsoft 
-    </td>
+      Ujjwal Kumar,Lead Architect, Microsoft
+      <br><br>
+      Quantum Computing is the future in which we move beyond binary computing to something very different. Ujjwal Kumar will provide an overview of Microsoft's Quantum             approach and how Microsoft is partnering with companies today to prepare for Quantum. He will also talk about various use cases and current industry engagements.
+  </td>
   </tr>
 </table>
 
@@ -129,7 +135,9 @@ breadcrumb: 'Day 5'
     <td width="20%"><strong>2.30pm - 3.30pm</strong></td>
     <td width="40%" style="border-right: 2px solid #cccccc;">
       <h4>Leadership and the Heartware for Enabling Digital Transformation</h4>
-      Tan Chi Siong, NUS-ISS
+      Tan Chi Siong,Chief, MTech Digital Leadership Programme, NUS-ISS
+      <br><br>
+      In a digital age, a leader needs to empower people to thrive through the evolution and complexities of the digital space. Learn about the heartware of digital                 leadership in a VUCA environment, and the key to creating a trusting culture and building adaptive capabilities for an end-to-end transformation.
     </td>
     <td width="40%">
       <h4>TBC</h4>

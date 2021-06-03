@@ -7,7 +7,7 @@ breadcrumb: 'Day 1'
 ### Cybersecurity
 **Mon, 21 Jun 2021**
 <br>
-<a href="https://form.gov.sg/60b5e79d0ae04100136c1b04" class="bp-button is-secondary is-uppercase search-button">Register Now</a>
+<a href="https://form.gov.sg/60b5ff7eadb885001238b51a" class="bp-button is-secondary is-uppercase search-button" target="_blank">Register Now</a>
 <hr style="margin-top:0;">
 <table>
   <tr>
@@ -108,4 +108,4 @@ moderated by DN Prasad
 
 <hr>
 <br>
-<a href="https://form.gov.sg/60b5e79d0ae04100136c1b04" class="bp-button is-secondary is-uppercase search-button">Register Now</a>
+<a href="https://form.gov.sg/60b5ff7eadb885001238b51a" class="bp-button is-secondary is-uppercase search-button" target="_blank">Register Now</a>

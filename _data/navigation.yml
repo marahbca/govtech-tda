@@ -9,10 +9,12 @@ logo: /images/tda-logo.png
 links:
   - title: Home
     url: /
-  - title: Speakers
-    url: /speakers/
+  - title: Symposium
+    url: /symposium/
   - title: Programme
     url: /programme/day-1
+  - title: Speakers
+    url: /speakers/
   - title: Tournament
     url: /tournament/
   - title: Partners

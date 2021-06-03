@@ -54,7 +54,9 @@ breadcrumb: 'Day 2'
       A major benefit of going cloud-native is that systems are able to respond to problems in near real-time. This session covers topics including the difference between observability and monitoring, how to pick observability targets, and how to design systems that can find and handle unknown unknowns.
    <hr>
       <h4>TBC</h4>
-      Lee Chuk Mun, NUS-ISS
+      <em>Lee Chuk Mun, NUS-ISS</em>
+      <br><br>
+      -
     </td>
   </tr>
 </table>
@@ -77,12 +79,14 @@ breadcrumb: 'Day 2'
     <td width="20%"><strong>11.15am - 12.15pm</strong></td>
     <td width="80%">
       <h4>Infrastructure Modernization with Google Cloud</h4>
-      Google
+      <em>Google</em>
+      <br><br>
+      -
     <hr>
       <h4>Operations Challenges for GCC Project</h4>
       <em>Melvin KL Wong, Lead Infrastructure Architect, GovTech</em>
       <br><br> 
-      GovTech adopted a multi-cloud approach to advance our digital transformation – but operating and managing multiple cloud service providers poses distinct challenges. In       this session, our Lead Infrastructure Architect Melvin Wong shares some of the challenges faced by GovTech on its cloud journey and how we have overcome them.
+      GovTech adopted a multi-cloud approach to advance our digital transformation – but operating and managing multiple cloud service providers poses distinct challenges. In this session, our Lead Infrastructure Architect Melvin Wong shares some of the challenges faced by GovTech on its cloud journey and how we have overcome them.
     </td>
   </tr>
 </table>

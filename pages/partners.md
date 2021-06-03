@@ -19,8 +19,17 @@ permalink: /partners
     <td align="center"><img src="/images/logo-trustwave.jpg" style="max-width:250px;" alt="trustwave"></td>
   </tr>
   <tr>
-   <td align="center"><img src="/images/logo-ga.jpg" style="max-width:250px;" alt="generalassembly"></td>
-   <td align="center"></td>
-   <td align="center"></td>
+   <td align="center"><img src="/images/aws.png" style="max-width:250px;" alt="amazonwebservices"></td>
+   <td align="center"><img src="/images/changevoyage.png" style="max-width:250px;" alt="changevoyage"></td>
+   <td align="center"><img src="/images/govtech.png" style="max-width:250px;" alt="govtech"></td>
+  </tr>
+  <tr>
+   <td align="center"><img src="/images/processworks.png" style="max-width:250px;" alt="processworks"></td>
+   <td align="center"><img src="/images/tableau.png" style="max-width:250px;" alt="tableau"></td>
+   <td align="center"><img src="/images/thoughtworks.png" style="max-width:250px;" alt="thoughtworks"></td>
+  </tr>
+  <tr>
+   <td align="center"><img src="/images/nyp.png" style="max-width:250px;" alt="nanyangpoly"></td>
+   <td align="center"><img src="/images/pentesteracademy.png" style="max-width:250px;" alt="pentesteracademy"></td>
   </tr>
 </table>

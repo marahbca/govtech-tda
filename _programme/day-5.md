@@ -107,10 +107,14 @@ breadcrumb: 'Day 5'
     <td width="20%"><strong>1.15pm - 2.15pm</strong></td>
     <td width="80%">
       <h4>TBC</h4>
-      Timothy Tan, GovTech
+      <em>Timothy Tan, GovTech</em>
+      <br><br>
+      -
     <hr>
       <h4>TBC</h4>
-      Max Neo, NUS-ISS
+      <em>Max Neo, NUS-ISS</em>
+      <br><br>
+      -
     </td>
   </tr>
 </table>

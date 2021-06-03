@@ -62,16 +62,15 @@ moderated by DN Prasad
 <table>
   <tr>
     <td width="20%"><strong>3.45pm - 4.45pm</strong></td>
-    <td width="40%" style="border-right: 2px solid #cccccc;">
+    <td width="80%">
       <h4>Digital Academy Secure Coding Tournament</h4>
       Jaap K Singh, Chief Singh & Co-Founder,Secure Code Warrior
       <br><br>
-      Discover and put your secure coding skills to test at this live Secure Code Warrior tournament! Compete against the other participants in a series of vulnerable code         challenges based on the OWASP Top 10. Players can choose to compete in a range of software languages, including Pseudocode for non-developers. 
-    </td>
-    <td width="40%">
+      Discover and put your secure coding skills to test at this live Secure Code Warrior tournament! Compete against the other participants in a series of vulnerable code challenges based on the OWASP Top 10. Players can choose to compete in a range of software languages, including Pseudocode for non-developers. 
+    <hr>
       <h4>Rise of Human Operated Ransomware across Asia</h4>
       Avinash Lotke, Head of Security Solutions - APJ, Microsoft<br><br>
-      Unlike commodity ransomware, which only requires malware remediation, human-operated ransomware is a significant and growing threat in most industries. These “hands-on-       keyboard” attacks leverage human attackers’ knowledge of system and security misconfigurations to infiltrate a network, adapting to the network and its weak points           along the way.
+      Unlike commodity ransomware, which only requires malware remediation, human-operated ransomware is a significant and growing threat in most industries. These “hands-on-keyboard” attacks leverage human attackers’ knowledge of system and security misconfigurations to infiltrate a network, adapting to the network and its weak points along the way.
     </td>
   </tr>
 </table>

@@ -49,7 +49,7 @@ breadcrumb: 'Day 5'
     <td width="20%"><strong>10.00am - 11.00am</strong></td>
     <td width="80%">
       <h4>Driving Smart Urban Solutions with IOT</h4>
-      Dr Matthew Chua,Lecturer & Consultant, Smart Health Leadership Centre, NUS-ISS
+      *Dr Matthew Chua,Lecturer & Consultant, Smart Health Leadership Centre, NUS-ISS*
       <br><br>
       With the upward trend in IoT adoption and the government’s focus on Smart Nation initiatives, there has been increasing interest in the smart city ecosystem. Dr Matthew Chua will share how his team at NUS-ISS spearheaded IoT projects to improve quality of life in urban Singapore.
     <hr>

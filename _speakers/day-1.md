@@ -6,15 +6,16 @@ permalink: /speakers/day-1
 <table>
   <tr>
     <td width="30%"><img src="/images/nirmal.png" alt="nirmal"></td>
-    <td width="70%"> <strong>Mr Nirmal Raja Palaparthi </strong><br>
-    <em>Principal Lecturer & Consultant, Data Science Practice, NUS-ISS </em>
+    <td width="70%"> <strong>Mr Avinash  Lotke</strong><br>
+    <em>Head of Security Solutions (APJ), Microsoft </em>
     <br>
-    <p>Nirmal is an Analytics professional with 20 years of experience in building practices from ground up in Asia. He has Co-founded and successfully exited from two Analytics companies. The first was Fractal Analytics, India’s leading third party analytics provider and the second: Mobius Innovations, a context awareness platform company, which was acquired for building significant IP. He has consulted for clients in 15 countries, across Banking, Retail, Telecom, Consumer Product and Enterprise Software verticals. He has also built digital ecosystems for multiple clients. </p> </td>
+    <p>Avinash is a seasoned IT professional with a rare mix of Sales, Marketing and Technical Skills. He has introduce and grow new/incubation products, sustain mature products and worked across cross functional teams and geos to drive for results.</p> 
+  </td>
   </tr>
     <tr>
     <td width="30%"><img src="/images/weekhee.png" alt="weekhee"></td>
-      <td width="70%"><strong> Ms Lim Wee Khee </strong><br> 
-        <em>Chief, Digital Innovation & Design Practice,NUS-ISS</em>
+      <td width="70%"><strong> Mr Chai Chin Loon </strong><br> 
+        <em>Senior Director, Cybersecurity Group, GovTech</em>
         <br><br>
         <p>Ms Lim Wee Khee is a practitioner and lecturer from Digital Innovation and Design Practice at the NUS-ISS,  supporting organisations in their digital transformation journeys through skills development, mentoring and consultancy in the areas of user experience, service design, design thinking and digital marketing. 
  
@@ -22,53 +23,46 @@ Wee Khee, as the practice lead, drives curriculum design and brings years of lea
   </tr>
     <tr>
     <td width="30%"><img src="/images/eugene.png" alt="eugene"></td>
-  <td width="70%"><strong> Mr Eugene Wong </strong><br>
-    <em>Senior Lecturer & Consultant, Digital Innovation & Design Practice, NUS-ISS</em>
-    <br>
-    <p>Mr Eugene Wong is a practitioner and lecturer from Digital Innovation and Design Practice at the NUS-ISS,  supporting organisations in their digital transformation journeys through skills development, mentoring and consultancy in the areas of user experience, service design, design thinking and digital marketing. 
-      
-  Eugene has a strong background in driving digital innovation initiatives across diverse industries including logistics, banking, healthcare, education, defence and media. He employs a mix of human-centered design and lean methodologies to achieve business viable and technologically feasible solutions that solve the right customer problems.  Eugene’s previous roles include leading a team of UX researchers and designers at NCS Digital, building team competencies in user research, design thinking, prototyping, and concept/usability testing, as well as driving several transformation project in the public sector.</p></td>
-  </tr>
-    <tr>
-    <td width="30%"><img src="/images/matt.png" alt="matt"></td>
-  <td width="70%"><strong> Dr Matthew Chua </strong> <br>
-    <em>Lecturer & Consultant, Smart Health Leadership Centre, NUS-ISS</em>
-    <br> 
-    <p> Dr Matthew Chua is currently a lecturer and principal investigator at the NUS Institute of System Science where he leads the research into Smart Healthcare, Artificial Intelligence and Advanced Robotics. He has won prestigious research grants, amounting to more than S$1 million, from Ministry of Health, SG Enable, HealthTEC and internationally. His wide array of expertise makes him a highly sought after collaborator from various industries. </p></td>
-  </tr>
-    <tr>
-    <td width="30%"><img src="/images/jaap.png" alt="jaap"></td>
-  <td width="70%"><strong> Mr Jaap Karan Singh </strong> <br>
+  <td width="70%"><strong> Mr Jaap Karan Singh  </strong><br>
     <em>Chief Singh & Co-Founder,Secure Code Warrior</em>
     <br>
     <p>Jaap K Singh aka 'Chief Singh' is one of the co-founders of SCW and our Director of Customer Strategy. Jaap is an SME in all things Cyber Security - past, present, and future trends. He has a strong background in development practices and cybersecurity initiatives and trends and has spoken at various Security workshops, seminars, and online events across the globe pushing for the message of security awareness to development communities and other Technology groups.</p></td>
   </tr>
+  <tr>
+    <td width="30%"><img src="/images/matt.png" alt="matt"></td>
+  <td width="70%"><strong> Mr Jim Fitzsimmons </strong> <br>
+    <em>Jim Fitzsimmons, Director, Control Risks</em>
+    <br> 
+    <p> Jim Fitzsimmons from Control Risks is a Principal in the Cyber Security Consulting team responsible for managing and delivering complex security projects.  He has over 25 years of experience in providing IT security and consulting services to a variety of government agencies and industry verticals in the United States, China, Vietnam and Singapore. </p></td>
+  </tr>
     <tr>
     <td width="30%"><img src="/images/vivek.png" alt="vivek"></td>
   <td width="70%"><strong> Mr Vivek Ramachandran </strong> <br>
-    <em>Founder & CEO, Pentester Academy </em>
-    <br>
+    <em>Founder & CEO, Pentester Academy</em>
+    <br> 
     <p>He discovered the Caffe Latte attack, broke WEP Cloaking - a WEP protection schema, conceptualized enterprise Wi-Fi Backdoors and created Chellam, the world's first Wi-Fi Firewall. He is also the author of multiple five star rated books which have together sold over 13,000+ copies worldwide and have been translated to multiple languages.
-
-Vivek started SecurityTube.net in 2007, a YouTube for security which currently aggregates the largest collection of security research videos on the web. SecurityTube Training and Pentester Academy now serve thousands of customers from over 90 countries worldwide. He also conducts in-person training in the US, Europe and Asia. Vivek's work on wireless security has been quoted in BBC online, InfoWorld, MacWorld, The Register, IT World Canada etc. places. He has spoken/trained at top conferences around the world including Black Hat USA, Europe and Abu Dhabi, Defcon, Hacktivity, Brucon, SecurityByte, SecurityZone, Nullcon, C0C0n etc.
-
-Vivek has over a decade of experience in security and has keen interest in the areas of Wireless, Mobile, Network and Web Application Pentesting, Shellcoding, Reversing and Exploit Research. He loves programming in Python, C and Assembly.</p></td>
+Vivek started SecurityTube.net in 2007, a YouTube for security which currently aggregates the largest collection of security research videos on the web. SecurityTube Training and Pentester Academy now serve thousands of customers from over 90 countries worldwide. He also conducts in-person training in the US, Europe and Asia. Vivek's work on wireless security has been quoted in BBC online, InfoWorld, MacWorld, The Register, IT World Canada etc. places. He has spoken/trained at top conferences around the world including Black Hat USA, Europe and Abu Dhabi, Defcon, Hacktivity, Brucon, SecurityByte, SecurityZone, Nullcon, C0C0n etc. </p></td>
+  </tr>
+    <tr>
+    <td width="30%"><img src="/images/jaap.png" alt="jaap"></td>
+  <td width="70%"><strong> Mr Wilson Tan</strong> <br>
+    <em>Director and Principal of Trustwave Cyber Security Institute</em>
+    <br>
+    <p>Wilson Tan is the Director and Principal of Trustwave Cyber Security Institute.  Together with his team, CSI has trained over 500 Security incident Response Officers and Managers across the government agencies in Incident Response Management, Vulnerability Assessments and Risk Management these few years.  Together with Jim, Wilson has been done numerous engagements at a senior level to boards, senior management and crisis teams.</p>
+  </td>
+  </tr>
+    <tr>
+    <td width="30%"><img src="/images/vivek.png" alt="vivek"></td>
+  <td width="70%"><strong> Mr Quek Yang Boon </strong> <br>
+    <em>Director, Sensors & IOT, GovTech </em>
+    <br>
+    <p>Yang Boon is the Director of the Sensors and Internet of Things (SIoT) capability centre in GovTech. The centre builds sensors and IoT engineering capabilities and explores their applications in the public sector to enhance operational productivity and benefit citizens in realms such as safety, health and environment. Inspired to share his engineering know-how and contribute to Singapore’s Smart Nation initiative, Yang Boon joined GovTech in 2017 after 16 years in the United States. He was previously with Apple (Cupertino, CA), where he was responsible for designing and developing the sensor module of the Digital Crown in the Apple Watch. Before Apple, Yang Boon worked in Texas Instruments (Dallas, Texas) Audio group and had an expatriate stint in Shanghai, China where he helped build and manage a R&D centre.</p></td>
   </tr>
     <tr>
     <td width="30%"><img src="/images/ck.png" alt="ck"></td>
-  <td width="70%"><strong> Mr Tan Chin Kuan (CK) </strong> <br>
-    <em>Senior Director, Solutions & Value Engineering, Qlik </em> 
+  <td width="70%"><strong> Mr Yum Shoen Yih </strong> <br>
+    <em>Director,Cyber Security Agency of Singapore </em> 
     <br>
-    <p>CK is a Senior Director in Solutions and Value Engineering at Qlik. His team focus on business value consulting and advises top strategic clients in Asia Pacific to create strategic, well-aligned data and analytics solutions. As a design thinking practitioner, he often incorporates human-centred design to help businesses transform their business by adopting data-first culture and sustainable data-driven practices. 
-      
-He brings to his role over 15 years of progressive experience in consulting, product marketing and industry sales within the Analytics and Technology space. He has extensive experience in leading consultancy practice teams whose focus is on delivering business value and driving customer success within data and analytics.</p></td>
+    <p>Yum Shoen Yih is a Director at the Cyber Security Agency (CSA) of Singapore, leading the Cyber Security Programme Centre (CSPC), which is responsible for securing government networks and systems and implement programmes to enable a resilient nation and safer cyberspace. He served in the Republic of Singapore Navy and other units in Ministry of Defence (MINDEF) defending the country for over 30 years and is now securing its cyberspace. He is working with local security industry to implement the concepts in his CSA publications on securing businesses that use the Internet in the face of cyberattacks. In his cybersecurity appointments, he has presented in international and local conferences in Singapore as well as overseas.</p></td>
   </tr>
-    <tr>
-    <td width="30%"><img src="/images/adeel.png" alt="adeel"></td>
-  <td width="70%"><strong> Mr Mohammad Adeel Khan </strong><br>
-    <em>Technology Specialist, Microsoft </em> 
-    <br>
-    <p>Adeel is a seasoned Technology professional with experience in various digitization solutions for various industries. Experienced in devising, envisioning and managing implementations for Enterprise wide solutions with special focus on Microsoft Dynamics CRM. Fortunate to work with global brands in EMEA and APAC region.</p>
-</td>
-  </tr>
-</table>
+  </table>

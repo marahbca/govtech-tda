@@ -42,10 +42,11 @@ breadcrumb: 'Day 2'
       <br><br>
       A major benefit of going cloud-native is that systems are able to respond to problems in near real-time. This session covers topics including the difference between observability and monitoring, how to pick observability targets, and how to design systems that can find and handle unknown unknowns.
    <hr>
-      <h4>Coming Soon</h4>
-      <em>Lee Chuk Mun, NUS-ISS</em>
+      <h4>Seven Habits of Highly Effective Software Developer</h4>
+      <em>Chief, StackUp Programme, NUS-ISS</em>
       <br><br>
-      -
+      Habits is a very important aspect of life. Good habits shape our life and the way way we live and work with others. As a software developer it is also very important to       cultivate good habits. 
+      In this session, you will learn some of the habits that makes you a better and more effective software developer.
     </td>
   </tr>
 </table>

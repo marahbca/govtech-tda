@@ -11,12 +11,9 @@ breadcrumb: 'Day 1'
 <hr style="margin-top:0;">
 <table>
   <tr>
-    <td width="20%"><strong>1.30pm - 2.30pm</strong></td>
+    <td width="20%"><strong>2.00pm</strong></td>
     <td width="80%">
-    <h4>Introduction to The Digital Academy by DN Prasad</h4>
-Panel discussion – How DA is doing to upskill public service on ICT & SS competency framework (topic tbc)
-Panelist – Kok Ping Soon (GovTech), Tan Kok Yam (SNDGO), Teoh Zsin Woon or Ong Toon Hui (PSD), Khoong Chan Meng (OP)
-moderated by DN Prasad
+    <h4>Greetings</h4>
     </td>
   </tr>
 </table>

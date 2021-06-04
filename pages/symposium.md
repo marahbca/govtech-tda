@@ -10,39 +10,37 @@ permalink: /symposium
     <td width="30%">9.00am - 9.10am</td>
     <td width="70%">
       <strong>Launch Ceremony Commences</strong><br>
-     Welcome address by Prof Ho Teck Hua, Provost NUS / Ms Janet Ang, Chairman, NUS-ISS
+     Opening address Ms Janet Ang, Chairman, NUS-ISS
     </td>
   </tr>
   <tr>
     <td>9.10am - 9.25am</td>
     <td>
-      <strong>Opening Address</strong><br>
-      by SMS Janil Puthucheary
+      <strong>Welcome Address</strong><br>
+      by Dr Janil Puthucheary,Senior Minister of State, Ministry of Communications and Information of Singapore
     </td>
   </tr>
   
   <tr>
     <td>9.25am - 9.30am</td>
     <td>
-    Recognition of The Digital Academy Operations Partner - NUS-ISS<br>
-    (Method for proceedings to be confirmed)
+    Recognition of The Digital Academy Operations Partner - NUS-ISS
     </td>
   </tr>
 
   <tr>
     <td>9.30am - 9.40am</td>
     <td>
-  Recognition of The Digital Academy Content Partners – 10 Content Partners
-(Method for proceedings to be confirmed)
-    </td>
+  Recognition of The Digital Academy Content Partners<br>
+AWS, Coursera, Google, Microsoft, Qlik, Secure Code Warrior, TrustWave, Tableau & ThoughtWorks
+  </td>
   </tr>
   
 
   <tr>
     <td>9.40am - 9.50am</td>
     <td>
-      Official Launch of The Digital Academy (stakeholders to press a launch mechanism on stage) + <br>
-      Group photo on stage
+      Official Launch of The Digital Academy
     </td>
   </tr>
 
@@ -54,28 +52,28 @@ permalink: /symposium
   <tr>
     <td>10.05am - 10.25am</td>
     <td>
-      <strong>Symposium commence</strong><br>
-      Keynote speaker 1 (to be confirmed) – speaker suggestions in notes section below
-    </td>
+      <strong>Symposium commence</strong>
+      <br>
+    Keynote by Mr Patrick Teo, Head of Engineering for Payments, Next Billion Users and Site Leader for Google Singapore </td>
   </tr>
 
   <tr>
     <td>10.25am - 10.45am</td>
-    <td>Keynote speaker 2 (to be confirmed) – speaker suggestions in notes section below</td>
+    <td>Keynote by Ms Ng Wee Wei, Country Managing Director, Accenture Singapore </td>
   </tr>
  
   <tr>
     <td>10.45am - 11.25am</td>
     <td>
       <strong>Panel Discussion:</strong><br>
-      <strong>Pushing Digital Transformation Boundaries in Public Sector</strong>
+      <em>Raising Digital Quotient in Public Service</em>
       <br><br>
       <strong>Moderator:</strong><br>
-      D.N. Prasad
-      Panelists:<br>
-      -SMS Janil Puthucheary<br>
-      -Keynote speaker 1<br>
-      -Keynote speaker 2<br>
+      Mr Dwarakanath Narasimha Prasad, Senior Director (Strategy, People & Organisation), GovTech<br><br>
+      <strong>Panelists:</strong><br>
+      -Dr Janil Puthucheary, Senior Minister of State, Ministry of Communications and Information of Singapore<br>
+      -Ms Ng Wee Wei, Country Managing Director, Accenture Singapore <br>
+      -Mr Patrick Teo, Head of Engineering for Payments, Next Billion Users and Site Leader for Google Singapore<br>
     </td>
   </tr>
   
@@ -83,7 +81,6 @@ permalink: /symposium
     <td>11.25am - 11.30am</td>
     <td>
       <strong>Closing Remarks</strong><br>
-    End of morning symposium followed by VIP / Media tour around DA new campus<br>
     Start of The Digital Academy Learning Festival
     </td>
   </tr>

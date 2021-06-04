@@ -7,11 +7,12 @@ breadcrumb: 'Day 3'
 
 ### Apps Management & Apps Development
 **Wed, 23 Jun 2021**
-
-<hr>
+<br>
+<a href="https://form.gov.sg/60b5ff7eadb885001238b51a" class="bp-button is-secondary is-uppercase search-button" target="_blank">Register Now</a>
+<hr style="margin-top:0;">
 <table>
   <tr>
-    <td width="20%"><strong>8.30am</strong></td>
+    <td width="20%"><strong>8.15am</strong></td>
     <td width="80%">
     <h4>Morning Greetings</h4>
     </td>
@@ -24,19 +25,10 @@ breadcrumb: 'Day 3'
   <tr>
     <td width="20%"><strong>8.45am - 9.45am</strong></td>
     <td width="80%">
-      <h4>Session by Apps Infrastructure (TBC)</h4>
-      Session by Cyprian Wong, GovTech
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
-    <td width="20%"><strong>9.45am - 10.00am</strong></td>
-    <td width="80%">
-      <h4>Intermission</h4>
+      <h4>A Journey Through Design</h4>
+      <em>Cyprian Wong, Smart Nation Fellow, Digital Design & Development, GovTech</em>
+      <br><br>
+      Lessons, experiences and insights from 20-year design journey. Learn about the ups, downs, battle scars, life-long friends made and the ‘never-again’ moments.
     </td>
   </tr>
 </table>
@@ -47,19 +39,10 @@ breadcrumb: 'Day 3'
   <tr>
     <td width="20%"><strong>10.00am - 11.00am</strong></td>
     <td width="80%">
-      <h4>Designing experiences for Citizens</h4>
-      Lim WeeKhee & Eugene Wong, NUS-ISS  
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
-    <td width="20%"><strong>11.00am - 11.15am</strong></td>
-    <td width="80%">
-      <h4>Intermission</h4>
+      <h4>Coming Soon</h4>
+      <em>-</em>  
+      <br><br>
+      -
     </td>
   </tr>
 </table>
@@ -69,24 +52,16 @@ breadcrumb: 'Day 3'
 <table>
   <tr>
     <td width="20%"><strong>11.15am - 12.15pm</strong></td>
-    <td width="40%" style="border-right: 2px solid #cccccc;">
-      <h4>Simply API management with Apigee and/or AppSheet, Google's no-code app building platform</h4>
-      Google
-    </td>
-    <td width="40%">
-      <h4>DevOps in App Development </h4>
-      Mahesh Krishnamurthy, Apex Global
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
-    <td width="20%"><strong>12.15pm - 1.15pm</strong></td>
     <td width="80%">
-      <h4>Lunch Break</h4>
+      <h4>Simply API management with Apigee and/or AppSheet, Google's no-code app building platform</h4>
+      <em>Google</em>
+      <br><br>
+      -
+      <hr>
+      <h4>DevOps in App Development </h4>
+      <em>Mahesh Krishnamurthy,Business Head of ECCI (Apex Global)</em>
+      <br><br>
+      Can you imagine living without your smartphone? The number of smartphone users has surpassed four billion and will only continue to grow. Leveraging DevOps, mobile apps       development has been able to break the development-operations barrier, creating a seamless application delivery from inception to production. 
     </td>
   </tr>
 </table>
@@ -96,24 +71,16 @@ breadcrumb: 'Day 3'
 <table>
   <tr>
     <td width="20%"><strong>1.15pm - 2.15pm</strong></td>
-    <td width="40%" style="border-right: 2px solid #cccccc;">
-      <h4>Democratizing Application Development</h4>
-      Adeel Khan, Microsoft
-    </td>
-    <td width="40%">
-      <h4>Applications Security In The Age of Cyber</h4>
-      John Lim,  Nanyang Polytechnic
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
-    <td width="20%"><strong>2.15pm - 2.30pm</strong></td>
     <td width="80%">
-      <h4>Intermission</h4>
+      <h4>Democratising Application Development</h4>
+      <em>Adeel Khan, Microsoft</em>
+      <br><br>
+      -
+    <hr>
+      <h4>Applications Security In The Age of Cyber</h4>
+      <em>John Lim,  Nanyang Polytechnic</em>
+      <br><br>
+      -
     </td>
   </tr>
 </table>
@@ -123,24 +90,16 @@ breadcrumb: 'Day 3'
 <table>
   <tr>
     <td width="20%"><strong>2.30pm - 3.30pm</strong></td>
-    <td width="40%" style="border-right: 2px solid #cccccc;">
-      <h4>TBC</h4>
-      -
-    </td>
-    <td width="40%">
+    <td width="80%">
+      <h4>Designing experiences for Citizens</h4>
+      <em>Lim Wee Khee,Chief, Digital Innovation & Design Practice & Eugene Wong,Senior Lecturer & Consultant, Digital Innovation & Design Practice, NUS-ISS</em>  
+      <br><br>
+      How does human-centred design practices like design thinking and UX influence the way we serve citizens? Are they simply processes and tools, or a mindset? In this           talk, let us peel back the layers and explore how they can help you design better experiences for the citizens.
+    <hr>
       <h4>Harnessing The Full Value of Digital Transformation Through Your People</h4>
-      Dr Yong Hsin Ning, Change Voyage
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
-    <td width="20%"><strong>3.30pm - 3.45pm</strong></td>
-    <td width="80%">
-      <h4>Intermission</h4>
+      <em>Dr Yong Hsin Ning, Co-Founder & Director, Change Voyage</em>
+      <br><br>
+      A digital transformation is a long journey, and it is important to ensure that members of the organisation are adequately prepared for what is to come. In this               interactive workshop, learn about the people-related pitfalls that hinder success in a digital transformation project, and how to overcome them. 
     </td>
   </tr>
 </table>
@@ -150,13 +109,16 @@ breadcrumb: 'Day 3'
 <table>
   <tr>
     <td width="20%"><strong>3.45pm - 4.45pm</strong></td>
-    <td width="40%" style="border-right: 2px solid #cccccc;">
-      <h4>TBC</h4>
-      Eyung, GovTech
-    </td>
-    <td width="40%">
+    <td width="80%">
+      <h4>Coming Soon</h4>
+      <em>Eyung, GovTech</em>
+      <br><br>
+      -
+    <hr>
       <h4>Automated Security And Compliance</h4>
-      Florian Sellmayr, ThoughtWorks
+      <em>Florian Sellmayr,Head of Technology (Southeast Asia), ThoughtWorks</em>
+      <br><br> 
+      The words “Security and Compliance” spark dread in many developers’ minds. Delivery teams see them as blockers to value creation; while security professionals fear           reckless risks, lawsuits and hurt customers. This talk will give you some ideas on how to get out of this stalemate.
     </td>
   </tr>
 </table>
@@ -165,25 +127,15 @@ breadcrumb: 'Day 3'
 
 <table>
   <tr>
-    <td width="20%"><strong>4.45pm - 5.00pm</strong></td>
+    <td width="20%"><strong>5.00pm - 6.00pm</strong></td>
     <td width="80%">
-      <h4>Intermission</h4>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
-    <td width="20%"><strong>3.45pm - 4.45pm</strong></td>
-    <td width="40%" style="border-right: 2px solid #cccccc;">
       <h4>Implementing successful Outsourced Agile Project</h4>
-      Angela Lim, MOM
-    </td>
-    <td width="40%">
-      <h4>TBC</h4>
-      by Processworks
+      <em>Angela Lim, Senior Assistant Director, WINS Outsource, Ministry of Manpower</em>
+      <br><br>
+      Agile development and software outsourcing are concepts that don’t automatically go hand in hand and come with their unique set of challenges. But when done right, agile outsourcing can significantly boost the effectiveness of IT projects. In this talk, learn about how to make outsourced agile projects a success.
+    <hr>
+      <h4>Coming Soon</h4>
+      Processworks
     </td>
   </tr>
 </table>

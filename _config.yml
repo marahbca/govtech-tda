@@ -24,6 +24,8 @@ collections:
     output: true
   programme:
     output: true
+  speakers:
+    output: true
 resources_name: example-resource-room
 
 description: An Isomer site of the Singapore Government

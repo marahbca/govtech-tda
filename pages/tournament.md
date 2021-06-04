@@ -16,5 +16,5 @@ Category 1: Developers, Dev Managers, Appsec people<br>
 Category 2: Anyone interested in secure coding but may not be developers
 </p>
 <br><br>
-<a href="https://form.gov.sg/#!/608f46f439fe84001123dba2">Register Now</a>
+<a href="https://form.gov.sg/60b5ff7eadb885001238b51a">Register Now</a>
 

@@ -12,7 +12,7 @@ breadcrumb: 'Day 4'
 <hr style="margin-top:0;">
 <table>
   <tr>
-    <td width="20%"><strong>8.30am</strong></td>
+    <td width="20%"><strong>8.15am</strong></td>
     <td width="80%">
     <h4>Morning Greetings</h4>
     </td>
@@ -48,17 +48,6 @@ breadcrumb: 'Day 4'
 
 <table>
   <tr>
-    <td width="20%"><strong>9.45am - 10.00am</strong></td>
-    <td width="80%">
-      <h4>Intermission</h4>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
     <td width="20%"><strong>10.00am - 11.00am</strong></td>
     <td width="80%">
       <h4>Digitalisation is leading to Operational AI</h4>
@@ -78,40 +67,18 @@ breadcrumb: 'Day 4'
 
 <table>
   <tr>
-    <td width="20%"><strong>11.00am - 11.15am</strong></td>
-    <td width="80%">
-      <h4>Intermission</h4>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
     <td width="20%"><strong>11.15am - 12.15pm</strong></td>
     <td width="80%">
-      <h4>TBC</h4>
+      <h4>Coming Soon</h4>
       <em>Kendrick Lee, Director (Trusted Data & Services), GovTech and Dominic Chan, Director (Moments Of Life), GovTech & Daniel Boey, Chief, Digital Products & Platforms Practice, NUS-ISS</em>
       <br><br>
       Going digital goes beyond just building digital assets to engage customers (or citizens) and employees. In the process, you probably hope to change your organisational culture to one that is agile and innovative. What are some key challenges to expect on this journey? Hear from the industry veterans.  
     <hr>
-      <h4>Optimising the use of data in Enterprise and Skills</h4>
+      <h4>Becoming a Data-Driven Organisation & How Coursera is enabling Hands on Learning with Coursera Labs?</h4>
       <em>Eric Karsten, Data Scientist Transformation for Data Science and AI- Sorabh Bajaj, Skills Transformation, Coursera</em>
       <br><br>
       -
   </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
-    <td width="20%"><strong>12.15pm - 1.15pm</strong></td>
-    <td width="80%">
-      <h4>Lunch Break</h4>
-    </td>
   </tr>
 </table>
 
@@ -138,17 +105,6 @@ breadcrumb: 'Day 4'
 
 <table>
   <tr>
-    <td width="20%"><strong>2.15pm - 2.30pm</strong></td>
-    <td width="80%">
-      <h4>Intermission</h4>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
     <td width="20%"><strong>2.30pm - 3.30pm</strong></td>
     <td width="80%">
       <h4>Understanding the Science of Visualise Analytics</h4>
@@ -157,20 +113,9 @@ breadcrumb: 'Day 4'
       Visual analytics is a means of exploring and understanding data. You can ask a question, get the answer, and ask follow-up questions – all within a visual interface. A story unfolds from one visual summary to another, allowing you to retrace the story to rethink, explore further, and share.  
     <hr>
       <h4>Crazy Rich Data</h4>
-      <em>VPs / Directors of Data from different private sector organisations moderated by Ryan Meyer,Managing Director (APAC), General Assembly</em>
+      <em>Celine Le Contonnec, Bank of Singapore; Sunita Kannan, Microsoft; Dat Le, Foodpanda, moderated by Ryan Meyer,Managing Director (APAC), General Assembly</em>
       <br><br>
       In this panel, we talk to data leaders on how they leveraged data to derive real-time insights and make strategic changes in their business roadmap. We will also get tips on how companies can gain a competitive edge by placing data analytics at the core of their business strategy.   
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
-    <td width="20%"><strong>3.30pm - 3.45pm</strong></td>
-    <td width="80%">
-      <h4>Intermission</h4>
     </td>
   </tr>
 </table>
@@ -186,8 +131,8 @@ breadcrumb: 'Day 4'
       <br><br>
       Today’s customers are spoilt for choices and it is therefore crucial to understand what your customers want and what they do not care about. Product managers need to drive the adoption of products and services through clear strategies – with a focus on speed and customer needs.   
     <hr>
-      <h4>TBC</h4>
-      <em>NUS-ISS</em>
+      <h4>XAI and AI Ethics</h4>
+      <em>Dr Tian Jing, Senior Lecturer & Consultant, Artificial Intelligence Practice, NUS-ISS</em>
       <br><br>
       -
     </td>
@@ -198,20 +143,9 @@ breadcrumb: 'Day 4'
 
 <table>
   <tr>
-    <td width="20%"><strong>4.45pm - 5.00pm</strong></td>
+    <td width="20%"><strong>5.00pm - 6.00pm</strong></td>
     <td width="80%">
-      <h4>Intermission</h4>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
-    <td width="20%"><strong>3.45pm - 4.45pm</strong></td>
-    <td width="80%">
-      <h4>TBC</h4>
+      <h4>Coming Soon</h4>
       DSAI Team
     </td>
 

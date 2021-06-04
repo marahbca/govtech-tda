@@ -5,31 +5,29 @@ permalink: /speakers/day-1
 
 <table>
   <tr>
-    <td width="30%"><img src="/images/nirmal.png" alt="nirmal"></td>
-    <td width="70%"> <strong>Mr Avinash  Lotke</strong><br>
+    <td width="30%"><img src="/images/avinash.png" alt="avinasg"></td>
+    <td width="70%"> <strong>Mr Avinash Lotke</strong><br>
     <em>Head of Security Solutions (APJ), Microsoft </em>
     <br>
     <p>Avinash is a seasoned IT professional with a rare mix of Sales, Marketing and Technical Skills. He has introduce and grow new/incubation products, sustain mature products and worked across cross functional teams and geos to drive for results.</p> 
   </td>
   </tr>
     <tr>
-    <td width="30%"><img src="/images/weekhee.png" alt="weekhee"></td>
+    <td width="30%"><img src="/images/chinloon.png" alt="chinloon"></td>
       <td width="70%"><strong> Mr Chai Chin Loon </strong><br> 
         <em>Senior Director, Cybersecurity Group, GovTech</em>
         <br><br>
-        <p>Ms Lim Wee Khee is a practitioner and lecturer from Digital Innovation and Design Practice at the NUS-ISS,  supporting organisations in their digital transformation journeys through skills development, mentoring and consultancy in the areas of user experience, service design, design thinking and digital marketing. 
- 
-Wee Khee, as the practice lead, drives curriculum design and brings years of leadership experience in digital initiatives and customer-centric programmes for MNCs in consumer technology, electronics, telecommunications industries and government sectors.   A strong collaborator and people developer, she is interested in building capabilities and developing competencies in the domain of customer experience design, digital marketing, and ecommerce, combining both industry application with education.</p></td>
+        <p>-</p></td>
   </tr>
     <tr>
-    <td width="30%"><img src="/images/eugene.png" alt="eugene"></td>
+    <td width="30%"><img src="/images/jaap.png" alt="jaap"></td>
   <td width="70%"><strong> Mr Jaap Karan Singh  </strong><br>
     <em>Chief Singh & Co-Founder,Secure Code Warrior</em>
     <br>
     <p>Jaap K Singh aka 'Chief Singh' is one of the co-founders of SCW and our Director of Customer Strategy. Jaap is an SME in all things Cyber Security - past, present, and future trends. He has a strong background in development practices and cybersecurity initiatives and trends and has spoken at various Security workshops, seminars, and online events across the globe pushing for the message of security awareness to development communities and other Technology groups.</p></td>
   </tr>
   <tr>
-    <td width="30%"><img src="/images/matt.png" alt="matt"></td>
+    <td width="30%"><img src="/images/jim.png" alt="jim"></td>
   <td width="70%"><strong> Mr Jim Fitzsimmons </strong> <br>
     <em>Jim Fitzsimmons, Director, Control Risks</em>
     <br> 
@@ -44,7 +42,7 @@ Wee Khee, as the practice lead, drives curriculum design and brings years of lea
 Vivek started SecurityTube.net in 2007, a YouTube for security which currently aggregates the largest collection of security research videos on the web. SecurityTube Training and Pentester Academy now serve thousands of customers from over 90 countries worldwide. He also conducts in-person training in the US, Europe and Asia. Vivek's work on wireless security has been quoted in BBC online, InfoWorld, MacWorld, The Register, IT World Canada etc. places. He has spoken/trained at top conferences around the world including Black Hat USA, Europe and Abu Dhabi, Defcon, Hacktivity, Brucon, SecurityByte, SecurityZone, Nullcon, C0C0n etc. </p></td>
   </tr>
     <tr>
-    <td width="30%"><img src="/images/jaap.png" alt="jaap"></td>
+    <td width="30%"><img src="/images/wilson.png" alt="wilson"></td>
   <td width="70%"><strong> Mr Wilson Tan</strong> <br>
     <em>Director and Principal of Trustwave Cyber Security Institute</em>
     <br>
@@ -52,14 +50,14 @@ Vivek started SecurityTube.net in 2007, a YouTube for security which currently a
   </td>
   </tr>
     <tr>
-    <td width="30%"><img src="/images/vivek.png" alt="vivek"></td>
+    <td width="30%"><img src="/images/yangboon.png" alt="yangboon"></td>
   <td width="70%"><strong> Mr Quek Yang Boon </strong> <br>
     <em>Director, Sensors & IOT, GovTech </em>
     <br>
     <p>Yang Boon is the Director of the Sensors and Internet of Things (SIoT) capability centre in GovTech. The centre builds sensors and IoT engineering capabilities and explores their applications in the public sector to enhance operational productivity and benefit citizens in realms such as safety, health and environment. Inspired to share his engineering know-how and contribute to Singapore’s Smart Nation initiative, Yang Boon joined GovTech in 2017 after 16 years in the United States. He was previously with Apple (Cupertino, CA), where he was responsible for designing and developing the sensor module of the Digital Crown in the Apple Watch. Before Apple, Yang Boon worked in Texas Instruments (Dallas, Texas) Audio group and had an expatriate stint in Shanghai, China where he helped build and manage a R&D centre.</p></td>
   </tr>
     <tr>
-    <td width="30%"><img src="/images/ck.png" alt="ck"></td>
+    <td width="30%"><img src="/images/shoenyih.png" alt="shoenyih"></td>
   <td width="70%"><strong> Mr Yum Shoen Yih </strong> <br>
     <em>Director,Cyber Security Agency of Singapore </em> 
     <br>

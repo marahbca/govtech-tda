@@ -98,11 +98,6 @@ breadcrumb: 'Day 2'
       <em>Gregor Hohpe, Enterprise Strategist, Amazon Web Services</em>
       <br><br>
       Cloud platforms are powerful enablers for modern software delivery, offering a comprehensive suite of computing services. But choosing the right solution is just one part of the equation. In this session, we share how AWS Solution Architects train and help customers be successful in the cloud.
-    <hr>
-      <h4>Using CircuitPython on Raspberry Pico</h4>
-      <em>Kenneth Phang, Senior Lecturer & Consultant, Software Systems Practice, NUS-ISS</em>
-      <br><br>
-      Cybersecurity crisis management isn’t just about cyber incident response. In this interactive session, improve your understanding of the entire crisis management lifecycle – including readiness, response, and recovery. Learn more about industry best practices and be better equipped in managing a cyber crisis.
     </td>
   </tr>
 </table>
@@ -115,6 +110,20 @@ breadcrumb: 'Day 2'
     <td width="80%">
       <h4>Coming Soon</h4>
       ICT Infrastructure
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<table>
+  <tr>
+    <td width="20%"><strong>5.00pm - 6.00pm</strong></td>
+    <td width="80%">
+      <h4>Using CircuitPython on Raspberry Pico</h4>
+      <em>Kenneth Phang, Senior Lecturer & Consultant, Software Systems Practice, NUS-ISS</em>
+      <br><br>
+      Cybersecurity crisis management isn’t just about cyber incident response. In this interactive session, improve your understanding of the entire crisis management             lifecycle – including readiness, response, and recovery. Learn more about industry best practices and be better equipped in managing a cyber crisis.
     </td>
   </tr>
 </table>

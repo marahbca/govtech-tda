@@ -49,14 +49,7 @@ Vivek started SecurityTube.net in 2007, a YouTube for security which currently a
     <p>Wilson Tan is the Director and Principal of Trustwave Cyber Security Institute.  Together with his team, CSI has trained over 500 Security incident Response Officers and Managers across the government agencies in Incident Response Management, Vulnerability Assessments and Risk Management these few years.  Together with Jim, Wilson has been done numerous engagements at a senior level to boards, senior management and crisis teams.</p>
   </td>
   </tr>
-    <tr>
-    <td width="30%"><img src="/images/yangboon.png" alt="yangboon"></td>
-  <td width="70%"><strong> Mr Quek Yang Boon </strong> <br>
-    <em>Director, Sensors & IOT, GovTech </em>
-    <br>
-    <p>Yang Boon is the Director of the Sensors and Internet of Things (SIoT) capability centre in GovTech. The centre builds sensors and IoT engineering capabilities and explores their applications in the public sector to enhance operational productivity and benefit citizens in realms such as safety, health and environment. Inspired to share his engineering know-how and contribute to Singapore’s Smart Nation initiative, Yang Boon joined GovTech in 2017 after 16 years in the United States. He was previously with Apple (Cupertino, CA), where he was responsible for designing and developing the sensor module of the Digital Crown in the Apple Watch. Before Apple, Yang Boon worked in Texas Instruments (Dallas, Texas) Audio group and had an expatriate stint in Shanghai, China where he helped build and manage a R&D centre.</p></td>
-  </tr>
-    <tr>
+  <tr>
     <td width="30%"><img src="/images/shoenyih.png" alt="shoenyih"></td>
   <td width="70%"><strong> Mr Yum Shoen Yih </strong> <br>
     <em>Director,Cyber Security Agency of Singapore </em> 

@@ -46,18 +46,6 @@ breadcrumb: 'Day 1'
 
 <table>
   <tr>
-    <td width="20%"><strong>3.30pm - 3.45pm</strong></td>
-    <td width="80%">
-      <h4>Intermission</h4>
-      
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
     <td width="20%"><strong>3.45pm - 4.45pm</strong></td>
     <td width="80%">
       <h4>Digital Academy Secure Coding Tournament</h4>
@@ -69,18 +57,6 @@ breadcrumb: 'Day 1'
       <em>Avinash Lotke, Head of Security Solutions - APJ, Microsoft</em>
       <br><br>
       Unlike commodity ransomware, which only requires malware remediation, human-operated ransomware is a significant and growing threat in most industries. These “hands-on-keyboard” attacks leverage human attackers’ knowledge of system and security misconfigurations to infiltrate a network, adapting to the network and its weak points along the way.
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
-    <td width="20%"><strong>4.45pm - 5.00pm</strong></td>
-    <td width="80%">
-      <h4>Intermission</h4>
-      
     </td>
   </tr>
 </table>

@@ -12,7 +12,7 @@ breadcrumb: 'Day 5'
 <hr style="margin-top:0;">
 <table>
   <tr>
-    <td width="20%"><strong>8.30am</strong></td>
+    <td width="20%"><strong>8.15am</strong></td>
     <td width="80%">
     <h4>Morning Greetings</h4>
     </td>
@@ -35,17 +35,6 @@ breadcrumb: 'Day 5'
 
 <table>
   <tr>
-    <td width="20%"><strong>9.45am - 10.00am</strong></td>
-    <td width="80%">
-      <h4>Intermission</h4>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
     <td width="20%"><strong>10.00am - 11.00am</strong></td>
     <td width="80%">
       <h4>Driving Smart Urban Solutions with IOT</h4>
@@ -53,19 +42,8 @@ breadcrumb: 'Day 5'
       <br><br>
       With the upward trend in IoT adoption and the government’s focus on Smart Nation initiatives, there has been increasing interest in the smart city ecosystem. Dr Matthew Chua will share how his team at NUS-ISS spearheaded IoT projects to improve quality of life in urban Singapore.
     <hr>
-      <h4>TBC</h4>
+      <h4>Coming Soon</h4>
       -
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
-    <td width="20%"><strong>11.00am - 11.15am</strong></td>
-    <td width="80%">
-      <h4>Intermission</h4>
     </td>
   </tr>
 </table>
@@ -93,39 +71,17 @@ breadcrumb: 'Day 5'
 
 <table>
   <tr>
-    <td width="20%"><strong>12.15pm - 1.15pm</strong></td>
-    <td width="80%">
-      <h4>Lunch Break</h4>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
     <td width="20%"><strong>1.15pm - 2.15pm</strong></td>
     <td width="80%">
-      <h4>TBC</h4>
+      <h4>Coming Soon</h4>
       <em>Timothy Tan, GovTech</em>
       <br><br>
       -
     <hr>
-      <h4>TBC</h4>
+      <h4>Coming Soon</h4>
       <em>Max Neo, NUS-ISS</em>
       <br><br>
       -
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
-    <td width="20%"><strong>2.15pm - 2.30pm</strong></td>
-    <td width="80%">
-      <h4>Intermission</h4>
     </td>
   </tr>
 </table>
@@ -141,7 +97,7 @@ breadcrumb: 'Day 5'
       <br><br>
       In a digital age, a leader needs to empower people to thrive through the evolution and complexities of the digital space. Learn about the heartware of digital leadership in a VUCA environment, and the key to creating a trusting culture and building adaptive capabilities for an end-to-end transformation.
     <hr>
-      <h4>TBC</h4>
+      <h4>Coming Soon</h4>
       -
     </td>
   </tr>
@@ -151,24 +107,13 @@ breadcrumb: 'Day 5'
 
 <table>
   <tr>
-    <td width="20%"><strong>3.30pm - 3.45pm</strong></td>
-    <td width="80%">
-      <h4>Intermission</h4>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
-    <td width="20%"><strong>3.45pm - 4.45pm</strong></td>
+    <td width="20%"><strong>3.45pm - 4.00pm</strong></td>
     <td width="80%">
       <h4>End of Festival</h4>
       <ul>
-        <li>CE closing remarks</li>
-        <li>Announce SCW results</li>
-      </ul>
+        <li>Closing remarks by Mr Kok Ping Soon, Chief Executive, GovTech </li>
+        <li>Announcement of Secure Coding Tournament results</li>
+      </ul> 
     </td>
   </tr>
 </table>

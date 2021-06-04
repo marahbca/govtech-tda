@@ -5,7 +5,7 @@ permalink: /speakers/day-1
 
 <table>
   <tr>
-    <td width="30%"><img src="/images/avinash.png" alt="avinasg"></td>
+    <td width="30%"><img src="/images/avinash.png" alt="avinash"></td>
     <td width="70%"> <strong>Mr Avinash Lotke</strong><br>
     <em>Head of Security Solutions (APJ), Microsoft </em>
     <br>

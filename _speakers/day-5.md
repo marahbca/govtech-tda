@@ -34,7 +34,7 @@ Chi Siong brings with him over 20 years of industry experience and a strong pass
         <p>His Professional Credentials include Lean Six Sigma Black Belt, PMP,  and TBEM Assessor (Tata Business Excellence Model).</p></td>
   </tr>
   <tr>
-    <td width="30%"><img src="/images/yangboon.png" alt="nirmal"></td>
+    <td width="30%"><img src="/images/yangboon.png" alt="yangboon"></td>
     <td width="70%"> <strong>Mr Quek Yang Boon</strong><br>
     <em>Director, Sensors & IOT, GovTech </em>
     <br>

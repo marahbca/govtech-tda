@@ -25,9 +25,8 @@ breadcrumb: 'Day 2'
   <tr>
     <td width="20%"><strong>8.45am - 9.45am</strong></td>
     <td width="80%">
-      <h4>Session by Apps Infrastructure </h4>
-      Microsoft, Luka Debeljak (one of the panelist proposed by Microsoft)
-    </td>
+      <h4>Coming Soon</h4>
+  </td>
   </tr>
 </table>
 
@@ -43,7 +42,7 @@ breadcrumb: 'Day 2'
       A major benefit of going cloud-native is that systems are able to respond to problems in near real-time. This session covers topics including the difference between observability and monitoring, how to pick observability targets, and how to design systems that can find and handle unknown unknowns.
    <hr>
       <h4>Seven Habits of Highly Effective Software Developer</h4>
-      <em>Chief, StackUp Programme, NUS-ISS</em>
+      <em>Lee Chuk Munn,Chief, StackUp Programme, NUS-ISS</em>
       <br><br>
       Habits is a very important aspect of life. Good habits shape our life and the way way we live and work with others. As a software developer it is also very important to       cultivate good habits. 
       In this session, you will learn some of the habits that makes you a better and more effective software developer.
@@ -57,10 +56,10 @@ breadcrumb: 'Day 2'
   <tr>
     <td width="20%"><strong>11.15am - 12.15pm</strong></td>
     <td width="80%">
-      <h4>Infrastructure Modernisation with Google Cloud</h4>
-      <em>Google</em>
+      <h4>Apps Infrastructure:  Infrastructure and Application Modernisation with Google Cloud</h4>
+      <em>Phoon Woh Shon,Customer Engineer, Google</em>
       <br><br>
-      -
+      Google Cloud’s infrastructure and application modernisation solutions have helped customers innovate faster while lowering costs. Customer Engineer from Google Cloud,           Phoon Woh Shon, will share how the cloud provider does so by offering a consistent development and operations experience, as well as industry-leading tools and guidance.
     <hr>
       <h4>Operations Challenges for GCC Project</h4>
       <em>Melvin KL Wong, Lead Infrastructure Architect, GovTech</em>

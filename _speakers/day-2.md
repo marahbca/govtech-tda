@@ -63,7 +63,7 @@ permalink: /speakers/day-2
     </td>
   </tr>
   <tr>
-    <td width="30%"><img src="/images/siewbee.png" alt="siewbee"></td>
+    <td width="30%"><img src="" alt=""></td>
     <td width="70%"> <strong>Ms Lam Siew Bee</strong><br>
     <em>Deputy Director, GIG Planning & Governance, GovTech </em>
     <br>

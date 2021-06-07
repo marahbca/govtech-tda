@@ -25,7 +25,7 @@ breadcrumb: 'Day 2'
   <tr>
     <td width="20%"><strong>8.45am - 9.45am</strong></td>
     <td width="80%">
-      <h4>Coming Soon</h4>
+      <h4>Operations 2.0 - Transforming Application Infrastructure Operations Delivery</h4>
   </td>
   </tr>
 </table>

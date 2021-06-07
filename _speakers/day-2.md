@@ -46,6 +46,17 @@ permalink: /speakers/day-2
     </td>
   </tr>
   <tr>
+    <td width="30%"><img src="/images/chuk.png" alt="chuk"></td>
+    <td width="70%"><strong> Mr Lee Chuk Munn</strong><br> 
+        <em>Chief, StackUp Programme, NUS-ISS</em>
+        <br><br>
+        <p>Chuk current responsibilities includes developing courseware, and teaching graduate and public courses in enterprise software engineering, software architecture, web technologies and enterprise Java.<br>
+Prior to joining ISS, Chuk works for Oracle and Sun Microsystems where his main responsibilities includes helping customers and partners across all industries in the APAC region, to develop, size and tune applications deployed to Java EE Application Servers.<br>
+Chuk has more than 20 years of working experience and more than 30 years of developing and debugging software.<br>
+His interest includes peer-to-peer networks, application frameworks, Java Virtual Machine and dynamic languages. He keeps himself busy by contributing to various open source projects.</p>
+    </td>
+  </tr>
+  <tr>
     <td width="30%"><img src="/images/marcus.png" alt="marcus"></td>
     <td width="70%"> <strong>Mr Marcus Tee </strong><br>
     <em>Solutions Architect, Microsoft </em>
@@ -70,6 +81,14 @@ Melvin is a Microsoft Certified Azure Solution Architect Expert and GCP Solution
     <em>Deputy Director, GIG Planning & Governance, GovTech </em>
     <br>
     <p>-</p> 
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><img src="" alt=""></td>
+    <td width="70%"><strong>Woh Shon</strong><br> 
+        <em>Customer Engineer, Google</em>
+        <br><br>
+        <p>Woh Shon is a Customer Engineer from Google Cloud, focusing on Application Modernisation. Prior to Google Cloud, Woh Shon works in a similar capacity with several technology companies, specializing in the area of cloud and container technologies.</p>
     </td>
   </tr>
 </table>

@@ -120,6 +120,14 @@ He brings to his role over 15 years of progressive experience in consulting, pro
     <p>Jen Hong develops algorithms. He specializes in deep learning, image processing and medical image diagnosis. He designs illustrations, web page and posters. He plays piano.<br>
 He invented a mathematical model to analyze dry eye. He used deep learning to correct medical images. He trained deep learning models to identify pathologies in retinal images. And he made deep learning to draw anatomical features.<br>
 He was the co-Principal Investigator of 6 research grants and 3 clinical trials. He and his team member co-developed algorithms to diagnose breast cancer, ovarian cancer, heart attack, fatty liver, diabetic retinopathy, epilepsy and glaucoma. He has published more than 90 journal articles, 12 of which are deep learning related.<br>
-Worldwide his publications are cited more than 6100 times. He was awarded the ‘Highly Cited Researchers’ by Clarivate Web of Science (Top 0.1% worldwide) in the category of Computer Science in 2020 </p></td>
+Worldwide his publications are cited more than 6100 times. He was awarded the ‘Highly Cited Researchers’ by Clarivate Web of Science (Top 0.1% worldwide) in the category of Computer Science in 2020.</p></td>
+  </tr>
+  <tr>
+    <td width="30%"><img src="/images/tianjing.png" alt="tianjing"></td>
+    <td width="70%"> <strong>Dr Tian Jing</strong><br>
+    <em>Senior Lecturer & Consultant, Artificial Intelligence Practice, NUS-ISS</em>
+    <br>
+    <p>Tian Jing currently lectures in the Analytics and Intelligent Systems Practice in the areas of artificial intelligence, data analytics, and machine learning. He received his Ph.D. degree from School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore.<br>
+Prior to joining ISS, he spent a number of years in research, development and consultant work, with a focus in areas of computer vision and artificial intelligence, at two A*STAR spin-off companies, Institute for Infocomm Research (I2R, A*STAR), Temasek Laboratories @ NTU, Singapore, respectively. He also served as a technical leader in numerous research projects with both local major government agency and SME, as well as international collaborators, in areas of smart nation, safety and security, healthcare.</p></td>
   </tr>
 </table>

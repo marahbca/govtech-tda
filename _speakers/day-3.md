@@ -5,7 +5,7 @@ permalink: /speakers/day-3
 
 <table>
   <tr>
-    <td width="30%"><img src="/images/angela.png" alt="angela"></td>
+    <td width="30%"><img src="" alt=""></td>
     <td width="70%"> <strong>Ms Angela Lim </strong><br>
     <em>Senior Assistant Director, ISTD, Ministry of Manpower </em>
     <br>
@@ -35,7 +35,7 @@ permalink: /speakers/day-3
   </td>
   </tr>
     <tr>
-    <td width="30%"><img src="/images/john.png" alt="john"></td>
+    <td width="30%"><img src="" alt=""></td>
     <td width="70%"> <strong>Mr John Lim</strong><br>
     <em>Senior Lecturer, School of Information Technology, Cyber And Information Security, Nanyang Polytechnic</em>
     <br>
@@ -59,7 +59,7 @@ permalink: /speakers/day-3
       Eugene has a strong background in driving digital innovation initiatives across diverse industries including logistics, banking, healthcare, education, defence and media. He employs a mix of human-centered design and lean methodologies to achieve business viable and technologically feasible solutions that solve the right customer problems.  Eugene’s previous roles include leading a team of UX researchers and designers at NCS Digital, building team competencies in user research, design thinking, prototyping, and concept/usability testing, as well as driving several transformation project in the public sector. </p> </td>
   </tr>
   <tr>
-    <td width="30%"><img src="/images/mahesh.png" alt="mahesh"></td>
+    <td width="30%"><img src="" alt=""></td>
     <td width="70%"><strong> Mr Mahesh Krishnamurthy </strong><br> 
         <em>Apex Global (By ECC Int'll)</em>
         <br>
@@ -71,7 +71,7 @@ Trained several thousands on information technology professionals in various IT 
   </td>
   </tr>
   <tr>
-    <td width="30%"><img src="/images/nitin.png" alt="nitin"></td>
+    <td width="30%"><img src="" alt=""></td>
     <td width="70%"> <strong>Mr Nitin Bhawsar </strong><br>
     <em>Consultant, Processworks Group</em>
     <br>

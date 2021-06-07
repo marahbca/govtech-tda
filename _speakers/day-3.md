@@ -59,7 +59,7 @@ permalink: /speakers/day-3
   </td>
   </tr>
   <tr>
-    <td width="30%"><img src="adeel" alt="adeel"></td>
+    <td width="30%"><img src="/images/adeel.png" alt="adeel"></td>
     <td width="70%"> <strong>Mr Mohammad Adeel Khan </strong><br>
     <em>Technology Specialist, Microsoft </em>
     <br>

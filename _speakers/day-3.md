@@ -26,6 +26,14 @@ permalink: /speakers/day-3
     <br>
     <p>-</p> </td>
   </tr>
+  <tr>
+    <td width="30%"><img src="/images/eugene.png" alt="eugene"></td>
+    <td width="70%"> <strong>Mr Eugene Wong </strong><br>
+    <em>Senior Lecturer & Consultant, Digital Innovation & Design Practice,NUS-ISS </em>
+    <br>
+    <p>Eugene is a practitioner and lecturer from Digital Innovation and Design Practice at the NUS-ISS,  supporting organisations in their digital transformation journeys through skills development, mentoring and consultancy in the areas of user experience, service design, design thinking and digital marketing. <br>
+      Eugene has a strong background in driving digital innovation initiatives across diverse industries including logistics, banking, healthcare, education, defence and media. He employs a mix of human-centered design and lean methodologies to achieve business viable and technologically feasible solutions that solve the right customer problems.  Eugene’s previous roles include leading a team of UX researchers and designers at NCS Digital, building team competencies in user research, design thinking, prototyping, and concept/usability testing, as well as driving several transformation project in the public sector. </p> </td>
+  </tr>
    <tr>
     <td width="30%"><img src="/images/florian.png" alt="florian"></td>
     <td width="70%"><strong> Mr Florian Sellmayr </strong><br> 
@@ -51,12 +59,11 @@ permalink: /speakers/day-3
   </td>
   </tr>
   <tr>
-    <td width="30%"><img src="/images/eugene.png" alt="eugene"></td>
-    <td width="70%"> <strong>Mr Eugene Wong </strong><br>
-    <em>Senior Lecturer & Consultant, Digital Innovation & Design Practice,NUS-ISS </em>
+    <td width="30%"><img src="adeel" alt="adeel"></td>
+    <td width="70%"> <strong>Mr Mohammad Adeel Khan </strong><br>
+    <em>Technology Specialist, Microsoft </em>
     <br>
-    <p>Eugene is a practitioner and lecturer from Digital Innovation and Design Practice at the NUS-ISS,  supporting organisations in their digital transformation journeys through skills development, mentoring and consultancy in the areas of user experience, service design, design thinking and digital marketing. <br>
-      Eugene has a strong background in driving digital innovation initiatives across diverse industries including logistics, banking, healthcare, education, defence and media. He employs a mix of human-centered design and lean methodologies to achieve business viable and technologically feasible solutions that solve the right customer problems.  Eugene’s previous roles include leading a team of UX researchers and designers at NCS Digital, building team competencies in user research, design thinking, prototyping, and concept/usability testing, as well as driving several transformation project in the public sector. </p> </td>
+    <p>Seasoned Technology professional with experience in various digitization solutions for various industries. Experienced in devising, envisioning and managing implementations for Enterprise wide solutions with special focus on Microsoft Dynamics CRM. Fortunate to work with global brands in EMEA and APAC region. </p> </td>
   </tr>
   <tr>
     <td width="30%"><img src="" alt=""></td>

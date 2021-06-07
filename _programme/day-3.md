@@ -28,7 +28,7 @@ breadcrumb: 'Day 3'
       <h4>A Journey Through Design</h4>
       <em>Cyprian Wong, Smart Nation Fellow, Digital Design & Development, GovTech</em>
       <br><br>
-      Lessons, experiences and insights from 20-year design journey. Learn about the ups, downs, battle scars, life-long friends made and the ‘never-again’ moments.
+      An experienced design professional, Cyprian Wong brings to projects a holistic, data-driven and analytical approach to design and design processes. He will be sharing           lessons, experiences and insights from his 20-year design journey – the ups and downs, the battle scars, and the ‘never-again’ moments.
     </td>
   </tr>
 </table>
@@ -40,7 +40,7 @@ breadcrumb: 'Day 3'
     <td width="20%"><strong>10.00am - 11.00am</strong></td>
     <td width="80%">
       <h4>Coming Soon</h4>
-      <em>-</em>  
+      <em>Dr. Suriya Priya Asaithambi, Principal Lecturer & Consultant, Software Systems Practice, NUS-ISS</em>  
       <br><br>
       -
     </td>
@@ -53,7 +53,7 @@ breadcrumb: 'Day 3'
   <tr>
     <td width="20%"><strong>11.15am - 12.15pm</strong></td>
     <td width="80%">
-      <h4>Simply API management with Apigee and/or AppSheet, Google's no-code app building platform</h4>
+      <h4>Simply API management with Apigee</h4>
       <em>Google</em>
       <br><br>
       -
@@ -73,12 +73,12 @@ breadcrumb: 'Day 3'
     <td width="20%"><strong>1.15pm - 2.15pm</strong></td>
     <td width="80%">
       <h4>Democratising Application Development</h4>
-      <em>Adeel Khan, Microsoft</em>
+      <em>Mohammad Adeel Khan, Technology Specialist, Microsoft</em>
       <br><br>
       -
     <hr>
       <h4>Applications Security In The Age of Cyber</h4>
-      <em>John Lim,  Nanyang Polytechnic</em>
+      <em>Senior Lecturer, School of Information Technology, Cyber And Information Security, Nanyang Polytechnic</em>
       <br><br>
       -
     </td>
@@ -111,7 +111,7 @@ breadcrumb: 'Day 3'
     <td width="20%"><strong>3.45pm - 4.45pm</strong></td>
     <td width="80%">
       <h4>Coming Soon</h4>
-      <em>Eyung, GovTech</em>
+      <em>Lim Eyung, Director (Government Digital Services, D Cube), GovTech</em>
       <br><br>
       -
     <hr>
@@ -134,8 +134,8 @@ breadcrumb: 'Day 3'
       <br><br>
       Agile development and software outsourcing are concepts that don’t automatically go hand in hand and come with their unique set of challenges. But when done right, agile outsourcing can significantly boost the effectiveness of IT projects. In this talk, learn about how to make outsourced agile projects a success.
     <hr>
-      <h4>Coming Soon</h4>
-      Processworks
+      <h4>The Age of Exploration in testing has arrived!</h4>
+      <em> Nitin Bhawsar, Consultant, Processworks Group </em>
     </td>
   </tr>
 </table>

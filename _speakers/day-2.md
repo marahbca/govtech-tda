@@ -59,7 +59,9 @@ permalink: /speakers/day-2
     <td width="70%"><strong> Mr Melvin KL Wong </strong><br> 
         <em>Lead Infrastructure Architect, Managed Hosting Infrastructure, GovTech</em>
         <br><br>
-        <p>-</p>
+        <p>Melvin joined GovTech to architect and build the Government on Commercial Cloud (GCC) project to provide the Whole-of-Government the ability to extend their computing needs beyond on-premise technology into the next era of computing.<br>
+Melvin now leads the GCC Operations team after commissioning the project. He uses his knowledge from the design and implementation stage to support the operations of GCC to ensure continuity of the project.<br>
+Melvin is a Microsoft Certified Azure Solution Architect Expert and GCP Solution Architect Professional.</p>
     </td>
   </tr>
   <tr>

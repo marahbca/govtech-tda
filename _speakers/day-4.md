@@ -24,6 +24,14 @@ She graduated from an International Business Master Degree from EM Lyon business
   </td>
   </tr>
     <tr>
+    <td width="30%"><img src="" alt=""></td>
+    <td width="70%"><strong> Mr Cui Dawei</strong><br> 
+        <em>Technical Account Manager</em>
+        <br><br>
+        <p>Dawei is a Technical Account Manager from Google Cloud</p></td>
+  </tr>
+  </td>
+    <tr>
     <td width="30%"><img src="/images/datle.png" alt="datle"></td>
     <td width="70%"> <strong>Mr Dat Le </strong><br>
     <em>Director of Data, Foodpanda</em>
@@ -45,11 +53,14 @@ She graduated from an International Business Master Degree from EM Lyon business
     <p>Eric Karsten is a Data Scientist at Coursera. He works within the Insights and Research vertical, partnering with external university and NGO researchers to use Coursera’s data to answer valuable questions for the world. He also works with the Content Strategy team to forecast skills trends and content demand using signals from the Coursera platform. His work has been included in publications from the World Economic Forum. Eric holds an MA in Economics and a BA in mathematics, both from the University of Chicago. </p> </td>
   </tr>
   <tr>
-    <td width="30%"><img src="/images/boonkee.png" alt="boonkee"></td>
-    <td width="70%"><strong> Mr Lee Boon Kee</strong><br> 
+    <td width="30%"><img src="/images/kendrick.png" alt="kendrick"></td>
+    <td width="70%"><strong> Mr Kendrick Lee</strong><br> 
         <em>Principal Lecturer & Consultant, Digital Products & Platforms Practice</em>
         <br><br>
-        <p>Boon Kee's focus areas include consulting and teaching for continuing professional development at ISS, and helping customers drive success through digital product management best practices. He is teaching Digital Product Management for the Executive Education programme and the Graduate Programme. Prior to joining ISS, he has worked in Accenture, HP, EDS, Sun Microsystems, and NEC. He has over 30 years of work experience which spans the financial and telecommunications industries, as well as the education and government sectors. He has been actively engaging with companies on their digital transformation journey to move from a project-driven to a product-centric operating model in delivering products and services. He has helped these companies in adopting a comprehensive product management framework to drive digital vision, strategy, roadmap and deploy digital services at scale. He is a Certified Scrum Master, PMI PMP and Agile Certified Practitioner and a Master Blackblot Product Management Professional.</p></td>
+        <p>Kendrick Lee is Director of National Digital Identity (Singpass) programme at the Government Technology Agency of Singapore (GovTech). In this role, he oversees product management of application programming interfaces (API) as well as digital payments; with the aim of enabling secure and seamless transactions for residents, businesses and government agencies.<br>
+Prior to re-joining the public service in 2015, Kendrick held regional leadership roles in consulting, business development and solution architecture at Ernst & Young and Hewlett-Packard. He started his career at the Defence Science and Technology Agency (DSTA) where he was pioneering programme manager of the government's Risk Assessment and Horizon Scanning system.<br>
+He also serves the industry as adjunct lecturer for digital product strategy at the Institute of Systems Science (ISS-NUS), digital identity expert group member at the Biometrics Institute, and technical working group member of “Trusted Digital Infrastructure for Identity Systems” project with the Alan Turing Institute.<br>
+Kendrick holds a Bachelor of Engineering (Electrical) from the Nanyang Technological University, Singapore; and attended the Executive Leadership Program at Cornell University.</p></td>
   </tr>
     <tr>
     <td width="30%"><img src="/images/nirmal.png" alt="nirmal"></td>
@@ -85,13 +96,30 @@ She graduated from an International Business Master Degree from EM Lyon business
     <em>Senior Director, Solutions & Value Engineering, Qlik </em>
     <br>
     <p>CK is a Senior Director in Global Solutions and Value Engineering at Qlik. His team focus on business value consulting and advises top strategic clients in Asia Pacific to create strategic, well-aligned data and analytics solutions. As a design thinking practitioner, he often incorporates human-centred design to help businesses transform their business by adopting data-first culture and sustainable data-driven practices. 
-He brings to his role over 15 years of progressive experience in consulting, product marketing and industry sales within the Analytics and Technology space. He has extensive experience in leading consultancy practice teams whose focus is on delivering business value and driving customer success within data and analytics.. </p> </td>
+He brings to his role over 15 years of progressive experience in consulting, product marketing and industry sales within the Analytics and Technology space. He has extensive experience in leading consultancy practice teams whose focus is on delivering business value and driving customer success within data and analytics. </p> </td>
   </tr>
   <tr>
-    <td width="30%"><img src="/images/weiming.png" alt="weiming"></td>
-    <td width="70%"><strong> Mr Wei Ming </strong><br> 
-        <em>-</em>
+    <td width="30%"><img src="/images/beeteck.png" alt="beeteck"></td>
+    <td width="70%"><strong> Mr Tan Bee Teck </strong><br> 
+        <em>MOE CIO and Divisional Director IT / Senior Director Education Cluster and Apps Portfolio Remake, GovTech</em>
         <br><br>
         <p>-</p></td>
+  </tr>
+  <tr>
+    <td width="30%"><img src="" alt=""></td>
+    <td width="70%"> <strong>Mr Tomo Farid</strong><br>
+    <em>Customer Engineering Associate Trainee, Google</em>
+    <br>
+    <p>Tomo is a Customer Engineering Associate Trainee from Google Cloud. </p> </td>
+  </tr>
+  <tr>
+    <td width="30%"><img src="/images/jenhong.png" alt="jenhong"></td>
+    <td width="70%"> <strong>Dr Tan Jen Hong</strong><br>
+    <em>Lecturer & Consultant, Artificial Intelligence Practice, NUS-ISS</em>
+    <br>
+    <p>Jen Hong develops algorithms. He specializes in deep learning, image processing and medical image diagnosis. He designs illustrations, web page and posters. He plays piano.<br>
+He invented a mathematical model to analyze dry eye. He used deep learning to correct medical images. He trained deep learning models to identify pathologies in retinal images. And he made deep learning to draw anatomical features.<br>
+He was the co-Principal Investigator of 6 research grants and 3 clinical trials. He and his team member co-developed algorithms to diagnose breast cancer, ovarian cancer, heart attack, fatty liver, diabetic retinopathy, epilepsy and glaucoma. He has published more than 90 journal articles, 12 of which are deep learning related.<br>
+Worldwide his publications are cited more than 6100 times. He was awarded the ‘Highly Cited Researchers’ by Clarivate Web of Science (Top 0.1% worldwide) in the category of Computer Science in 2020 </p></td>
   </tr>
 </table>

@@ -25,8 +25,8 @@ breadcrumb: 'Day 5'
   <tr>
     <td width="20%"><strong>8.45am - 9.45am</strong></td>
     <td width="80%">
-      <h4>Anchor Event </h4>
-      Panel discussion
+      <h4>Coming Soon </h4>
+      -
     </td>
   </tr>
 </table>
@@ -74,14 +74,14 @@ breadcrumb: 'Day 5'
     <td width="20%"><strong>1.15pm - 2.15pm</strong></td>
     <td width="80%">
       <h4>Coming Soon</h4>
-      <em>Timothy Tan, GovTech</em>
+      <em>Timothy Tan, Senior Robotics Engineer, Sensors & IOT, GovTech</em>
       <br><br>
       -
     <hr>
-      <h4>Coming Soon</h4>
-      <em>Max Neo, NUS-ISS</em>
+      <h4>The 5 most important skills for IT leaders in the digital age</h4>
+      <em>Damine Cummings, Chief, Digital Strategy & Leadership Practice, NUS-ISS </em>
       <br><br>
-      -
+      This session demonstrates what a leader needs to be successful in the digital age. More than just technical skills, an inspirational digital leader sets a clear vision, develops high performing teams, manages complex change and bring stakeholders on the journey. Learn what you need to do to be successful.
     </td>
   </tr>
 </table>

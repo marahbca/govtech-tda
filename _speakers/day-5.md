@@ -5,6 +5,15 @@ permalink: /speakers/day-5
 
 <table>
   <tr>
+    <td width="30%"><img src="/images/damien.png" alt="damien"></td>
+    <td width="70%"> <strong>Mr Damien Cummings</strong><br>
+    <em>Chief, Digital Strategy & Leadership Practice, NUS-ISS</em>
+    <br>
+    <p>Damien is one of Asia Pacific's most recognised digital transformation leaders. He is highly awarded, being honoured with a Doctor of Philosophy in Management (honoris causa) from KEISIE University, Korea in October 2017. He's also been awarded “Global Top 50 Digital Marketing Leaders 2016”, “Financial Services Marketer of the Year 2016”, “Digital Marketer of the Year 2016”, "Most Influential CMO 2015", "Marketing Professional of The Year 2012" and the "Brand Leadership Award 2011".<br>
+Damien is currently the Chief, Digital Strategy & Leadership practice at the Institute of Systems Science. Before joining NUS-ISS, he was CEO of hr technology/SaaS company, Peoplewave. Before entrepreneurship, he was Global Head of Digital Marketing at Standard Chartered Bank and Chief Marketing Officer at Philips APAC. Damien has also worked at major global brands such as Samsung, Dell, Ogilvy & Mather, Citibank, Coca-Cola, NRMA and McKinsey & Company.<br>
+He has been a judge for many awards and a top-ranked keynote speaker, chairman or commentator on digital transformation, marketing and people management. Damien has held industry leadership positions including APAC Board Director of the Mobile Marketing Association, APAC Advisory Board of the CMO Council and the Global Executive Committee of the World Federation of Advertisers. </p> </td>
+  </tr>
+  <tr>
     <td width="30%"><img src="/images/matt.png" alt="matt"></td>
     <td width="70%"> <strong>Dr Matthew Chua </strong><br>
     <em>Lecturer & Consultant, Smart Health Leadership Centre, NUS-ISS </em>
@@ -20,16 +29,19 @@ permalink: /speakers/day-5
 Chi Siong brings with him over 20 years of industry experience and a strong passion in strategic planning and management, IT delivery and in coaching and enabling teams. Chi Siong holds a Bachelor of Science (Computer & Information Sciences) with Honours from the National University of Singapore, a Master of Technology (Software Engineering) from the Institute of Systems Science, NUS, a Master of Science in Applied Gerontology from Nanyang Technological University and is an alumni of the Harvard Business School’s General Management Program.</p></td>
   </tr>
   <tr>
-    <td width="30%"><img src="/images/timothy.png" alt="timothy"></td>
+    <td width="30%"><img src="" alt=""></td>
     <td width="70%"> <strong>Mr Timothy Tan </strong><br>
     <em>Senior Robotics Engineer, Sensors & IOT, GovTech </em>
     <br>
-    <p>- </p> </td>
+    <p>Timothy-Joe has been working on Robotics and Unmanned Systems since 2007, when he first joined DSO National Laboratories
+A graduate of NTU(Mechatronics), Timothy started by working on expert systems for the for Navy USV programs, subsequently moving on to work on urban VTOL and fixed wing drones, both large and small. In 2017, Tim pioneered the use of game engines, to prototype future systems conops (concept of operations) developments for unmanned systems<br>
+Tim has extensive experience in unmanned systems integration, also for dynamic systems identification and modelling, flight control/avionics and simulation.  He is currently based in Govtech and is currently heading the Robotics team there, working with NR2PO on RMF-Decada developments for national use.
+</p> </td>
   </tr>
   <tr>
     <td width="30%"><img src="/images/ujjwal.png" alt="ujjwal"></td>
     <td width="70%"><strong> Mr Ujjwal Kumar</strong><br> 
-        <em>Microsoft</em>
+        <em>Lead Architect, Microsoft</em>
         <br><br>
         <p>His Professional Credentials include Lean Six Sigma Black Belt, PMP,  and TBEM Assessor (Tata Business Excellence Model).</p></td>
   </tr>

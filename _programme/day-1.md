@@ -25,7 +25,7 @@ breadcrumb: 'Day 1'
     <td width="20%"><strong>2.30pm - 2.50pm</strong></td>
     <td width="80%">
       <h4>SecureCode Warrior Coding Tournament announcement</h4>
-      <em>Chin Loon & SCW</em>
+      <em>Chai Chin Loon, Senior Director, Cybersecurity Group, Govtech</em>
     </td>
   </tr>
 </table>
@@ -37,7 +37,11 @@ breadcrumb: 'Day 1'
     <td width="20%"><strong>2.50pm - 3.30pm</strong></td>
     <td width="80%">
       <h4>Panel discussion: Transition to Zero trust for Government</h4>
-      Panelist –Microsoft, CSA, moderator by Chin Loon
+      <em>Moderator: <br>
+      Chai Chin Loon, Senior Director, Cybersecurity Group, Govtech<br><br>
+      Panelist:<br>
+      Avinash  Lotke, Head of Security Solutions, APJ, Microsoft<br>    
+        Yum Shoen Yih, Director, Cyber Security Agency (CSA) </em>
     </td>
   </tr>
 </table>

@@ -5,6 +5,10 @@ permalink: /symposium
 
 
 <h1>Programme</h1>
+**Mon, 21 Jun 2021**
+<br>
+<a href="https://form.gov.sg/60b5ff7eadb885001238b51a" class="bp-button is-secondary is-uppercase search-button" target="_blank">Register Now</a>
+<hr style="margin-top:0;">
 <table>
   <tr>
     <td width="30%">9.00am - 9.10am</td>
@@ -86,4 +90,5 @@ AWS, Coursera, Google, Microsoft, Qlik, Secure Code Warrior, TrustWave, Tableau 
   </tr>
 </table>
 
-
+<a href="https://form.gov.sg/60b5ff7eadb885001238b51a" class="bp-button is-secondary is-uppercase search-button" target="_blank">Register Now</a>
+<hr style="margin-top:0;">

@@ -84,11 +84,11 @@ Melvin is a Microsoft Certified Azure Solution Architect Expert and GCP Solution
     </td>
   </tr>
   <tr>
-    <td width="30%"><img src="" alt=""></td>
-    <td width="70%"><strong>Woh Shon</strong><br> 
+    <td width="30%"><img src="wohshon" alt="wohshon"></td>
+    <td width="70%"><strong>Phoon Woh Shon</strong><br> 
         <em>Customer Engineer, Google</em>
         <br><br>
-        <p>Woh Shon is a Customer Engineer from Google Cloud, focusing on Application Modernisation. Prior to Google Cloud, Woh Shon works in a similar capacity with several technology companies, specializing in the area of cloud and container technologies.</p>
+        <p>Woh Shon is a Customer Engineer from Google Cloud, focusing on Application Modernisation. Prior to Google Cloud, Woh Shon works in a similar capacity with several technology companies, specialising in the area of cloud and container technologies.</p>
     </td>
   </tr>
 </table>

@@ -42,8 +42,10 @@ breadcrumb: 'Day 5'
       <br><br>
       With the upward trend in IoT adoption and the government’s focus on Smart Nation initiatives, there has been increasing interest in the smart city ecosystem. Dr Matthew Chua will share how his team at NUS-ISS spearheaded IoT projects to improve quality of life in urban Singapore.
     <hr>
-      <h4>Coming Soon</h4>
-      -
+      <h4>Blockchain, Introduction to blockchain and ledger technologies on AWS</h4>
+      <em>Nikolay Vlasov, Senior Blockchain Architect, Amazon Web Services </em>
+      <br><br> 
+      Many organisations want speed up their business transactions, with an immutable record of transactions to improve audit ability of their data. They typically create blockchain networks using frameworks like Hyperledger Fabric and Ethereum or use centralized digital ledger databases. In this session Amazon Web Services will share how they are helping customers to take care of the heavy lifting so that they can focus on application development instead of keeping a blockchain network up and running.
     </td>
   </tr>
 </table>

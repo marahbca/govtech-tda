@@ -29,9 +29,18 @@ permalink: /speakers/day-1
   <tr>
     <td width="30%"><img src="/images/jim.png" alt="jim"></td>
   <td width="70%"><strong> Mr Jim Fitzsimmons </strong> <br>
-    <em>Jim Fitzsimmons, Director, Control Risks</em>
+    <em>Director, Control Risks</em>
     <br> 
     <p> Jim Fitzsimmons from Control Risks is a Principal in the Cyber Security Consulting team responsible for managing and delivering complex security projects.  He has over 25 years of experience in providing IT security and consulting services to a variety of government agencies and industry verticals in the United States, China, Vietnam and Singapore. </p></td>
+  </tr>
+   <tr>
+    <td width="30%"><img src="/images/pieter.png" alt="pieter"></td>
+  <td width="70%"><strong> Mr Pieter Danhieux  </strong> <br>
+    <em>CEO & Co Founder, Secure Code Warrior </em>
+    <br> 
+    <p>Pieter Danhieux is the CoFounder/CEO of Secure Code Warrior, a global security company that makes software development better and more secure. In 2016, he was No. 80 on the list of Coolest Tech people in Australia (Business Insider) and awarded Cyber Security Professional of the Year (AISA - Australian Information Security Association).<br>
+Pieter is also a Principal instructor for the SANS Institute teaching military, government and private organisations offensive techniques on how to target and assess organisations, systems and individuals for security weaknesses. He also serves as an advisory board member of NVISO, a cyber security consulting company in Europe. Before starting his own company, Pieter worked at Ernst & Young and BAE Systems. He is also one of the Co-Founders of BruCON, one of the most awesome hacking conferences on this planet.<br>
+He started his information security career early in life and obtained the Certified Information Systems Security Professional (CISSP) certification as one of the youngest persons ever in Belgium. On his way, he collected a whole range of cyber security certificates (CISA, GCFA, GCIH, GPEN, GWAP) and is currently one of the select few people worldwide to hold the top certification GIAC Security Expert (GSE). </p></td>
   </tr>
     <tr>
     <td width="30%"><img src="/images/vivek.png" alt="vivek"></td>

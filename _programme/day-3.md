@@ -39,10 +39,14 @@ breadcrumb: 'Day 3'
   <tr>
     <td width="20%"><strong>10.00am - 11.00am</strong></td>
     <td width="80%">
-      <h4>Coming Soon</h4>
-      <em>Dr. Suriya Priya Asaithambi, Principal Lecturer & Consultant, Software Systems Practice, NUS-ISS</em>  
+      <h4>Automating Application Deployment, Scaling, and Management</h4>
+      <em>Suriya Priya Asaithambi, Principal Lecturer & Consultant, Software Systems Practice, NUS-ISS<br>
+      Pier Lim, Senior Machine Learning Engineer, Digital Technology, Temasek Singapore<br>
+      Ramprasath Ramamurthi, Consultant, NCS Group Singapore<br>
+      Pranay Roy, Data Technologist,Oracle Singapore<br>
+      Vivek Karthy Ravi  Cloud Architect (Azure and AWS Certified), Avanade Systems Singapore</em>  
       <br><br>
-      -
+      Thanks to disruptive green field technologies, the cloud native applications and data intensive pipelines are here to stay. The effectiveness of such application             management is measured by our ability to automate processes. Hear first-hand experience sharing from industry practitioners, regarding automating application                 deployment, scaling, and management. 
     </td>
   </tr>
 </table>

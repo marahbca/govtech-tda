@@ -97,8 +97,10 @@ breadcrumb: 'Day 5'
       <br><br>
       In a digital age, a leader needs to empower people to thrive through the evolution and complexities of the digital space. Learn about the heartware of digital leadership in a VUCA environment, and the key to creating a trusting culture and building adaptive capabilities for an end-to-end transformation.
     <hr>
-      <h4>Coming Soon</h4>
-      -
+      <h4>Powering Singapore's Digital Economy with Knowledge and Technology</h4>
+      <em>Robin Fong, ASEAN Regional Director, Neo4j </em>
+      <br><br>
+      As Singapore powers towards being a Smart Nation through digital transformation into a Digital Economy, the need to understand the WHAT and the HOW is critical to chart the nation's progressive journey. Neo4j is here to provide this world leading way of connecting data in a Data Economy. Neo4j is also here to provide the knowhow gathered from our experiences working with Governments around the world to support the building of policies, enablement programs, thought leadership on the subject of Connected Data, to twin with the Technology component. In this session, we will be sharing the possible deployments of the Graph Data Platform in support of citizens service, national security,mobility and Supply Chain. We will also be exploring how to enable both the public and private sectors, with the support of our Open Source ecosystem, through our Graphs4SG initiative.
     </td>
   </tr>
 </table>

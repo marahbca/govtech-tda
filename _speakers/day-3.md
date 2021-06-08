@@ -84,6 +84,51 @@ Trained several thousands on information technology professionals in various IT 
     <br>
     <p>-</p> </td>
   </tr>
+    <tr>
+    <td width="30%"><img src="/images/pier.png" alt="pier"></td>
+    <td width="70%"><strong> Mr Pier Lim</strong><br> 
+        <em>Senior Machine Learning Engineer, Digital Technology,Temasek Singapore</em>
+        <br>
+        <p>Bring business value by harnessing the power of data science and software.</p>
+  </td>
+  </tr>
+  <tr>
+    <td width="30%"><img src="/images/pranay.png" alt="pranay"></td>
+    <td width="70%"><strong> Mr Pranay Roy</strong><br> 
+        <em>Data Technologist, Oracle Singapore</em>
+        <br>
+        <p>I believe that time, energy and attention are the most precious currencies. Everything I do, starts with this understanding.<br>
+My experience spans across machine learning, Analytics, NLP and Search - in building data products (and consulting) using sales, marketing, finance, CRM, e-commerce and social datasets.<br>
+The convergence of engineering, data, and design inspires me.</p>
+  </td>
+  </tr>
+  <tr>
+    <td width="30%"><img src="/images/ramprasath.png" alt="ramprasath"></td>
+    <td width="70%"><strong> Mr Ramprasath Ramamurthi </strong><br> 
+        <em>Consultant, NCS Group Singapore</em>
+        <br>
+        <p>-</p>
+  </td>
+  </tr>
+  <tr>
+    <td width="30%"><img src="/images/suriya.png" alt="suriya"></td>
+    <td width="70%"><strong> Dr Suriya Priya Asaithambi</strong><br> 
+        <em>Principal Lecturer & Consultant, Software Systems Practice, NUS-ISS</em>
+        <br>
+        <p>Suria has twenty years of teaching and consulting experience in areas such as software engineering, application architecture, crafting cloud services, agile development and big data engineering.  Her research interest spans around cloud computing, software engineering, test automation and big data engineering.  Prior to joining ISS, she worked as technical consultant in various capacities for software firms and MNCs where her roles and contribution involved application architecture, leadership, and software delivery and stakeholder management. Prior to migrating to Singapore, she was a senior lecturer in School of Computing, SASTRA India.<br>
+At sastra, she has taught a range of computing subjects such as parallel & distributed systems, computer algorithms, compiler design and database management. At Institute of systems science, she her focus is on different styles of distributed computing. She handles architectural, organizational and engineering aspects of enterprise platforms, grid computing, cloud computing, software development, software testing and big data engineering for analytics.<br>
+Suria is passionate about creating software that is elegantly engineered, user-centric, adaptable, maintainable and lucrative. She has taught international audiences of various background. She enjoys mentoring, teaching and crafting course materials that engages active learning among participants.<br>
+In research, Suria has published research articles in conferences and seminars. She also participates in review and approval of technical references and standards related to Cloud Computing as a member of ITSC, Singapore.  In addition to her teaching and research portfolios, Suria has also contributed as a vendor neutral consultant in various capacities.</p>
+  </td>
+  </tr>
+  <tr>
+    <td width="30%"><img src="/images/vivekk.png" alt="vivekk"></td>
+    <td width="70%"><strong> Mr Vivek Karthy Ravi</strong><br> 
+        <em>Cloud Architect (Azure and AWS Certified), Avanade Systems Singapore</em>
+        <br>
+        <p>7+ years of Experience in providing Software Solutions for Major Public Service Clients such as : Inland Revenue Authority of Singapore (IRAS), Central Provident Fund Board - Singapore (CPFB), Singapore Pools & Private MNC clients such as Yokogawa, Frasers Property etc.</p>
+  </td>
+  </tr>
    <tr>
     <td width="30%"><img src="/images/hsinning.png" alt="hsinning"></td>
     <td width="70%"><strong> Dr Yong Hsin Ning </strong><br> 

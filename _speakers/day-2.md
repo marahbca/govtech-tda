@@ -84,7 +84,7 @@ Melvin is a Microsoft Certified Azure Solution Architect Expert and GCP Solution
     </td>
   </tr>
   <tr>
-    <td width="30%"><img src="wohshon" alt="wohshon"></td>
+    <td width="30%"><img src="/images/wohshon.png" alt="wohshon"></td>
     <td width="70%"><strong>Phoon Woh Shon</strong><br> 
         <em>Customer Engineer, Google</em>
         <br><br>

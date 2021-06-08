@@ -4,7 +4,7 @@ permalink: /symposium
 ---
 
 
-<h1>Programme</h1>
+<h2>Programme</h2>
 **Mon, 21 Jun 2021**
 <br>
 <a href="https://form.gov.sg/60b5ff7eadb885001238b51a" class="bp-button is-secondary is-uppercase search-button" target="_blank">Register Now</a>

@@ -5,11 +5,19 @@ permalink: /speakers/day-3
 
 <table>
   <tr>
-    <td width="30%"><img src="" alt=""></td>
+    <td width="30%"><img src="/images/angela.png" alt="angela"></td>
     <td width="70%"> <strong>Ms Angela Lim </strong><br>
     <em>Senior Assistant Director, ISTD, Ministry of Manpower </em>
     <br>
     <p>Joined Govtech in 2019 and leading a feature team in agile development project (WINS) in MOM. Awarded 2 agile outsource contracts within 1 year and experienced (still experiencing) in dealing with complexities of co-development model (agile outsourcing and inhouse development) in a agile environment. Also participated as TEC and successfully award 20003 agile bulk tender in 2020. </p> </td>
+  </tr>
+  <tr>
+    <td width="30%"><img src="/images/abhishek.png" alt="abhishek"></td>
+    <td width="70%"><strong> Mr Abhishek Pathak </strong><br> 
+        <em>Lead Customer Engineer, Apigee South East Asia</em>
+        <br>
+        <p>Hardcore technology enthusiast with strong first-hand experience in cloud, technical presales, enterprise architecture, system software, web technologies, people management and building high performance teams.</p>
+  </td>
   </tr>
   <tr>
     <td width="30%"><img src="/images/cyprian.png" alt="cyprian"></td>
@@ -42,8 +50,16 @@ permalink: /speakers/day-3
         <p>Florian serves ThoughtWorks as an Software and Infrastructure Engineer with end-to-end experience building technical solutions of varying complexity, technologies and scale. As a tech lead, Florian engages stakeholders as well as the whole delivery team to guide effective delivery of high-quality software that solves real business problems and advices clients on modern delivery practices and software architectures.</p>
   </td>
   </tr>
+  <tr>
+    <td width="30%"><img src="/images/hari.png" alt="hari"></td>
+    <td width="70%"> <strong>Mr Hari Subramanian</strong><br>
+    <em>ASEAN Lead - Business Application Platform- Apigee & AppSheet, Google</em>
+    <br>
+    <p>-</p> </td>
+  </tr>
+  <tr>
     <tr>
-    <td width="30%"><img src="" alt=""></td>
+    <td width="30%"><img src="/images/john.png" alt="john"></td>
     <td width="70%"> <strong>Mr John Lim</strong><br>
     <em>Senior Lecturer, School of Information Technology, Cyber And Information Security, Nanyang Polytechnic</em>
     <br>

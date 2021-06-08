@@ -23,9 +23,11 @@ breadcrumb: 'Day 4'
 
 <table>
   <tr>
-    <td width="20%"><strong>8.45am - 9.15am</strong></td>
+    <td width="20%"><strong>8.15am - 9.15am</strong></td>
     <td width="80%">
-    <h4>CIO’s role in transforming the business: CIO and agency sharing</h4>
+    <h4>Case Study Sharing:<br>Parent’s Gateway  (Technology Management) & Singpass API (Product Management)<br> </h4>
+    <em> Tan Bee Teck,   MOE CIO and Divisional Director IT / Senior Director Education Cluster and Apps Portfolio Remake, GovTech <br>
+     Kendrick Lee, Director (Trusted Data & Services), GovTech </em>
     </td>
   </tr>
 </table>
@@ -36,8 +38,9 @@ breadcrumb: 'Day 4'
   <tr>
     <td width="20%"><strong>9.15am - 9.45am</strong></td>
     <td width="80%">
-      <h4>Tech projects in business</h4>
-      <em>Kendrick & Bee Teck (e.g. NDI / LifeSG) + 2 panelists</em>
+      <h4>Coming Soon</h4>
+      <em>Tan Bee Teck, MOE CIO and Divisional Director IT / Senior Director Education Cluster and Apps Portfolio Remake, GovTech
+& Kendrick Lee, Director (Trusted Data & Services), GovTech</em>
       <br><br>
       -
     </td>
@@ -55,10 +58,11 @@ breadcrumb: 'Day 4'
       <br><br>
       Operational AI is an intelligent system designed for real-world applications, particularly at commercial scale. A new trend among organisations, it leverages analytics to improve the efficiency of processes. This talk will cover what kind of processes will benefit from operational AI and the path towards achieving those benefits.
     <hr>
-      <h4>Cloud Hero Hand-on Labs: Big Query / Artificial Intelligence / Machine Learning</h4>
-      <em>Google</em>
+      <h4>Cloud Hero Hands-On Labs: Intro to BigQuery: Analytics & Machine Learning</h4>
+      <em>Dawei Cui, Technical Account Manager, Google & Tomo Farid, Customer Engineering Associate Trainee, Google </em>
       <br><br>
-      -
+      In this session, we will briefly explain the technology behind the Cloud Hero Game and guide the participants through the first lab in the game. Participants will have time to complete the remining labs after the session. <br>
+      No prior knowledge on Cloud Technology is needed. All participants from all background are welcome and will find the session informative and enjoyable. However, it will be helpful if participants can register an account at https://google.qwiklabs.com/ before joining the session.
     </td>
   </tr>
 </table>
@@ -72,12 +76,12 @@ breadcrumb: 'Day 4'
       <h4>Coming Soon</h4>
       <em>Kendrick Lee, Director (Trusted Data & Services), GovTech and Dominic Chan, Director (Moments Of Life), GovTech & Daniel Boey, Chief, Digital Products & Platforms Practice, NUS-ISS</em>
       <br><br>
-      Going digital goes beyond just building digital assets to engage customers (or citizens) and employees. In the process, you probably hope to change your organisational culture to one that is agile and innovative. What are some key challenges to expect on this journey? Hear from the industry veterans.  
+      -  
     <hr>
       <h4>Becoming a Data-Driven Organisation & How Coursera is enabling Hands on Learning with Coursera Labs?</h4>
-      <em>Eric Karsten, Data Scientist Transformation for Data Science and AI- Sorabh Bajaj, Skills Transformation, Coursera</em>
+      <em>Eric Karsten, Data Scientist Transformation for Data Science and AI & Sorabh Bajaj, Skills Transformation, Coursera</em>
       <br><br>
-      -
+      Data allows organisations to make better decisions faster and to build personalised products at scale. In this talk, Coursera will share how we use our data at scale from personalised teaching interventions to skills tracking at scale. By the end of the talk you should understand how Coursera makes the most of its data and feel empowered to unlock data at scale in your organisation.
   </td>
   </tr>
 </table>
@@ -126,15 +130,15 @@ breadcrumb: 'Day 4'
   <tr>
     <td width="20%"><strong>3.45pm - 4.45pm</strong></td>
     <td width="80%">
-      <h4>Role of Product Managers in Service Excellence Delivery</h4>
-      <em>Wei Ming, Lee Boon Kee,Principal Lecturer & Consultant, Digital Products & Platforms Practice, NUS-ISS</em>
+      <h4>Coming Soon</h4>
+      <em>Tan Jen Hong, Lecturer & Consultant, Artificial Intelligence Practice, NUS-ISS</em>
       <br><br>
-      Today’s customers are spoilt for choices and it is therefore crucial to understand what your customers want and what they do not care about. Product managers need to drive the adoption of products and services through clear strategies – with a focus on speed and customer needs.   
+      -   
     <hr>
-      <h4>XAI and AI Ethics</h4>
+      <h4>eXplainable AI (XAI) and AI Ethics</h4>
       <em>Dr Tian Jing, Senior Lecturer & Consultant, Artificial Intelligence Practice, NUS-ISS</em>
       <br><br>
-      -
+      Modern AI systems are becoming a vital component of our modern world, due to their increasing capabilities of handling real-life challenges. However, the black box nature of some AI systems, which produce outcomes without explanation, is hindering the widespread adoption of AI. We need to understand why and how it makes predictions and decisions. This talk consists of two parts. The first part provides a brief explanation of XAI and its usages in video surveillance and finance industry. The second part provides an overview of AI Ethics in relation to AI model development and usage.
     </td>
   </tr>
 </table>

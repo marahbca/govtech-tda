@@ -46,6 +46,17 @@ permalink: /speakers/day-2
     </td>
   </tr>
   <tr>
+    <td width="30%"><img src="/images/chuk.png" alt="chuk"></td>
+    <td width="70%"><strong> Mr Lee Chuk Munn</strong><br> 
+        <em>Chief, StackUp Programme, NUS-ISS</em>
+        <br><br>
+        <p>Chuk current responsibilities includes developing courseware, and teaching graduate and public courses in enterprise software engineering, software architecture, web technologies and enterprise Java.<br>
+Prior to joining ISS, Chuk works for Oracle and Sun Microsystems where his main responsibilities includes helping customers and partners across all industries in the APAC region, to develop, size and tune applications deployed to Java EE Application Servers.<br>
+Chuk has more than 20 years of working experience and more than 30 years of developing and debugging software.<br>
+His interest includes peer-to-peer networks, application frameworks, Java Virtual Machine and dynamic languages. He keeps himself busy by contributing to various open source projects.</p>
+    </td>
+  </tr>
+  <tr>
     <td width="30%"><img src="/images/marcus.png" alt="marcus"></td>
     <td width="70%"> <strong>Mr Marcus Tee </strong><br>
     <em>Solutions Architect, Microsoft </em>
@@ -59,15 +70,25 @@ permalink: /speakers/day-2
     <td width="70%"><strong> Mr Melvin KL Wong </strong><br> 
         <em>Lead Infrastructure Architect, Managed Hosting Infrastructure, GovTech</em>
         <br><br>
-        <p>-</p>
+        <p>Melvin joined GovTech to architect and build the Government on Commercial Cloud (GCC) project to provide the Whole-of-Government the ability to extend their computing needs beyond on-premise technology into the next era of computing.<br>
+Melvin now leads the GCC Operations team after commissioning the project. He uses his knowledge from the design and implementation stage to support the operations of GCC to ensure continuity of the project.<br>
+Melvin is a Microsoft Certified Azure Solution Architect Expert and GCP Solution Architect Professional.</p>
     </td>
   </tr>
   <tr>
-    <td width="30%"><img src="/images/siewbee.png" alt="siewbee"></td>
+    <td width="30%"><img src="" alt=""></td>
     <td width="70%"> <strong>Ms Lam Siew Bee</strong><br>
     <em>Deputy Director, GIG Planning & Governance, GovTech </em>
     <br>
     <p>-</p> 
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><img src="/images/wohshon.png" alt="wohshon"></td>
+    <td width="70%"><strong>Phoon Woh Shon</strong><br> 
+        <em>Customer Engineer, Google</em>
+        <br><br>
+        <p>Woh Shon is a Customer Engineer from Google Cloud, focusing on Application Modernisation. Prior to Google Cloud, Woh Shon works in a similar capacity with several technology companies, specialising in the area of cloud and container technologies.</p>
     </td>
   </tr>
 </table>

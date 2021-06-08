@@ -25,7 +25,8 @@ breadcrumb: 'Day 1'
     <td width="20%"><strong>2.30pm - 2.50pm</strong></td>
     <td width="80%">
       <h4>SecureCode Warrior Coding Tournament announcement</h4>
-      <em>Chin Loon & SCW</em>
+      <em>Chai Chin Loon, Senior Director, Cybersecurity Group, Govtech<br>
+      Pieter Danhieux, CEO & Co Founder, Secure Code Warrior</em>
     </td>
   </tr>
 </table>
@@ -37,7 +38,11 @@ breadcrumb: 'Day 1'
     <td width="20%"><strong>2.50pm - 3.30pm</strong></td>
     <td width="80%">
       <h4>Panel discussion: Transition to Zero trust for Government</h4>
-      Panelist –Microsoft, CSA, moderator by Chin Loon
+      <em>Moderator: <br>
+      Chai Chin Loon, Senior Director, Cybersecurity Group, Govtech<br><br>
+      Panelist:<br>
+      Avinash  Lotke, Head of Security Solutions, APJ, Microsoft<br>    
+        Yum Shoen Yih, Director, Cyber Security Agency (CSA) </em>
     </td>
   </tr>
 </table>
@@ -67,7 +72,7 @@ breadcrumb: 'Day 1'
   <tr>
     <td width="20%"><strong>5.00pm - 6.00pm</strong></td>
     <td width="80%">
-      <h4>It is a matter of when, NOT if.  Leadership lessons from managing response and recovery from cyber-attacks targeting public sector.</h4>
+      <h4>It is a matter of when, NOT if.  Leadership lessons in managing cyber-attacks.</h4>
       <em>Wilson Tan, Director, Trustwave and Jim Fitzsimmons, Director, Control Risks</em>
       <br><br>
       Are you ready when your agency is hit with a cyber-attack? Agency leadership must be prepared for challenges much more complex than a simple technology incident. Beyond       the technical response of triage, investigation and remediation, a whole-of-organisation response is required to navigate the agency through the crisis.

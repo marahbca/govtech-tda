@@ -25,8 +25,8 @@ breadcrumb: 'Day 5'
   <tr>
     <td width="20%"><strong>8.45am - 9.45am</strong></td>
     <td width="80%">
-      <h4>Anchor Event </h4>
-      Panel discussion
+      <h4>Coming Soon </h4>
+      -
     </td>
   </tr>
 </table>
@@ -38,12 +38,14 @@ breadcrumb: 'Day 5'
     <td width="20%"><strong>10.00am - 11.00am</strong></td>
     <td width="80%">
       <h4>Driving Smart Urban Solutions with IOT</h4>
-      <em>Dr Matthew Chua,Lecturer & Consultant, Smart Health Leadership Centre, NUS-ISS</em>
+      <em>Matthew Chua,Lecturer & Consultant, Smart Health Leadership Centre, NUS-ISS</em>
       <br><br>
       With the upward trend in IoT adoption and the government’s focus on Smart Nation initiatives, there has been increasing interest in the smart city ecosystem. Dr Matthew Chua will share how his team at NUS-ISS spearheaded IoT projects to improve quality of life in urban Singapore.
     <hr>
-      <h4>Coming Soon</h4>
-      -
+      <h4>Blockchain, Introduction to blockchain and ledger technologies on AWS</h4>
+      <em>Nikolay Vlasov, Senior Blockchain Architect, Amazon Web Services </em>
+      <br><br> 
+      Many organisations want speed up their business transactions, with an immutable record of transactions to improve audit ability of their data. They typically create blockchain networks using frameworks like Hyperledger Fabric and Ethereum or use centralized digital ledger databases. In this session Amazon Web Services will share how they are helping customers to take care of the heavy lifting so that they can focus on application development instead of keeping a blockchain network up and running.
     </td>
   </tr>
 </table>
@@ -74,14 +76,14 @@ breadcrumb: 'Day 5'
     <td width="20%"><strong>1.15pm - 2.15pm</strong></td>
     <td width="80%">
       <h4>Coming Soon</h4>
-      <em>Timothy Tan, GovTech</em>
+      <em>Timothy Tan, Senior Robotics Engineer, Sensors & IOT, GovTech</em>
       <br><br>
       -
     <hr>
-      <h4>Coming Soon</h4>
-      <em>Max Neo, NUS-ISS</em>
+      <h4>The 5 most important skills for IT leaders in the digital age</h4>
+      <em>Damine Cummings, Chief, Digital Strategy & Leadership Practice, NUS-ISS </em>
       <br><br>
-      -
+      This session demonstrates what a leader needs to be successful in the digital age. More than just technical skills, an inspirational digital leader sets a clear vision, develops high performing teams, manages complex change and bring stakeholders on the journey. Learn what you need to do to be successful.
     </td>
   </tr>
 </table>
@@ -97,8 +99,10 @@ breadcrumb: 'Day 5'
       <br><br>
       In a digital age, a leader needs to empower people to thrive through the evolution and complexities of the digital space. Learn about the heartware of digital leadership in a VUCA environment, and the key to creating a trusting culture and building adaptive capabilities for an end-to-end transformation.
     <hr>
-      <h4>Coming Soon</h4>
-      -
+      <h4>Powering Singapore's Digital Economy with Knowledge and Technology</h4>
+      <em>Robin Fong, ASEAN Regional Director, Neo4j </em>
+      <br><br>
+      As Singapore powers towards being a Smart Nation through digital transformation into a Digital Economy, the need to understand the WHAT and the HOW is critical to chart the nation's progressive journey. Neo4j is here to provide this world leading way of connecting data in a Data Economy. Neo4j is also here to provide the knowhow gathered from our experiences working with Governments around the world to support the building of policies, enablement programs, thought leadership on the subject of Connected Data, to twin with the Technology component. In this session, we will be sharing the possible deployments of the Graph Data Platform in support of citizens service, national security,mobility and Supply Chain. We will also be exploring how to enable both the public and private sectors, with the support of our Open Source ecosystem, through our Graphs4SG initiative.
     </td>
   </tr>
 </table>

@@ -57,10 +57,10 @@ breadcrumb: 'Day 3'
   <tr>
     <td width="20%"><strong>11.15am - 12.15pm</strong></td>
     <td width="80%">
-      <h4>Simply API management with Apigee</h4>
-      <em>Google</em>
+      <h4>API Management with Google Cloud</h4>
+      <em>Harihara Subramaniam and Abhishek Pathak, Google </em>
       <br><br>
-      -
+      Learn how Apigee can help you expose your core assets externally via APIs in a scalable and secure manner. As part of this session, we will touch upon the basics of API management and its applications for public sector - such as offering citizen services, internal agency data sharing and app modernisation.
       <hr>
       <h4>DevOps in App Development </h4>
       <em>Mahesh Krishnamurthy,Business Head of ECCI (Apex Global)</em>
@@ -82,7 +82,7 @@ breadcrumb: 'Day 3'
       -
     <hr>
       <h4>Applications Security In The Age of Cyber</h4>
-      <em>Senior Lecturer, School of Information Technology, Cyber And Information Security, Nanyang Polytechnic</em>
+      <em>John Lim, Senior Lecturer, School of Information Technology, Cyber And Information Security, Nanyang Polytechnic</em>
       <br><br>
       -
     </td>

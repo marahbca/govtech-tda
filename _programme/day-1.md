@@ -25,7 +25,8 @@ breadcrumb: 'Day 1'
     <td width="20%"><strong>2.30pm - 2.50pm</strong></td>
     <td width="80%">
       <h4>SecureCode Warrior Coding Tournament announcement</h4>
-      <em>Chai Chin Loon, Senior Director, Cybersecurity Group, Govtech</em>
+      <em>Chai Chin Loon, Senior Director, Cybersecurity Group, Govtech<br>
+      Pieter Danhieux, CEO & Co Founder, Secure Code Warrior</em>
     </td>
   </tr>
 </table>

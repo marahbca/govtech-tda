@@ -21,6 +21,16 @@ He has been a judge for many awards and a top-ranked keynote speaker, chairman o
     <p>Dr Matthew Chua is currently a lecturer and principal investigator at the NUS Institute of System Science where he leads the research into Smart Healthcare, Artificial Intelligence and Advanced Robotics. He has won prestigious research grants, amounting to more than S$1 million, from Ministry of Health, SG Enable, HealthTEC and internationally. His wide array of expertise makes him a highly sought after collaborator from various industries. </p> </td>
   </tr>
   <tr>
+   <tr>
+    <td width="30%"><img src="/images/robin.png" alt="robin"></td>
+    <td width="70%"> <strong>Mr Robin Fong </strong><br>
+    <em>ASEAN Regional Director,Neo4j</em>
+    <br>
+    <p>Robin is responsible for the Neo4j business in South East Asia. Neo4j is a market leader in graph data platform helping organizations to gain insights through connections and relationships in data.<br>
+Prior to Neo4j, Robin spent more than 10 years in regional sales and business development roles focused on Data Analytics with software companies like Qubole, MapR, Pivotal, SAP and Oracle. Prior to that, Robin worked in consulting roles with Accenture and 3M.<br>
+Robin is an established thought leader in Big Data Analytics and was featured as a regular speaker at industry and IT events.Robin graduated from the Nanyang Technological University of Singapore with an Honours degree in Accountancy.
+</p> </td>
+  </tr> 
     <td width="30%"><img src="/images/chisiong.png" alt="chisiong"></td>
     <td width="70%"><strong> Mr Tan Chi Siong </strong><br> 
         <em>Chief, MTech Digital Leadership Programme, NUS-ISS</em>

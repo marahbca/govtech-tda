@@ -22,6 +22,15 @@ He has been a judge for many awards and a top-ranked keynote speaker, chairman o
   </tr>
   <tr>
    <tr>
+    <td width="30%"><img src="/images/nikolay.png" alt="nikolay"></td>
+    <td width="70%"> <strong>Mr Nikolay Vlasov </strong><br>
+    <em>Senior Blockchain Architect, Amazon Web Services</em>
+    <br>
+    <p>Nikolay Vlasov is a Senior Blockchain Architect with AWS Professional Services. Being part of a Global Speciality Practice team, he helps clients worldwide to turn their ideas into Pilots, Minimally Viable Products, and Production-ready systems based on blockchain technology.
+</p> </td>
+  </tr> 
+  <tr>
+   <tr>
     <td width="30%"><img src="/images/robin.png" alt="robin"></td>
     <td width="70%"> <strong>Mr Robin Fong </strong><br>
     <em>ASEAN Regional Director,Neo4j</em>

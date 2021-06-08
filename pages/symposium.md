@@ -90,6 +90,6 @@ AWS, Coursera, Google, Microsoft, Qlik, Secure Code Warrior, TrustWave, Tableau 
   </tr>
 </table>
 
-<hr style="margin-top:0;">
+<hr>
 <a href="https://form.gov.sg/60b5ff7eadb885001238b51a" class="bp-button is-secondary is-uppercase search-button" target="_blank">Register Now</a>
 

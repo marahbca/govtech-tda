@@ -66,6 +66,15 @@ She graduated from an International Business Master Degree from EM Lyon business
     </td>
   </tr>
   
+   <tr>
+    <td width="30%"><img src="/images/joseph.png" alt="joseph"></td>
+    <td width="70%"> <strong>Mr Joseph Tan </strong><br>
+    <em>Assistant Director, Capability Development, GovTech</em>
+    <br>
+    <p>Joseph is an Assistant Director in GovTech's Data Science and AI Division. He leads the Capability Development team that runs data initiatives to upskill public officers and uplift agencies across the whole-of-government, as well as the team responsible for executing data transformation efforts in GovTech. Prior to that, Joseph had undertaken roles in various public agencies, from academic roles to programme management.</p>
+    </td>
+  </tr>
+  
   <!--Speaker-->
   <tr>
     <td width="30%"><img src="/images/kendrick.png" alt="kendrick"></td>

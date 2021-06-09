@@ -6,7 +6,7 @@ image: /images/tda-logo.png
 permalink: /
 sections:
     - hero:
-        title: The Digital Academy Learning Festival
+        title: The Digital Academy Launch Symposium & Learning Festival
         subtitle: 21 to 25 June 2021
         background: /images/website-header.jpg
         button: See Full Programme

@@ -77,7 +77,7 @@ AWS, Coursera, Google, Microsoft, Qlik, Secure Code Warrior, TrustWave, Tableau 
       <em>Senior Director (Strategy, People & Organisation), GovTech</em>
       <br><br>
       <strong>Panelists:</strong><br>
-      <ul>
+      <ul style="font-size: 1rem;">
         <li>
           Dr Janil Puthucheary<br>
           <em>Senior Minister of State, Ministry of Communications and Information of Singapore</em>

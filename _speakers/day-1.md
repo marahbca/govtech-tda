@@ -5,6 +5,14 @@ permalink: /speakers/day-1
 
 <table>
   <tr>
+    <td width="30%"><img src="/images/abbas.png" alt="abbas"></td>
+    <td width="70%"> <strong>Mr Abbas Kudrati</strong><br>
+    <em>Chief Cybersecurity Advisor, Security Solutions Area, Microsoft</em>
+    <br>
+    <p>Abbas Kudrati leads Microsoft’s initiatives to provide thought leadership, strategic direction on the development of Microsoft security products and services, and deep customer and partner engagement across the Asia region. He is also a part-time Professor of Practice in Cybersecurity with LaTrobe University and an Executive Advisory Board Member for Cybersecurity with Deakin University in Australia.</p> 
+  </td>
+  </tr>
+  <tr>
     <td width="30%"><img src="/images/avinash.png" alt="avinash"></td>
     <td width="70%"> <strong>Mr Avinash Lotke</strong><br>
     <em>Head of Security Solutions (APJ), Microsoft </em>

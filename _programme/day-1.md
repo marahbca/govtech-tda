@@ -59,7 +59,7 @@ breadcrumb: 'Day 1'
       Discover and put your secure coding skills to test at this live Secure Code Warrior tournament! Compete against the other participants in a series of vulnerable code challenges based on the OWASP Top 10. Players can choose to compete in a range of software languages, including Pseudocode for non-developers. 
     <hr>
       <h4>Rise of Human Operated Ransomware across Asia</h4>
-      <em>Avinash Lotke, Head of Security Solutions - APJ, Microsoft</em>
+      <em>Abbas Kudrati,Chief Cybersecurity Advisor, Security Solutions Area, Microsoft</em>
       <br><br>
       Unlike commodity ransomware, which only requires malware remediation, human-operated ransomware is a significant and growing threat in most industries. These “hands-on-keyboard” attacks leverage human attackers’ knowledge of system and security misconfigurations to infiltrate a network, adapting to the network and its weak points along the way.
     </td>

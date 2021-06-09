@@ -78,15 +78,15 @@ AWS, Coursera, Google, Microsoft, Qlik, Secure Code Warrior, TrustWave, Tableau 
       <br><br>
       <strong>Panelists:</strong><br>
       <ul style="font-size: 1rem;">
-        <li>
+        <li style="font-size: 1rem;">
           Dr Janil Puthucheary<br>
           <em>Senior Minister of State, Ministry of Communications and Information of Singapore</em>
         </li>
-        <li>
+        <li style="font-size: 1rem;">
           Ms Ng Wee Wei<br>
           <em>Country Managing Director, Accenture Singapore</em>
         </li>
-        <li>
+        <li style="font-size: 1rem;">
           Mr Patrick Teo<br>
           <em>Head of Engineering for Payments, Next Billion Users and Site Leader for Google Singapore</em>
         </li>

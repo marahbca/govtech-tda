@@ -113,7 +113,7 @@ breadcrumb: 'Day 4'
   <tr>
     <td width="20%"><strong>2.30pm - 3.30pm</strong></td>
     <td width="80%">
-      <h4>Understanding the Science of Visualise Analytics</h4>
+      <h4>Understanding the Science of Visual Analytics</h4>
       <em>Benjamin Tan,Lead Solution Engineer, Tableau Software and Jacelyn Lim,Senior Product Consultant(APAC), Tableau Software</em>
       <br><br>
       Visual analytics is a means of exploring and understanding data. You can ask a question, get the answer, and ask follow-up questions – all within a visual interface. A story unfolds from one visual summary to another, allowing you to retrace the story to rethink, explore further, and share.  

@@ -75,10 +75,19 @@ breadcrumb: 'Day 5'
   <tr>
     <td width="20%"><strong>1.15pm - 2.15pm</strong></td>
     <td width="80%">
-      <h4>Coming Soon</h4>
+      <h4>Robotics Adoption and Simulations</h4>
       <em>Timothy Tan, Senior Robotics Engineer, Sensors & IOT, GovTech</em>
       <br><br>
-      -
+      1. Robotics & Automation 101 <br>
+        a. What is Robotics? – Robot exists to do useful work. Many perspectives. Simulations exists in all robotics sub-domains <br>
+b. Why Robotics Adoption? – Disruption theory (Innovator’s Dilemma) & Productivity<br>
+c. Why Simulations?<br>
+i. Model-based systems engineering (MBSE) - Identify upfront potential benefits of robotics adoption<br>
+ii. Artificial Intelligence developments (ie: Game Engines)<br>
+iii. Cost-benefit of doing Simulations – No need to do, if not needed. Sometimes back of envelop calculations are enough<br>
+iv. Allow parallel path development, no need to wait for final physical product to appear (sequential development) before starting other workstreams (ie: opstech
+integration, training, etc)<br>
+v. Fail often, fail early<br>
     <hr>
       <h4>The 5 most important skills for IT leaders in the digital age</h4>
       <em>Damine Cummings, Chief, Digital Strategy & Leadership Practice, NUS-ISS </em>

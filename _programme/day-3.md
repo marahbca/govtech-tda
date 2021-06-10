@@ -84,7 +84,7 @@ breadcrumb: 'Day 3'
       <h4>Applications Security In The Age of Cyber</h4>
       <em>John Lim, Senior Lecturer, School of Information Technology, Cyber And Information Security, Nanyang Polytechnic</em>
       <br><br>
-      -
+      Applications quality and security has been at the forefront of software engineering practices with the prevalence of exploits and technology-based espionage. At the same time, practices and technologies in this area is constantly evolving in the age of the Internet and massive upheaval in  IT implementation practices in a Cloud-based environment. This talk touches on the trends and practices of implementing applications security while maintaining its quality and relevance  (to business requirements). 
     </td>
   </tr>
 </table>
@@ -114,15 +114,16 @@ breadcrumb: 'Day 3'
   <tr>
     <td width="20%"><strong>3.45pm - 4.45pm</strong></td>
     <td width="80%">
-      <h4>Coming Soon</h4>
+      <h4>Managing Digital Products as a public officer – Usability & Accessibility</h4>
       <em>Lim Eyung, Director (Government Digital Services, D Cube), GovTech</em>
       <br><br>
-      -
+      There are significant developments in both usability and inclusivity space in both the industry and government digital services around the world. The sharing will first provide a quick update on the topic, highlighting the major deve
+lopments. The speaker will then zoom into the relevant processes, tools and even governance in the Singapore Government digital services space that is available. From a Singapore Government public officer point-of-view, how can we make better use of such knowledge and facilities to raise the standard of government digital services.
     <hr>
       <h4>Automated Security And Compliance</h4>
       <em>Florian Sellmayr,Head of Technology (Southeast Asia), ThoughtWorks</em>
       <br><br> 
-      The words “Security and Compliance” spark dread in many developers’ minds. Delivery teams see them as blockers to value creation; while security professionals fear           reckless risks, lawsuits and hurt customers. This talk will give you some ideas on how to get out of this stalemate.
+      The words “Security and Compliance” spark dread in many developers’ minds. Delivery teams see them as blockers to value creation; while security professionals fear reckless risks, lawsuits and hurt customers. This talk will give you some ideas on how to get out of this stalemate.
     </td>
   </tr>
 </table>
@@ -140,7 +141,9 @@ breadcrumb: 'Day 3'
     <hr>
       <h4>The Age of Exploration in testing has arrived!</h4>
       <em> Nitin Bhawsar, Consultant, Processworks Group </em>
-    </td>
+      <br><br>
+        Learn why a cyber security crisis is very different from a conventional one and what are the key lessons in effective cyber crisis management.
+        </td>
   </tr>
 </table>
 

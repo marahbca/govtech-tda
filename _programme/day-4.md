@@ -23,7 +23,7 @@ breadcrumb: 'Day 4'
 
 <table>
   <tr>
-    <td width="20%"><strong>8.15am - 9.15am</strong></td>
+    <td width="20%"><strong>8.30am - 9.00am</strong></td>
     <td width="80%">
     <h4>Case Study Sharing:<br>Parent’s Gateway  (Technology Management) & Singpass API (Product Management)<br> </h4>
     <em> Tan Bee Teck,   MOE CIO and Divisional Director IT / Senior Director Education Cluster and Apps Portfolio Remake, GovTech <br>

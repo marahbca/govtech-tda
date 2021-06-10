@@ -121,10 +121,16 @@ Kendrick holds a Bachelor of Engineering (Electrical) from the Nanyang Technolog
   <!--Speaker-->
   <tr>
     <td width="30%"><img src="/images/sunita.png" alt="sunita"></td>
-    <td width="70%"><strong> Mr Sunita Kannan</strong><br> 
+    <td width="70%"><strong> Ms Sunita Kannan</strong><br> 
         <em>Data & AI Solutions Lead, APJ, Microsoft</em>
         <br><br>
-        <p>He brings 14+ years of professional experience working in the area of Business Excellence and Project Management.  He has been associated with the Higher Education sector for the last 12 years. It all started with his association as a visiting faculty  with a couple of B-Schools in Bangalore. And before he realised it, he was getting involved in activities and events meant for helping students and young professionals become 'future proof'.</p>
+        <p>Currently leading Data & AI Solutions for Asia Pacific & Japan at Microsoft, serving as the key interlock between Strategy and Implementation of Data, Analytics & AI solutions across Microsoft Asia / APJ.<br>
+Also serving as a key public / keynote speaker in AI, Responsible AI and Technology Business Coach.<br>
+Data & AI driven professional with over 10 years of experience in data and analytics strategy and insights. Specialised in leading Digital Strategy (Data, Analytics, AI, & Digital Globalisation), Artificial Intelligence implementation & Insights.<br>
+Executive-level experience in spearheading demonstrated strategic changes to C-level stakeholders for moving the organisations to a Data & AI driven future.<br>
+Highly recognised for the ability to break down complex problems & find best practice solutions, whilst effectively communicating abstract concepts to diverse audiences. Proven ability to successfully build and lead teams.<br>
+          Previously a PhD Physics student at the University of Colorado (Boulder), holding a Master of Science in Quantum Physics and a Bachelors in Mathematics and Physics (distinction and honors) from Wellesley College (MA, USA).
+      </p>
     </td>
   </tr>
   

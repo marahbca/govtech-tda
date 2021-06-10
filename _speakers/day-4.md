@@ -145,7 +145,9 @@ He brings to his role over 15 years of progressive experience in consulting, pro
     <td width="70%"><strong> Mr Tan Bee Teck </strong><br> 
         <em>MOE CIO and Divisional Director IT / Senior Director Education Cluster and Apps Portfolio Remake, GovTech</em>
         <br><br>
-        <p>-</p>
+        <p>Bee Teck is currently the Practice Lead for Technology Management and CIO Chapter in GovTech. He is responsible in charting the professional development and deepening the practice of the CIOs within GovTech. He is also the Cluster Director (Education), GovTech and CIO/Divisional Director, IT in the Ministry of Education. In his capacity as Cluster Director (Education), Bee Teck oversees and coordinates the digitalisation and digital government efforts across the entire Lifelong Learning continuum through working with MOE, schools, SkillsFuture Singapore, and the Civil Service College.<br>
+Prior to his current appointment, Bee Teck was also Cluster Director for the Justice & Law as well as Deputy Director with the Ministry of Manpower's IT Department.
+</p>
     </td>
   </tr>
   

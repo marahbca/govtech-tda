@@ -36,9 +36,9 @@ breadcrumb: 'Day 4'
 
 <table>
   <tr>
-    <td width="20%"><strong>9.15am - 9.45am</strong></td>
+    <td width="20%"><strong>9.00am - 9.45am</strong></td>
     <td width="80%">
-      <h4>Coming Soon</h4>
+      <h4>Transforming Business Through Digital Platforms and Products</h4>
       <em>Tan Bee Teck, MOE CIO and Divisional Director IT / Senior Director Education Cluster and Apps Portfolio Remake, GovTech
 & Kendrick Lee, Director (Trusted Data & Services), GovTech</em>
       <br><br>

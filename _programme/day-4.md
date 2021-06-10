@@ -28,6 +28,8 @@ breadcrumb: 'Day 4'
     <h4>Case Study Sharing:<br>Parent’s Gateway  (Technology Management) & Singpass API (Product Management)<br> </h4>
     <em> Tan Bee Teck,   MOE CIO and Divisional Director IT / Senior Director Education Cluster and Apps Portfolio Remake, GovTech <br>
      Kendrick Lee, Director (Trusted Data & Services), GovTech </em>
+    <br><br> 
+     Digital platforms connect us with service providers through digital products as an integrated part of our daily routine. Join Bee Teck and Kendrick as they share how Parent’s Gateway and Singpass drive change in the organisation and their ecosystem to make lives better for our residents, agencies and businesses. They will subsequently adjourn to a panel discussion with our industry guest who will provide a private sector perspective to the conversation. 
     </td>
   </tr>
 </table>
@@ -42,7 +44,7 @@ breadcrumb: 'Day 4'
       <em>Tan Bee Teck, MOE CIO and Divisional Director IT / Senior Director Education Cluster and Apps Portfolio Remake, GovTech
 & Kendrick Lee, Director (Trusted Data & Services), GovTech</em>
       <br><br>
-      -
+      Digital platforms connect us with service providers through digital products as an integrated part of our daily routine. Join Bee Teck and Kendrick as they share how Parent’s Gateway and Singpass drive change in the organisation and their ecosystem to make lives better for our residents, agencies and businesses. They will subsequently adjourn to a panel discussion with our industry guest who will provide a private sector perspective to the conversation.
     </td>
   </tr>
 </table>

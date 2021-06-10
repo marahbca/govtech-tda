@@ -38,7 +38,9 @@ permalink: /speakers/day-3
     <td width="70%"> <strong>Mr Eyung Lim</strong><br>
     <em>Director, Digital Design & Development, GovTech</em>
     <br>
-    <p>-</p>
+    <p>Eyung Lim has been instrumental in shaping the digital service delivery landscape. He envisioned and spearheaded the Digital Experience Design (DXD) Sandbox, to help government agencies in adopting data-driven and design-based approaches in their digital endeavours. Since its inception in October 2015, Eyung and his team have worked on key government projects such as IRAS MyTax Portal, HDB Resale Portal, MSO OneService, Moments of Life and many more. Eyung is a firm believer and practitioner of the “golden triangle” of product strategies, design and engineering excellence as the critical success factors in any product implementation.<br>
+Eyung is also a key driver of whole-of-government (WOG) projects & programmes that radically change the way government engages and interacts with citizens. This includes the implementation of the Whole-of-Government Application Analytics platform which is part of Singapore Government Tech Stack as well as the Service Journey approach which fundamentally streamlines offerings across government agencies around citizen life stages and needs.<br>
+As a data researcher by training, he strongly advocates the use of data in guiding better design and engineering excellence. Two such initiatives are A/B Testing during National Day Rally as well as time optimisation for the end-to-end continuous integration & development in agile development process. Eyung and his team also proposed and implemented the Experience-to-Emotion mapping to better understand how user experience drives user behaviour differently.</p>
     </td>
   </tr>
   
@@ -69,7 +71,8 @@ permalink: /speakers/day-3
     <td width="70%"> <strong>Mr Hari Subramanian</strong><br>
     <em>ASEAN Lead - Business Application Platform- Apigee & AppSheet, Google</em>
     <br>
-    <p>-</p> </td>
+    <p>-</p>
+    </td>
   </tr>
   
   <!--Speaker-->

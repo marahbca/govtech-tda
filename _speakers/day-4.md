@@ -159,11 +159,11 @@ Prior to his current appointment, Bee Teck was also Cluster Director for the Jus
   
   <!--Speaker-->
   <tr>
-    <td width="30%"><img src="" alt=""></td>
+    <td width="30%"><img src="/images/tomo" alt="tomo"></td>
     <td width="70%"> <strong>Mr Tomo Farid</strong><br>
     <em>Customer Engineering Associate Trainee, Google</em>
     <br>
-    <p>Tomo is a Customer Engineering Associate Trainee from Google Cloud. </p> </td>
+    <p>Experienced Life Skills Trainer with a demonstrated history of working in the professional training & coaching industry. Skilled in 360 Degree Assessment, Coaching, Leadership Development, Management Consulting, and Event Management. Strong human resources professional graduated from University of Adelaide. </p> </td>
   </tr>
   
   <!--Speaker-->

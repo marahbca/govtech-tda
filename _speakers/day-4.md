@@ -30,11 +30,12 @@ She graduated from an International Business Master Degree from EM Lyon business
   
   <!--Speaker-->
   <tr>
-    <td width="30%"><img src="" alt=""></td>
+    <td width="30%"><img src="dawei" alt="dawei"></td>
     <td width="70%"><strong> Mr Cui Dawei</strong><br> 
-        <em>Technical Account Manager</em>
+        <em>Technical Account Manager, Google Cloud</em>
         <br><br>
-        <p>Dawei is a Technical Account Manager from Google Cloud</p></td>
+        <p>Dawei is a cloud and network/security engineer who provides technical support and advice to enterprise customers. He is highly skilled in cloud technologies, network engineering, cybersecurity, devops, and software engineering.<br>
+Dawei had various roles in his career, ranging from developer, network engineer, security engineer, and cloud engineer. He speaks English, Chinese, and Japanese.</p></td>
   </tr>
 
   <!--Speaker-->

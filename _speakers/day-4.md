@@ -30,11 +30,12 @@ She graduated from an International Business Master Degree from EM Lyon business
   
   <!--Speaker-->
   <tr>
-    <td width="30%"><img src="" alt=""></td>
+    <td width="30%"><img src="dawei" alt="dawei"></td>
     <td width="70%"><strong> Mr Cui Dawei</strong><br> 
-        <em>Technical Account Manager</em>
+        <em>Technical Account Manager, Google Cloud</em>
         <br><br>
-        <p>Dawei is a Technical Account Manager from Google Cloud</p></td>
+        <p>Dawei is a cloud and network/security engineer who provides technical support and advice to enterprise customers. He is highly skilled in cloud technologies, network engineering, cybersecurity, devops, and software engineering.<br>
+Dawei had various roles in his career, ranging from developer, network engineer, security engineer, and cloud engineer. He speaks English, Chinese, and Japanese.</p></td>
   </tr>
 
   <!--Speaker-->
@@ -63,6 +64,15 @@ She graduated from an International Business Master Degree from EM Lyon business
     <em>Data Scientist, Coursera</em>
     <br>
     <p>Eric Karsten is a Data Scientist at Coursera. He works within the Insights and Research vertical, partnering with external university and NGO researchers to use Coursera’s data to answer valuable questions for the world. He also works with the Content Strategy team to forecast skills trends and content demand using signals from the Coursera platform. His work has been included in publications from the World Economic Forum. Eric holds an MA in Economics and a BA in mathematics, both from the University of Chicago. </p>
+    </td>
+  </tr>
+  
+   <tr>
+    <td width="30%"><img src="/images/joseph.png" alt="joseph"></td>
+    <td width="70%"> <strong>Mr Joseph Tan </strong><br>
+    <em>Assistant Director, Capability Development, GovTech</em>
+    <br>
+    <p>Joseph is an Assistant Director in GovTech's Data Science and AI Division. He leads the Capability Development team that runs data initiatives to upskill public officers and uplift agencies across the whole-of-government, as well as the team responsible for executing data transformation efforts in GovTech. Prior to that, Joseph had undertaken roles in various public agencies, from academic roles to programme management.</p>
     </td>
   </tr>
   
@@ -112,10 +122,16 @@ Kendrick holds a Bachelor of Engineering (Electrical) from the Nanyang Technolog
   <!--Speaker-->
   <tr>
     <td width="30%"><img src="/images/sunita.png" alt="sunita"></td>
-    <td width="70%"><strong> Mr Sunita Kannan</strong><br> 
+    <td width="70%"><strong> Ms Sunita Kannan</strong><br> 
         <em>Data & AI Solutions Lead, APJ, Microsoft</em>
         <br><br>
-        <p>He brings 14+ years of professional experience working in the area of Business Excellence and Project Management.  He has been associated with the Higher Education sector for the last 12 years. It all started with his association as a visiting faculty  with a couple of B-Schools in Bangalore. And before he realised it, he was getting involved in activities and events meant for helping students and young professionals become 'future proof'.</p>
+        <p>Currently leading Data & AI Solutions for Asia Pacific & Japan at Microsoft, serving as the key interlock between Strategy and Implementation of Data, Analytics & AI solutions across Microsoft Asia / APJ.<br>
+Also serving as a key public / keynote speaker in AI, Responsible AI and Technology Business Coach.<br>
+Data & AI driven professional with over 10 years of experience in data and analytics strategy and insights. Specialised in leading Digital Strategy (Data, Analytics, AI, & Digital Globalisation), Artificial Intelligence implementation & Insights.<br>
+Executive-level experience in spearheading demonstrated strategic changes to C-level stakeholders for moving the organisations to a Data & AI driven future.<br>
+Highly recognised for the ability to break down complex problems & find best practice solutions, whilst effectively communicating abstract concepts to diverse audiences. Proven ability to successfully build and lead teams.<br>
+          Previously a PhD Physics student at the University of Colorado (Boulder), holding a Master of Science in Quantum Physics and a Bachelors in Mathematics and Physics (distinction and honors) from Wellesley College (MA, USA).
+      </p>
     </td>
   </tr>
   
@@ -136,17 +152,19 @@ He brings to his role over 15 years of progressive experience in consulting, pro
     <td width="70%"><strong> Mr Tan Bee Teck </strong><br> 
         <em>MOE CIO and Divisional Director IT / Senior Director Education Cluster and Apps Portfolio Remake, GovTech</em>
         <br><br>
-        <p>-</p>
+        <p>Bee Teck is currently the Practice Lead for Technology Management and CIO Chapter in GovTech. He is responsible in charting the professional development and deepening the practice of the CIOs within GovTech. He is also the Cluster Director (Education), GovTech and CIO/Divisional Director, IT in the Ministry of Education. In his capacity as Cluster Director (Education), Bee Teck oversees and coordinates the digitalisation and digital government efforts across the entire Lifelong Learning continuum through working with MOE, schools, SkillsFuture Singapore, and the Civil Service College.<br>
+Prior to his current appointment, Bee Teck was also Cluster Director for the Justice & Law as well as Deputy Director with the Ministry of Manpower's IT Department.
+</p>
     </td>
   </tr>
   
   <!--Speaker-->
   <tr>
-    <td width="30%"><img src="" alt=""></td>
+    <td width="30%"><img src="/images/tomo" alt="tomo"></td>
     <td width="70%"> <strong>Mr Tomo Farid</strong><br>
     <em>Customer Engineering Associate Trainee, Google</em>
     <br>
-    <p>Tomo is a Customer Engineering Associate Trainee from Google Cloud. </p> </td>
+    <p>Experienced Life Skills Trainer with a demonstrated history of working in the professional training & coaching industry. Skilled in 360 Degree Assessment, Coaching, Leadership Development, Management Consulting, and Event Management. Strong human resources professional graduated from University of Adelaide. </p> </td>
   </tr>
   
   <!--Speaker-->

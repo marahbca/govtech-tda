@@ -26,6 +26,9 @@ breadcrumb: 'Day 2'
     <td width="20%"><strong>8.45am - 9.45am</strong></td>
     <td width="80%">
       <h4>Operations 2.0 - Transforming Application Infrastructure Operations Delivery</h4>
+      <em>Sivakumaran Sathappan,Director, Central TS, Tang Bing Wan, Principal Infrastructure Architect (Cloud Competency Lead), and  Simon Peh, Principal Application Infrastructure Architect, GovTech </em>
+      <br><br>
+      By tapping on Central Enablers and through insights that the central teams have gathered through various Agency engagements, we realised that having a technology, data and automation driven approach is key to unlock more potential and may lead towards workforce transformation including upskilling vendors competencies. Operations 2.0 puts together a framework and progressively a series of Central Enablers to a achieve this across Services Group, in support of Application Modernization and Delivery.
   </td>
   </tr>
 </table>
@@ -108,18 +111,6 @@ breadcrumb: 'Day 2'
   <tr>
     <td width="20%"><strong>3.45pm - 4.45pm</strong></td>
     <td width="80%">
-      <h4>Coming Soon</h4>
-      ICT Infrastructure
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
-    <td width="20%"><strong>5.00pm - 6.00pm</strong></td>
-    <td width="80%">
       <h4>Using CircuitPython on Raspberry Pico</h4>
       <em>Kenneth Phang, Senior Lecturer & Consultant, Software Systems Practice, NUS-ISS</em>
       <br><br>
@@ -129,3 +120,6 @@ breadcrumb: 'Day 2'
 </table>
 
 <hr>
+
+
+

@@ -76,19 +76,35 @@ Melvin is a Microsoft Certified Azure Solution Architect Expert and GCP Solution
     </td>
   </tr>
   <tr>
-    <td width="30%"><img src="" alt=""></td>
-    <td width="70%"> <strong>Ms Lam Siew Bee</strong><br>
-    <em>Deputy Director, GIG Planning & Governance, GovTech </em>
-    <br>
-    <p>-</p> 
-    </td>
-  </tr>
-  <tr>
     <td width="30%"><img src="/images/wohshon.png" alt="wohshon"></td>
-    <td width="70%"><strong>Phoon Woh Shon</strong><br> 
+    <td width="70%"><strong>Mr Phoon Woh Shon</strong><br> 
         <em>Customer Engineer, Google</em>
         <br><br>
         <p>Woh Shon is a Customer Engineer from Google Cloud, focusing on Application Modernisation. Prior to Google Cloud, Woh Shon works in a similar capacity with several technology companies, specialising in the area of cloud and container technologies.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><img src="/images/sivakumaran.png" alt="sivakumaran"></td>
+    <td width="70%"><strong>Mr Sivakumaran Sathappan</strong><br> 
+        <em>Director, Central TS, GovTech</em>
+        <br><br>
+        <p>A Senior Executive with more than 25 years’ experience in ICT industry spanning application services, technical services, IT planning &  governance. Always been passionate about people development in both technical and leadership roles.  He has keen interest in acquiring good business acumen and desire to leverage ICT to add-value to business objectives. Practises strong stake-holder engagement at all levels to harness ICT as a strategic enabler for business transformation and growth.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><img src="/images/simon.png" alt="simon"></td>
+    <td width="70%"><strong>Mr Simon Peh</strong><br> 
+        <em>Principal Application Infrastructure Architect, GovTech</em>
+        <br><br>
+        <p>A Practice Group Lead, Simon has more than 19 years of experience as an IT professional in IT architecture design & solutioning, cyber security program, resilience & disaster recovery, project management, contract management, operation infrastructure management and people management cum development. He has proven leadership in leading and managing complex ICT projects and ability to view matters from strategic & technical level with skillsets acquired through past engineering and managerial experience.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><img src="/images/bingwan.png" alt="bingwan"></td>
+    <td width="70%"><strong>Mr Tang Bing Wan</strong><br> 
+        <em>Principal Infrastructure Architect (Cloud Competency Lead), GovTech</em>
+        <br><br>
+        <p>A passionate architect and technical manager, Bing Wan started his career as a software developer (Informix, Java, C) focusing on both banking and shipping domains. He developed a passion in IT infrastructure, security and operations, which guided his subsequent work as an architect even as the landscape shifted from on-premise/physical, virtualisation to cloud, microservices, and zero-trust security paradigm. His most recent role as one of GovTech’s Principal Infrastructure Architect further honed his skills in enabling a team of fellow passionate professionals to re-factor systems, IT operating model and culture to cloud. His current interest and focus area is on cloud automation/software defined infrastructure strategy across Singapore’s whole-of-government.</p>
     </td>
   </tr>
 </table>

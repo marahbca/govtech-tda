@@ -56,7 +56,7 @@ AWS, Coursera, Google, Microsoft, Qlik, Secure Code Warrior, TrustWave, Tableau 
   <tr>
     <td>10.05am - 10.25am</td>
     <td>
-      <strong>Symposium commence</strong>
+      <strong>Symposium Commences</strong>
       <br>
     Keynote by Mr Patrick Teo, Head of Engineering for Payments, Next Billion Users and Site Leader for Google Singapore </td>
   </tr>
@@ -73,11 +73,24 @@ AWS, Coursera, Google, Microsoft, Qlik, Secure Code Warrior, TrustWave, Tableau 
       <em>Raising Digital Quotient in Public Service</em>
       <br><br>
       <strong>Moderator:</strong><br>
-      Mr Dwarakanath Narasimha Prasad, Senior Director (Strategy, People & Organisation), GovTech<br><br>
+      Mr Dwarakanath Narasimha Prasad<br>
+      <em>Senior Director (Strategy, People & Organisation), GovTech</em>
+      <br><br>
       <strong>Panelists:</strong><br>
-      -Dr Janil Puthucheary, Senior Minister of State, Ministry of Communications and Information of Singapore<br>
-      -Ms Ng Wee Wei, Country Managing Director, Accenture Singapore <br>
-      -Mr Patrick Teo, Head of Engineering for Payments, Next Billion Users and Site Leader for Google Singapore<br>
+      <ul style="font-size: 1rem;">
+        <li style="font-size: 1rem;">
+          Dr Janil Puthucheary<br>
+          <em>Senior Minister of State, Ministry of Communications and Information of Singapore</em>
+        </li>
+        <li style="font-size: 1rem;">
+          Ms Ng Wee Wei<br>
+          <em>Country Managing Director, Accenture Singapore</em>
+        </li>
+        <li style="font-size: 1rem;">
+          Mr Patrick Teo<br>
+          <em>Head of Engineering for Payments, Next Billion Users and Site Leader for Google Singapore</em>
+        </li>
+      </ul>
     </td>
   </tr>
   

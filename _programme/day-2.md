@@ -111,18 +111,6 @@ breadcrumb: 'Day 2'
   <tr>
     <td width="20%"><strong>3.45pm - 4.45pm</strong></td>
     <td width="80%">
-      <h4>Coming Soon</h4>
-      ICT Infrastructure
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<table>
-  <tr>
-    <td width="20%"><strong>5.00pm - 6.00pm</strong></td>
-    <td width="80%">
       <h4>Using CircuitPython on Raspberry Pico</h4>
       <em>Kenneth Phang, Senior Lecturer & Consultant, Software Systems Practice, NUS-ISS</em>
       <br><br>
@@ -132,3 +120,6 @@ breadcrumb: 'Day 2'
 </table>
 
 <hr>
+
+
+

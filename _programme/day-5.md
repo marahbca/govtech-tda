@@ -90,7 +90,7 @@ integration, training, etc)<br>
 v. Fail often, fail early<br>
     <hr>
       <h4>The 5 most important skills for IT leaders in the digital age</h4>
-      <em>Damine Cummings, Chief, Digital Strategy & Leadership Practice, NUS-ISS </em>
+      <em>Damien Cummings, Chief, Digital Strategy & Leadership Practice, NUS-ISS </em>
       <br><br>
       This session demonstrates what a leader needs to be successful in the digital age. More than just technical skills, an inspirational digital leader sets a clear vision, develops high performing teams, manages complex change and bring stakeholders on the journey. Learn what you need to do to be successful.
     </td>

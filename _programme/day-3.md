@@ -101,7 +101,7 @@ breadcrumb: 'Day 3'
       How does human-centred design practices like design thinking and UX influence the way we serve citizens? Are they simply processes and tools, or a mindset? In this           talk, let us peel back the layers and explore how they can help you design better experiences for the citizens.
     <hr>
       <h4>Harnessing The Full Value of Digital Transformation Through Your People</h4>
-      <em>Dr Yong Hsin Ning, Co-Founder & Director, Change Voyage</em>
+      <em>Yong Hsin Ning, Co-Founder & Director, Change Voyage and Stacey Huang, Co-Founder, Change Voyage</em>
       <br><br>
       A digital transformation is a long journey, and it is important to ensure that members of the organisation are adequately prepared for what is to come. In this               interactive workshop, learn about the people-related pitfalls that hinder success in a digital transformation project, and how to overcome them. 
     </td>

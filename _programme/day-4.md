@@ -75,10 +75,11 @@ breadcrumb: 'Day 4'
   <tr>
     <td width="20%"><strong>11.15am - 12.15pm</strong></td>
     <td width="80%">
-      <h4>Coming Soon</h4>
-      <em>Kendrick Lee, Director (Trusted Data & Services), GovTech and Dominic Chan, Director (Moments Of Life), GovTech & Daniel Boey, Chief, Digital Products & Platforms Practice, NUS-ISS</em>
+      <h4>Transformating from a project to product-centric organisation</h4>
+      <em>Kendrick Lee, Director (Trusted Data & Services), GovTech and Daniel Boey, Chief, Digital Products & Platforms Practice, NUS-ISS</em>
       <br><br>
-      -  
+      The benefits of embracing digital extend beyond building digital products such as phone applications and digital platforms to better engage citizens/employees. We strive to improve productivity, speed and build closer intimacy with our stakeholders. In the process we also hope to transform our organisations’ culture to achieve agility, customer centricity and cultivate a spirit of risk-taking and innovation! 
+What is the best way to deliver all these, yet ensure we meet the organisational goals and expected outcomes with a reasonable budget? Join us in the webinar to learn how a product-centric delivery model can help.
     <hr>
       <h4>Becoming a Data-Driven Organisation & How Coursera is enabling Hands on Learning with Coursera Labs?</h4>
       <em>Eric Karsten, Data Scientist Transformation for Data Science and AI & Sorabh Bajaj, Skills Transformation, Coursera</em>

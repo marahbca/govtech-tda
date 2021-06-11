@@ -30,7 +30,7 @@ She graduated from an International Business Master Degree from EM Lyon business
   
   <!--Speaker-->
   <tr>
-    <td width="30%"><img src="dawei" alt="dawei"></td>
+    <td width="30%"><img src="/images/dawei.png" alt="dawei"></td>
     <td width="70%"><strong> Mr Cui Dawei</strong><br> 
         <em>Technical Account Manager, Google Cloud</em>
         <br><br>
@@ -45,6 +45,19 @@ Dawei had various roles in his career, ranging from developer, network engineer,
     <em>Director of Data, Foodpanda</em>
     <br>
     <p>Dat Le is the Director of Data Science and Engineering at 90 Seconds (http://90seconds.tv/) - He did his Bachelors in Computer Science at the University of Nottingham (2009) and Masters at the University of Oxford (2010) before coming to Singapore to join their Government Research firm A*STAR in 2011. He then built the Data Warehouse and Data Team at Zalora from 2013-2014, Commercialize TV from 2014 - 2015, Honestbee from 2016-2017, the APACx Marketing Data Science team at Uber from 2017-2018, and now the data intelligence function at 90 Seconds from the ground up. He is a data enthusiast - he loves contributing to the data community in Singapore, open-source data projects, and participating in data science challenges all over the world in his free time. </p>
+    </td>
+  </tr>
+  
+  <!--Speaker-->
+  <tr>
+    <td width="30%"><img src="/images/daniel.png" alt="daniel"></td>
+    <td width="70%"><strong> Mr Daniel Boey </strong><br> 
+        <em>Chief, Digital Products & Platforms Practice, NUS-ISS </em>
+        <br><br>
+        <p>Daniel Boey is the Chief, Digital Products and Platforms Practice at the Institute of System Science, National University of Singapore. He leads a teaching and consultancy team in the practice of digital products, digital projects and digital platforms strategies and management.<br>
+He specializes in digital product and project management processes design competency development and training. He is currently the product manager/course manager of the courses Managing Business Analytics Projects<br>
+Besides running executive courses in digital products & digital project management, Daniel was consultant to many companies and organizations in delivering customized training. Some key customers include Citibank, Ministry for Home Affairs, Singapore Changi Hospital, Central Provident Fund Board, United Overseas Bank, OCBC Bank, Atos Origin, TetraPak, Sony, Yokogawa Engineering, Singapore Computer Systems, HP, Integrated Health Information Systems, GeTech Automation, Banking Computer Services  and IMDA. These trainings were delivered in Singapore, China, Brunei, Malaysia, Thailand and Maldives.<br>
+Daniel has over 29 years of experience in product management, development, testing, quality and project management. He started his career in product development of IBM software products. When his company invested to build new products, he became a product manager and formed his own team to conceptualize, develop, and launch a product in Comdex show in Las Vegas and Singapore. He later became a project manager, managing IBM’s customer projects. Prior to joining ISS, he was the Director of Operations, holding the resource, quality and project management office, at an IBM subsidiary. He has also held various management positions as department head of e-Business, project management, operations and process quality.</p>
     </td>
   </tr>
   
@@ -160,7 +173,7 @@ Prior to his current appointment, Bee Teck was also Cluster Director for the Jus
   
   <!--Speaker-->
   <tr>
-    <td width="30%"><img src="/images/tomo" alt="tomo"></td>
+    <td width="30%"><img src="/images/tomo.png" alt="tomo"></td>
     <td width="70%"> <strong>Mr Tomo Farid</strong><br>
     <em>Customer Engineering Associate Trainee, Google</em>
     <br>

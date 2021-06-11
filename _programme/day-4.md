@@ -63,8 +63,8 @@ breadcrumb: 'Day 4'
       <h4>Cloud Hero Hands-On Labs: Intro to BigQuery: Analytics & Machine Learning</h4>
       <em>Dawei Cui, Technical Account Manager, Google & Tomo Farid, Customer Engineering Associate Trainee, Google </em>
       <br><br>
-      In this session, we will briefly explain the technology behind the Cloud Hero Game and guide the participants through the first lab in the game. Participants will have time to complete the remining labs after the session. <br>
-      No prior knowledge on Cloud Technology is needed. All participants from all background are welcome and will find the session informative and enjoyable. However, it will be helpful if participants can register an account at https://google.qwiklabs.com/ before joining the session.
+     Learn Google Cloud, BigQuery, and Machine Learning with Cloud Hero Games, a series of fun and interactive hands-on labs. Compete with fellow participants to be a champion in the leaderboard!<br>
+No prior knowledge of Cloud Technology is needed. All participants from all backgrounds are welcome and will find the session informative and enjoyable. For a smoother experience, please register an account at <a href="https://ddec1-0-en-ctp.trendmicro.com/wis/clicktime/v1/query?url=http%3a%2f%2fgoogle.qwiklabs.com&umid=9196a145-6e86-4fde-a77e-33ae946435ca&auth=8d3ccd473d52f326e51c0f75cb32c9541898e5d5-d95942a6f03e49a68d5c20519122defb5c32a3d9">google.qwiklabs.com</a>.<br>
     </td>
   </tr>
 </table>
@@ -75,10 +75,11 @@ breadcrumb: 'Day 4'
   <tr>
     <td width="20%"><strong>11.15am - 12.15pm</strong></td>
     <td width="80%">
-      <h4>Coming Soon</h4>
-      <em>Kendrick Lee, Director (Trusted Data & Services), GovTech and Dominic Chan, Director (Moments Of Life), GovTech & Daniel Boey, Chief, Digital Products & Platforms Practice, NUS-ISS</em>
+      <h4>Transformating from a project to product-centric organisation</h4>
+      <em>Kendrick Lee, Director (Trusted Data & Services), GovTech and Daniel Boey, Chief, Digital Products & Platforms Practice, NUS-ISS</em>
       <br><br>
-      -  
+      The benefits of embracing digital extend beyond building digital products such as phone applications and digital platforms to better engage citizens/employees. We strive to improve productivity, speed and build closer intimacy with our stakeholders. In the process we also hope to transform our organisations’ culture to achieve agility, customer centricity and cultivate a spirit of risk-taking and innovation! 
+What is the best way to deliver all these, yet ensure we meet the organisational goals and expected outcomes with a reasonable budget? Join us in the webinar to learn how a product-centric delivery model can help.
     <hr>
       <h4>Becoming a Data-Driven Organisation & How Coursera is enabling Hands on Learning with Coursera Labs?</h4>
       <em>Eric Karsten, Data Scientist Transformation for Data Science and AI & Sorabh Bajaj, Skills Transformation, Coursera</em>

@@ -78,16 +78,16 @@ breadcrumb: 'Day 5'
       <h4>Robotics Adoption and Simulations</h4>
       <em>Timothy Tan, Senior Robotics Engineer, Sensors & IOT, GovTech</em>
       <br><br>
-      1. Robotics & Automation 101 <br>
-        a. What is Robotics? – Robot exists to do useful work. Many perspectives. Simulations exists in all robotics sub-domains <br>
-b. Why Robotics Adoption? – Disruption theory (Innovator’s Dilemma) & Productivity<br>
-c. Why Simulations?<br>
-i. Model-based systems engineering (MBSE) - Identify upfront potential benefits of robotics adoption<br>
-ii. Artificial Intelligence developments (ie: Game Engines)<br>
-iii. Cost-benefit of doing Simulations – No need to do, if not needed. Sometimes back of envelop calculations are enough<br>
-iv. Allow parallel path development, no need to wait for final physical product to appear (sequential development) before starting other workstreams (ie: opstech
-integration, training, etc)<br>
-v. Fail often, fail early<br>
+      Talk will be about robotics adoption, and the how simulations play a role at different stages of adoption  <br>
+      -	Robotics as a sustaining innovation, and how to determine the right use of robots, to improve productivity in a sustainable manner<br>
+-	Simulations for automated plant design, verification and optimization (Robots only environment)<br>
+o	Brief introduction to Visual Components (Finland), FlexSim (Siemens)<br>
+-	Simulations for process flow design considerations with human employees, and for further ops-tech integration <br>
+o	Brief introduction to CAE Systems (Canada), VR Forces (MAK Technologies) <br>
+-	Simulations for the robotics development cycle <br>
+o	Software and hardware in the loop developments, and also for<br>
+o	Deep learning applications<br>
+o	Brief introduction to ROS-Gazebo, also to commonly used game engines Unity (Microsoft) and Unreal Engine (Epic Games)<br>
     <hr>
       <h4>The 5 most important skills for IT leaders in the digital age</h4>
       <em>Damien Cummings, Chief, Digital Strategy & Leadership Practice, NUS-ISS </em>

@@ -177,6 +177,20 @@ In research, Suria has published research articles in conferences and seminars. 
   
   <!--Speaker-->
   <tr>
+    <td width="30%"><img src="/images/stacey.png" alt="stacey"></td>
+    <td width="70%"><strong> Ms Stacey Huang</strong><br> 
+        <em>Co-Founder,Change Voyage</em>
+        <br>
+        <p>Stacey is the co-founder of Change Voyage, she has over 13 years of consulting experience predominantly in the field of business transformation and large-scale organizational programmes. Her past projects include enabling Fortune 500 companies with their business improvement transitions, moving to target operating models, changing culture, bringing in agile, new technologies and increasing employee engagement. She has worked with companies in both private and public sector where she has clients from Insurance, Finance, FMCG, Oil & Gas, Energy and Healthcare. <br>
+She regularly hosts and speaks with in public conferences on topics that deal with organizational sustainability, resilience, change, disruption and overall risk management<br>
+As an organizational psychologist, she also regularly conducts psychometric assessments and coaching for leaders, teams and individuals understanding their strengths, development area, motivation, influence and working styles. She continues her passion for education and is also an adjunct lecturer in Thailand University.<br>
+Stacey has a double degree in Business and Psychology from Singapore Management University and a Master’s degree in Industrial and Organizational Psychology from University College London (UCL) where she graduated with distinction. She is currently residing in Hong Kong where she enjoys the hiking trails over the weekend. She is passionate about all things change, risk and psychology related. She believes that adults learn best by doing and her sessions are often designed to be highly practical and applied with a healthy balance of challenge and fun.
+</p>
+    </td>
+  </tr>
+  
+  <!--Speaker-->
+  <tr>
     <td width="30%"><img src="/images/vivekk.png" alt="vivekk"></td>
     <td width="70%"><strong> Mr Vivek Karthy Ravi</strong><br> 
         <em>Cloud Architect (Azure and AWS Certified), Avanade Systems Singapore</em>
@@ -191,11 +205,12 @@ In research, Suria has published research articles in conferences and seminars. 
     <td width="70%"><strong> Dr Yong Hsin Ning </strong><br> 
         <em>Co-Founder,Change Voyage</em>
         <br>
-        <p>Dr YONG Hsin Ning is the co-founder of Change Voyage Consulting and an award-winning educator at the Singapore Management University.
-Dr Yong’s passion is to solve ambiguously defined problems and to decipher human behaviour in organisations. Her passion drove her to spend more than 15 years working in Accenture, a top-tier global consultancy firm.  In the public service sector, she has worked with clients in the areas of Defense, Education, Revenue, Industrial Relations, Employment Services and Social Services.  In the private sector, she has served clients across the Oilfield Services, Consumer Goods, Telecommunications and Airline industries. <br>
+        <p>Dr YONG Hsin Ning is the co-founder of Change Voyage Consulting and an award-winning educator at the Singapore Management University. She has been awarded the Dean’s Teaching Honour List - Top Adjunct Faculty between 2019 – 2021 in recognition for her excellent teaching performance.<br>
+Dr Yong’s passion is to solve ambiguously defined problems and to decipher human behaviour in organisations. Her passion drove her to spend more than 15 years working in Accenture, a top-tier global consultancy firm.  In the public service sector, she has worked with clients in the areas of Defense, Education, Revenue, Industrial Relations, Employment Services and Social Services.  In the private sector, she has served clients across the Oilfield Services, Consumer Goods, Telecommunications and Airline industries.  <br>
 Through her engagements with these organisations, she found that many were unprepared to continue managing the change after the technologies were put in place.  They also did not know how to develop the capabilities to do so.  <br>
-This gap inspired her entrepreneurship adventure, Change Voyage Consulting.  This boutique consulting company was set up in 2017 to help companies develop change capabilities so that they can harness the maximum benefits from the transformation. <br>        
-Dr Yong holds a PhD in Business (General Management) at the Singapore Management University, a Master’s degree in Commerce from the University of New South Wales and a Bachelor’s degree in Accountancy from the Nanyang Technological University.</p>
+This gap inspired her entrepreneurship adventure, Change Voyage Consulting.  This boutique consulting company was set up in 2017 to help companies develop change capabilities so that they can harness the maximum benefits from the transformation.  <br>
+Dr Yong holds a PhD in Business (General Management) at the Singapore Management University, a Master’s degree in Commerce from the University of New South Wales and a Bachelor’s degree in Accountancy from the Nanyang Technological University.  She is also a Certified Change Management Practitioner (CCMPTM).  
+</p>
     </td>
   </tr>
 </table>

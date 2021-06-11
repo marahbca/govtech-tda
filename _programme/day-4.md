@@ -63,7 +63,9 @@ breadcrumb: 'Day 4'
       <h4>Cloud Hero Hands-On Labs: Intro to BigQuery: Analytics & Machine Learning</h4>
       <em>Dawei Cui, Technical Account Manager, Google & Tomo Farid, Customer Engineering Associate Trainee, Google </em>
       <br><br>
-      In this session, we will briefly explain the technology behind the Cloud Hero Game and guide the participants through the first lab in the game. Participants will have time to complete the remining labs after the session. <br>
+     Learn Google Cloud, BigQuery, and Machine Learning with Cloud Hero Games, a series of fun and interactive hands-on labs. Compete with fellow participants to be a champion in the leaderboard!
+No prior knowledge of Cloud Technology is needed. All participants from all backgrounds are welcome and will find the session informative and enjoyable. For a smoother experience, please register an account at google.qwiklabs.com.
+<br>
       No prior knowledge on Cloud Technology is needed. All participants from all background are welcome and will find the session informative and enjoyable. However, it will be helpful if participants can register an account at https://google.qwiklabs.com/ before joining the session.
     </td>
   </tr>

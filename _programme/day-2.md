@@ -26,7 +26,9 @@ breadcrumb: 'Day 2'
     <td width="20%"><strong>8.45am - 9.45am</strong></td>
     <td width="80%">
       <h4>Operations 2.0 - Transforming Application Infrastructure Operations Delivery</h4>
-      <em>Sivakumaran Sathappan,Director, Central TS, Tang Bing Wan, Principal Infrastructure Architect (Cloud Competency Lead), and  Simon Peh, Principal Application Infrastructure Architect, GovTech </em>
+      <em>Sivakumaran Sathappan, Director, Central TS, GovTech<br>
+        Tang Bing Wan, Principal Infrastructure Architect (Cloud Competency Lead), GovTech<br>
+        Simon Peh, Principal Application Infrastructure Architect, GovTech </em>
       <br><br>
       By tapping on Central Enablers and through insights that the central teams have gathered through various Agency engagements, we realised that having a technology, data and automation driven approach is key to unlock more potential and may lead towards workforce transformation including upskilling vendors competencies. Operations 2.0 puts together a framework and progressively a series of Central Enablers to a achieve this across Services Group, in support of Application Modernization and Delivery.
   </td>

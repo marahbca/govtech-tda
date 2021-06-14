@@ -23,7 +23,7 @@ permalink: /speakers/day-1
     <tr>
     <td width="30%"><img src="/images/chinloon.png" alt="chinloon"></td>
       <td width="70%"><strong> Mr Chai Chin Loon </strong><br> 
-        <em>Senior Director, Cybersecurity Group, GovTech</em>
+        <em>Senior Director, Cyber Security Group, GovTech</em>
         <br><br>
         <p>-</p></td>
   </tr>

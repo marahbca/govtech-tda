@@ -80,6 +80,16 @@ Daniel has over 29 years of experience in product management, development, testi
     </td>
   </tr>
   
+  <!--Speaker-->
+  <tr>
+    <td width="30%"><img src="/images/jacelyn.png" alt="jacelyn"></td>
+    <td width="70%"><strong> Ms Jacelyn Lim </strong><br> 
+        <em>Senior Solution Engineer, Tableau Software </em>
+        <br><br>
+        <p>Jacelyn is on a mission to help organizations go from “???” to “Ah-ha!”. As a Senior Solution Engineer in Tableau, she supports a diverse industries across the SEA region and in particular, the Singapore public sector. It is especially rewarding for her to be helping customers in their analytics transformation journey. Outside of Tableau, her foodie passion can be found in her instant ramen viz and many other food related viz that she bookmarked on Tableau Public. And on other times, she enjoys a good stretch from yoga.</p>
+    </td>
+  </tr>
+  
    <tr>
     <td width="30%"><img src="/images/joseph.png" alt="joseph"></td>
     <td width="70%"> <strong>Mr Joseph Tan </strong><br>

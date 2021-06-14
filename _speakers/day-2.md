@@ -9,7 +9,7 @@ permalink: /speakers/day-2
     <td width="70%">
       <strong>Ms Aditi Agarwal </strong><br>
     <em>Application Developer, Thoughtworks </em>
-    <br>
+    <br><br>
     <p>Aditi serves ThoughtWorks as an Application Developer with over 5  years of experience building cloud native 12-factor applications that are continuously integrated and designed to run at scale. She has taken up different roles in the team, namely, software developer, site reliability engineer (SRE), agile practitioner and infrastructure engineer and developed software using Java (Spring), Python, Nodejs and React using agile methodologies. She specialises in writing software for distributed systems that is resilient to failures and proactively monitored.</p>
     </td>
   </tr>
@@ -26,7 +26,7 @@ permalink: /speakers/day-2
     <td width="30%"><img src="/images/gregor.png" alt="gregor"></td>
     <td width="70%"> <strong>Mr Gregor Hohpe </strong><br>
     <em> Enterprise Strategist, Amazon Web Services </em>
-    <br>
+    <br><br>
     <p>As an AWS Enterprise Strategist, Gregor helps IT and business leaders rethink their current IT strategy to get the most out of their cloud journey. That means, he            believes, unlearning current assumptions and translating the ramifications of technical decisions to the business level.<br>
        A large part of Gregor’s career has been spent on large-scale IT initiatives, including migrating on-premises data centers to the cloud, at Allianz, the Government of        Singapore, and Google. His past roles—start-up co-founder, system integrator, consultant, software engineer, trainer, chief architect, and CxO advisor—have allowed him        to see IT from almost every angle. He often draws on that background when talking with customers, as he’s faced many of the same challenges that they’re dealing with.     <br>
     His wide-ranging experience also allows him to dive into the IT “engine room” with customers, as needed, to ensure that new strategies are connected to technical             realities.<br>
@@ -60,7 +60,7 @@ His interest includes peer-to-peer networks, application frameworks, Java Virtua
     <td width="30%"><img src="/images/marcus.png" alt="marcus"></td>
     <td width="70%"> <strong>Mr Marcus Tee </strong><br>
     <em>Solutions Architect, Microsoft </em>
-    <br>
+    <br><br>
     <p>Marcus aspire to enable more technologies in the world for a more productive society, while preserving the human ingenuity. Willingness to try and thirst for knowledge is what keep Marcus going to explore the world while making the connection between respective knowledge domains.<br>
       In his career, Marcus focuses on consulting and strategizing technology roadmap for customers building cloud native solutions, intelligent edge workload involving Internet-Of-Thing and advanced analytics, and infusing machine learning & artificial intelligence across cloud and edge.</p> 
     </td>

@@ -9,7 +9,7 @@ permalink: /speakers/day-4
     <td width="30%"><img src="/images/benjamin.png" alt="benjamin"></td>
     <td width="70%"> <strong>Mr Benjamin Tan </strong><br>
     <em> Lead Solution Engineer, Tableau Software </em>
-    <br>
+    <br><br>
     <p>For the past decade, Benjamin has been immersed in the business intelligence industry with extensive knowledge and experience in data preparation, data warehousing, enterprise reporting and data visualisation. His unique passion for visual analytics led him to the mastery of Tableau over the last 5 years. He has been active in supporting requirements from government, insurance and healthcare clients. Currently as the Lead Solution Engineer at Tableau, Benjamin continues to help many organizations realize their data discovery capabilities and be empowered with fresh insights at work. </p>
     </td>
   </tr>
@@ -43,7 +43,7 @@ Dawei had various roles in his career, ranging from developer, network engineer,
     <td width="30%"><img src="/images/datle.png" alt="datle"></td>
     <td width="70%"> <strong>Mr Dat Le </strong><br>
     <em>Director of Data, Foodpanda</em>
-    <br>
+    <br><br>
     <p>Dat Le is the Director of Data Science and Engineering at 90 Seconds (http://90seconds.tv/) - He did his Bachelors in Computer Science at the University of Nottingham (2009) and Masters at the University of Oxford (2010) before coming to Singapore to join their Government Research firm A*STAR in 2011. He then built the Data Warehouse and Data Team at Zalora from 2013-2014, Commercialize TV from 2014 - 2015, Honestbee from 2016-2017, the APACx Marketing Data Science team at Uber from 2017-2018, and now the data intelligence function at 90 Seconds from the ground up. He is a data enthusiast - he loves contributing to the data community in Singapore, open-source data projects, and participating in data science challenges all over the world in his free time. </p>
     </td>
   </tr>
@@ -75,8 +75,18 @@ Daniel has over 29 years of experience in product management, development, testi
     <td width="30%"><img src="/images/eric.png" alt="eric"></td>
     <td width="70%"> <strong>Mr Eric Karsten </strong><br>
     <em>Data Scientist, Coursera</em>
-    <br>
+    <br><br>
     <p>Eric Karsten is a Data Scientist at Coursera. He works within the Insights and Research vertical, partnering with external university and NGO researchers to use Coursera’s data to answer valuable questions for the world. He also works with the Content Strategy team to forecast skills trends and content demand using signals from the Coursera platform. His work has been included in publications from the World Economic Forum. Eric holds an MA in Economics and a BA in mathematics, both from the University of Chicago. </p>
+    </td>
+  </tr>
+  
+  <!--Speaker-->
+  <tr>
+    <td width="30%"><img src="/images/jacelyn.png" alt="jacelyn"></td>
+    <td width="70%"><strong> Ms Jacelyn Lim </strong><br> 
+        <em>Senior Solution Engineer, Tableau Software </em>
+        <br><br>
+        <p>Jacelyn is on a mission to help organizations go from “???” to “Ah-ha!”. As a Senior Solution Engineer in Tableau, she supports a diverse industries across the SEA region and in particular, the Singapore public sector. It is especially rewarding for her to be helping customers in their analytics transformation journey. Outside of Tableau, her foodie passion can be found in her instant ramen viz and many other food related viz that she bookmarked on Tableau Public. And on other times, she enjoys a good stretch from yoga.</p>
     </td>
   </tr>
   
@@ -84,7 +94,7 @@ Daniel has over 29 years of experience in product management, development, testi
     <td width="30%"><img src="/images/joseph.png" alt="joseph"></td>
     <td width="70%"> <strong>Mr Joseph Tan </strong><br>
     <em>Assistant Director, Capability Development, GovTech</em>
-    <br>
+    <br><br>
     <p>Joseph is an Assistant Director in GovTech's Data Science and AI Division. He leads the Capability Development team that runs data initiatives to upskill public officers and uplift agencies across the whole-of-government, as well as the team responsible for executing data transformation efforts in GovTech. Prior to that, Joseph had undertaken roles in various public agencies, from academic roles to programme management.</p>
     </td>
   </tr>
@@ -107,7 +117,7 @@ Kendrick holds a Bachelor of Engineering (Electrical) from the Nanyang Technolog
     <td width="30%"><img src="/images/nirmal.png" alt="nirmal"></td>
     <td width="70%"> <strong>Mr Nirmal Raja Palaparthi </strong><br>
     <em>Principal Lecturer & Consultant, Data Science Practice, NUS-ISS </em>
-    <br>
+    <br><br>
     <p>Nirmal is an Analytics professional with 20 years of experience in building practices from ground up in Asia. He has Co-founded and successfully exited from two Analytics companies. The first was Fractal Analytics, India’s leading third party analytics provider and the second: Mobius Innovations, a context awareness platform company, which was acquired for building significant IP. He has consulted for clients in 15 countries, across Banking, Retail, Telecom, Consumer Product and Enterprise Software verticals. He has also built digital ecosystems for multiple clients. </p>
     </td>
   </tr>
@@ -127,7 +137,7 @@ Kendrick holds a Bachelor of Engineering (Electrical) from the Nanyang Technolog
     <td width="30%"><img src="/images/sorabh.png" alt="sorabh"></td>
     <td width="70%"> <strong>Mr Sorabh Bajaj</strong><br>
     <em>Skills Transformation Consultant, Coursera</em>
-    <br>
+    <br><br>
     <p>Sorabh Bajaj is a Skills Transformation Consultant at Coursera. In addition to his role at Coursera, Sorabh is associated with Northwestern University, UC San Diego, Shiv Nadar University, and Ahmedabad University as a visiting professor. </p>
     </td>
   </tr>
@@ -153,7 +163,7 @@ Highly recognised for the ability to break down complex problems & find best pra
     <td width="30%"><img src="/images/ck.png" alt="ck"></td>
     <td width="70%"> <strong>Mr Tan Chin Kuan (CK) </strong><br>
     <em>Senior Director, Solutions & Value Engineering, Qlik </em>
-    <br>
+    <br><br>
     <p>CK is a Senior Director in Global Solutions and Value Engineering at Qlik. His team focus on business value consulting and advises top strategic clients in Asia Pacific to create strategic, well-aligned data and analytics solutions. As a design thinking practitioner, he often incorporates human-centred design to help businesses transform their business by adopting data-first culture and sustainable data-driven practices. 
 He brings to his role over 15 years of progressive experience in consulting, product marketing and industry sales within the Analytics and Technology space. He has extensive experience in leading consultancy practice teams whose focus is on delivering business value and driving customer success within data and analytics. </p>
     </td>
@@ -176,7 +186,7 @@ Prior to his current appointment, Bee Teck was also Cluster Director for the Jus
     <td width="30%"><img src="/images/tomo.png" alt="tomo"></td>
     <td width="70%"> <strong>Mr Tomo Farid</strong><br>
     <em>Customer Engineering Associate Trainee, Google</em>
-    <br>
+    <br><br>
     <p>Experienced Life Skills Trainer with a demonstrated history of working in the professional training & coaching industry. Skilled in 360 Degree Assessment, Coaching, Leadership Development, Management Consulting, and Event Management. Strong human resources professional graduated from University of Adelaide. </p> </td>
   </tr>
   
@@ -185,7 +195,7 @@ Prior to his current appointment, Bee Teck was also Cluster Director for the Jus
     <td width="30%"><img src="/images/jenhong.png" alt="jenhong"></td>
     <td width="70%"> <strong>Dr Tan Jen Hong</strong><br>
     <em>Lecturer & Consultant, Artificial Intelligence Practice, NUS-ISS</em>
-    <br>
+    <br><br>
     <p>Jen Hong develops algorithms. He specializes in deep learning, image processing and medical image diagnosis. He designs illustrations, web page and posters. He plays piano.<br>
 He invented a mathematical model to analyze dry eye. He used deep learning to correct medical images. He trained deep learning models to identify pathologies in retinal images. And he made deep learning to draw anatomical features.<br>
 He was the co-Principal Investigator of 6 research grants and 3 clinical trials. He and his team member co-developed algorithms to diagnose breast cancer, ovarian cancer, heart attack, fatty liver, diabetic retinopathy, epilepsy and glaucoma. He has published more than 90 journal articles, 12 of which are deep learning related.<br>
@@ -198,7 +208,7 @@ Worldwide his publications are cited more than 6100 times. He was awarded the �
     <td width="30%"><img src="/images/tianjing.png" alt="tianjing"></td>
     <td width="70%"> <strong>Dr Tian Jing</strong><br>
     <em>Senior Lecturer & Consultant, Artificial Intelligence Practice, NUS-ISS</em>
-    <br>
+    <br><br>
     <p>Tian Jing currently lectures in the Analytics and Intelligent Systems Practice in the areas of artificial intelligence, data analytics, and machine learning. He received his Ph.D. degree from School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore.<br>
 Prior to joining ISS, he spent a number of years in research, development and consultant work, with a focus in areas of computer vision and artificial intelligence, at two A*STAR spin-off companies, Institute for Infocomm Research (I2R, A*STAR), Temasek Laboratories @ NTU, Singapore, respectively. He also served as a technical leader in numerous research projects with both local major government agency and SME, as well as international collaborators, in areas of smart nation, safety and security, healthcare.</p>
     </td>

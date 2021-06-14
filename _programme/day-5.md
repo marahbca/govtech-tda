@@ -57,7 +57,7 @@ breadcrumb: 'Day 5'
     <td width="20%"><strong>11.15am - 12.15pm</strong></td>
     <td width="80%">
       <h4>The Design and Manufacturing Journey behind TraceTogether Tokens</h4>
-      <em>Quek Yang Boon, Director (SIoT), GovTech</em>
+      <em>Quek Yang Boon, Director, Sensors & IoT, GovTech</em>
       <br><br>
       Enabling the digitally excluded to participate in the national TraceTogether initiative was a problem statement tasked to the Sensors and IoT team of GovTech – and the TraceTogether Token is the solution. Yang Boon will share how they brought a product from concept to mass distribution within a matter of months.  
     <hr>
@@ -76,7 +76,7 @@ breadcrumb: 'Day 5'
     <td width="20%"><strong>1.15pm - 2.15pm</strong></td>
     <td width="80%">
       <h4>Robotics Adoption and Simulations</h4>
-      <em>Timothy Tan, Senior Robotics Engineer, Sensors & IOT, GovTech</em>
+      <em>Timothy Tan, Senior Robotics Engineer, Sensors & IoT, GovTech</em>
       <br><br>
       Talk will be about robotics adoption, and the how simulations play a role at different stages of adoption  <br>
       -	Robotics as a sustaining innovation, and how to determine the right use of robots, to improve productivity in a sustainable manner<br>

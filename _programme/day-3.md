@@ -58,7 +58,7 @@ breadcrumb: 'Day 3'
     <td width="20%"><strong>11.15am - 12.15pm</strong></td>
     <td width="80%">
       <h4>API Management with Google Cloud</h4>
-      <em>Harihara Subramaniam and Abhishek Pathak, Google </em>
+      <em>Harihara Subramaniam ASEAN Lead - Business Application Platform- Apigee & AppSheet, Google and Abhishek Pathak, Lead Customer Engineer, Apigee South East Asia </em>
       <br><br>
       Learn how Apigee can help you expose your core assets externally via APIs in a scalable and secure manner. As part of this session, we will touch upon the basics of API management and its applications for public sector - such as offering citizen services, internal agency data sharing and app modernisation.
       <hr>

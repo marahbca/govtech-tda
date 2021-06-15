@@ -121,7 +121,7 @@ breadcrumb: 'Day 3'
 lopments. The speaker will then zoom into the relevant processes, tools and even governance in the Singapore Government digital services space that is available. From a Singapore Government public officer point-of-view, how can we make better use of such knowledge and facilities to raise the standard of government digital services.
     <hr>
       <h4>Automated Security And Compliance</h4>
-      <em>Florian Sellmayr,Head of Technology (Southeast Asia), ThoughtWorks</em>
+      <em>Florian Sellmayr,Head of Technology (Southeast Asia), ThoughtWorks & Isa Tokunaga, Software Consultant, ThoughtWorks</em>
       <br><br> 
       The words “Security and Compliance” spark dread in many developers’ minds. Delivery teams see them as blockers to value creation; while security professionals fear reckless risks, lawsuits and hurt customers. This talk will give you some ideas on how to get out of this stalemate.
     </td>

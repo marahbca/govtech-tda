@@ -25,14 +25,16 @@ permalink: /speakers/day-1
       <td width="70%"><strong> Mr Chai Chin Loon </strong><br> 
         <em>Senior Director, Cyber Security Group, GovTech</em>
         <br><br>
-        <p>-</p></td>
+        <p>Chin Loon is currently the Senior Director of the Cyber Security Group (CSG) and Government Chief Information Security Officer (GCISO) in GovTech.  CSG secures Government info-communications technology and smart systems (ICT&SS), develop the public sector’s resilience, and partner the cybersecurity ecosystem against cyber threats to the Government.  The group serves as the Centre of Excellence to provide cybersecurity governance supported by consulting practice in addition to resilient monitoring of security events with robust incident response capabilities.  He also oversees the Chief Information Security Officers deployed to all government ministries of Singapore.</p></td>
   </tr>
   <tr>
     <td width="30%"><img src="/images/janil.png" alt="janil"></td>
     <td width="70%"> <strong>Dr Janil Puthucheary</strong><br>
     <em>Senior Minister of State, Ministry of Communications and Information of Singapore</em>
     <br><br>
-    <p>-</p> 
+    <p>Dr Janil Puthucheary is Senior Minister of State, Ministry of Communications and Information and Ministry of Transport. He is concurrently Minister-in-charge of GovTech and a member of the Ministerial Committee overseeing the Smart Nation and Digital Government Group. He previously held appointments as Senior Minister of State, Ministry of Transport and Ministry of Education.
+Before entering politics, Dr Puthucheary worked as a Senior Consultant at KK Women’s and Children’s Hospital, as well as an Associate Professor at Duke-NUS Medical School.
+</p> 
   </td>
   </tr>
     <tr>

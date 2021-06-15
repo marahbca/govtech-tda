@@ -19,7 +19,8 @@ permalink: /speakers/day-2
       <strong> Mr Ang Teck Leong </strong><br> 
         <em>Infrastructure Engineer,  Managed Hosting Infrastructure,GovTech</em>
         <br><br>
-        <p>-</p>
+        <p>GCC Infrastructure Engineer. Authorized Google Cloud Platform Trainer. Certified Kubernetes CKAD. Certfied GCP Cloud Architect.AWS Solutions Architect Professional
+</p>
     </td>
   </tr>
   <tr>

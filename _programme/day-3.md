@@ -79,7 +79,7 @@ breadcrumb: 'Day 3'
       <h4>Democratising Application Development</h4>
       <em>Mohammad Adeel Khan, Technology Specialist, Microsoft</em>
       <br><br>
-      -
+      For decades , the scarcity of application development professionals has been the top blocker  in organizations road to digitalization. In this session we will introduce the cure to the age old problem and help you unleash application developer from every part of business, blossoming Citizen Developers. The session will cover foundations of Microsoft citizen developer platform , resources and how anyone with basic Microsoft office skills can begin their app making  journey. The session will also provide guidance to become a certified citizen developer targeting PL-900 exam. By the end of this session , an attendee will have enough tools and knowledge to begin making mobile applications , create automated workflows that can digitalize their manual mundane work task and make them catalyst for Organizations digital transformation. 
     <hr>
       <h4>Applications Security In The Age of Cyber</h4>
       <em>John Lim, Senior Lecturer, School of Information Technology, Cyber And Information Security, Nanyang Polytechnic</em>
@@ -121,7 +121,7 @@ breadcrumb: 'Day 3'
 lopments. The speaker will then zoom into the relevant processes, tools and even governance in the Singapore Government digital services space that is available. From a Singapore Government public officer point-of-view, how can we make better use of such knowledge and facilities to raise the standard of government digital services.
     <hr>
       <h4>Automated Security And Compliance</h4>
-      <em>Florian Sellmayr,Head of Technology (Southeast Asia), ThoughtWorks</em>
+      <em>Florian Sellmayr,Head of Technology (Southeast Asia), ThoughtWorks & Isa Tokunaga, Software Consultant, ThoughtWorks</em>
       <br><br> 
       The words “Security and Compliance” spark dread in many developers’ minds. Delivery teams see them as blockers to value creation; while security professionals fear reckless risks, lawsuits and hurt customers. This talk will give you some ideas on how to get out of this stalemate.
     </td>

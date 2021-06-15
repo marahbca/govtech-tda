@@ -75,6 +75,15 @@ As a data researcher by training, he strongly advocates the use of data in guidi
     </td>
   </tr>
   
+  <tr>
+    <td width="30%"><img src="/images/isa.png" alt="isa"></td>
+    <td width="70%"> <strong>Ms Isa Tokunaga</strong><br>
+    <em>Software Consultant, ThoughtWorks</em>
+    <br><br>
+    <p>Isa is a Software Consultant at ThoughtWorks. She has worked on full stack development projects, and in the recent months, has delved more into infrastructure development work. This includes automating the provision of infrastructure with IaC (Infrastructure as Code) and CI/CD pipelines, building secure and compliant software that is tested, thereby delivering high-quality software.</p>
+    </td>
+  </tr>
+  
   <!--Speaker-->
   <tr>
     <td width="30%"><img src="/images/john.png" alt="john"></td>

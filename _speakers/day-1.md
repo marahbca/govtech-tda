@@ -25,7 +25,7 @@ permalink: /speakers/day-1
       <td width="70%"><strong> Mr Chai Chin Loon </strong><br> 
         <em>Senior Director, Cyber Security Group, GovTech</em>
         <br><br>
-        <p>-</p></td>
+        <p>Chin Loon is currently the Senior Director of the Cyber Security Group (CSG) and Government Chief Information Security Officer (GCISO) in GovTech.  CSG secures Government info-communications technology and smart systems (ICT&SS), develop the public sector’s resilience, and partner the cybersecurity ecosystem against cyber threats to the Government.  The group serves as the Centre of Excellence to provide cybersecurity governance supported by consulting practice in addition to resilient monitoring of security events with robust incident response capabilities.  He also oversees the Chief Information Security Officers deployed to all government ministries of Singapore.</p></td>
   </tr>
   <tr>
     <td width="30%"><img src="/images/janil.png" alt="janil"></td>

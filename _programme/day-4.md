@@ -100,10 +100,10 @@ What is the best way to deliver all these, yet ensure we meet the organisational
       <br><br>
       This session looks at how government agencies globally advanced their data-driven initiatives during the pandemic and how they are preparing for the new normal. We will also showcase how Active Intelligence can help agencies deliver continuous intelligence from real-time, up-to-date information designed to trigger immediate action.
     <hr>
-      <h4>Product Management and Analytics</h4>
+      <h4>Value, Metrics, and Measuring Success</h4>
       <em>Edward Hutchins,Product Lead,Thoughtworks</em>
       <br><br>
-      Collecting data about your customers is one thing, understanding them is another. Product analytics can help you fully understand how users engage with what you have built, showing you “who they are, what they want and how to keep them.”  
+      Product Managers need to be good at four things. Understanding value, communicating value, building value, and measuring it. What exactly is value though, and how can we quantify and measure it? In this talk, Edward will share some frameworks to help you understand and measure the value of your products.
     </td>
   </tr>
 </table>

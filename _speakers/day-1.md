@@ -44,6 +44,14 @@ Before entering politics, Dr Puthucheary worked as a Senior Consultant at KK Wom
     <br><br>
     <p>Jaap K Singh aka 'Chief Singh' is one of the co-founders of SCW and our Director of Customer Strategy. Jaap is an SME in all things Cyber Security - past, present, and future trends. He has a strong background in development practices and cybersecurity initiatives and trends and has spoken at various Security workshops, seminars, and online events across the globe pushing for the message of security awareness to development communities and other Technology groups.</p></td>
   </tr>
+  <tr>
+    <td width="30%"><img src="/images/kelvin.png" alt="kelvin"></td>
+    <td width="70%"> <strong>Mr Kelvin Chung</strong><br>
+    <em>Enterprise Account Executive - APAC, Secure Code Warrior</em>
+    <br><br>
+    <p>-</p> 
+  </td>
+  </tr>
    <tr>
     <td width="30%"><img src="/images/janet.png" alt="janet"></td>
     <td width="70%"> <strong>Ms Janet Ang</strong><br>

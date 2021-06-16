@@ -75,7 +75,7 @@ No prior knowledge of Cloud Technology is needed. All participants from all back
   <tr>
     <td width="20%"><strong>11.15am - 12.15pm</strong></td>
     <td width="80%">
-      <h4>Transformating from a project to product-centric organisation</h4>
+      <h4>Transforming from a project to product-centric organisation</h4>
       <em>Kendrick Lee, Director (Trusted Data & Services), GovTech and Daniel Boey, Chief, Digital Products & Platforms Practice, NUS-ISS</em>
       <br><br>
       The benefits of embracing digital extend beyond building digital products such as phone applications and digital platforms to better engage citizens/employees. We strive to improve productivity, speed and build closer intimacy with our stakeholders. In the process we also hope to transform our organisations’ culture to achieve agility, customer centricity and cultivate a spirit of risk-taking and innovation! 

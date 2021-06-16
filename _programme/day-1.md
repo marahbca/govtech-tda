@@ -54,7 +54,7 @@ breadcrumb: 'Day 1'
     <td width="20%"><strong>3.45pm - 4.45pm</strong></td>
     <td width="80%">
       <h4>Digital Academy Secure Coding Tournament</h4>
-      <em>Jaap K Singh, Chief Singh & Co-Founder,Secure Code Warrior</em>
+      <em>Jaap K Singh, Chief Singh & Co-Founder,Secure Code Warrior & Kelvin Chung,Enterprise Account Executive - APAC, Secure Code Warrior </em>
       <br><br>
       Discover and put your secure coding skills to test at this live Secure Code Warrior tournament! Compete against the other participants in a series of vulnerable code challenges based on the OWASP Top 10. Players can choose to compete in a range of software languages, including Pseudocode for non-developers. 
     <hr>

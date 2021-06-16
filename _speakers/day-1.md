@@ -32,7 +32,7 @@ permalink: /speakers/day-1
     <td width="70%"> <strong>Dr Janil Puthucheary</strong><br>
     <em>Senior Minister of State, Ministry of Communications and Information of Singapore</em>
     <br><br>
-    <p>Dr Janil Puthucheary is Senior Minister of State, Ministry of Communications and Information and Ministry of Transport. He is concurrently Minister-in-charge of GovTech and a member of the Ministerial Committee overseeing the Smart Nation and Digital Government Group. He previously held appointments as Senior Minister of State, Ministry of Transport and Ministry of Education.
+    <p>Dr Janil Puthucheary is Senior Minister of State, Ministry of Communications and Information and Ministry of Health. He is concurrently Minister-in-charge of GovTech and a member of the Ministerial Committee overseeing the Smart Nation and Digital Government Group. He previously held appointments as Senior Minister of State, Ministry of Transport and Ministry of Education.
 Before entering politics, Dr Puthucheary worked as a Senior Consultant at KK Women’s and Children’s Hospital, as well as an Associate Professor at Duke-NUS Medical School.
 </p> 
   </td>

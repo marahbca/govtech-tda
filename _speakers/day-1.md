@@ -47,9 +47,9 @@ Before entering politics, Dr Puthucheary worked as a Senior Consultant at KK Wom
   <tr>
     <td width="30%"><img src="/images/kelvin.png" alt="kelvin"></td>
     <td width="70%"> <strong>Mr Kelvin Chung</strong><br>
-    <em>Enterprise Account Executive - APAC, Secure Code Warrior</em>
+    <em>Enterprise Account Executive - Asia, Secure Code Warrior</em>
     <br><br>
-    <p>-</p> 
+    <p>Kelvin Chung is an Enterprise Account Executive for SCW Asia. He combines a strong technical background with a pragmatic business acumen. When he's not busy connecting with various communities and organizations across APAC on a variety of subjects, on a business and personal level, he is actively involved in advocating Security Awareness and Secure Coding Best Practices through a series of workshops, webinars and tournaments across various Marketing events in Asia Pacific.</p> 
   </td>
   </tr>
    <tr>
@@ -72,7 +72,7 @@ Before entering politics, Dr Puthucheary worked as a Senior Consultant at KK Wom
    <tr>
     <td width="30%"><img src="/images/weewei.png" alt="weewei"></td>
     <td width="70%"> <strong>Ms Ng Wee Wei</strong><br>
-    <em>Country Managing Director – Singapore,Accenture Pte Ltd</em>
+    <em>Country Managing Director, Accenture Singapore</em>
     <br><br>
     <p>Ng Wee Wei is currently the Managing Director with responsibility for Accenture's Health and Public Service business in ASEAN. She also leads the Defence and Public Safety practice across Asia Pacific in Accenture.<br>
 Wee Wei joined Accenture in 1995. She spent the majority of her career working with government and government linked companies. Wee Wei’s first project was to enable the corporatization of the Public Utilities Board. Her other significant government projects include the development of the New Financial Systems for the whole of government in Singapore, the development of School Cockpit which is a central system used by all pre-tertiary schools in Singapore and the development of E-HR as part of the HR Transformation program with the Singapore Ministry of Defence. Recently, she also led the Accenture team to deliver the OneService@SG system to facilitate joint collaboration across agencies to deliver better municipal services to citizens and residents of Singapore.<br>
@@ -82,7 +82,7 @@ Wee Wei is currently part of Accenture’s CEO Advisory Forum, a team of 100 glo
   </tr>
     <tr>
     <td width="30%"><img src="/images/patrick.png" alt="patrick"></td>
-    <td width="70%"> <strong>Mr Patrick Teo</strong><br>
+    <td width="70%"> <strong>Dr Patrick Teo</strong><br>
     <em>Head of Engineering for Payments, Next Billion Users and Site Leader, Google Singapore </em>
     <br><br>
     <p>Experienced executive with a passion for invention and delivering results in complex and high-ambiguity environments.<br>

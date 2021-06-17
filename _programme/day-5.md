@@ -25,8 +25,11 @@ breadcrumb: 'Day 5'
   <tr>
     <td width="20%"><strong>8.45am - 9.45am</strong></td>
     <td width="80%">
-      <h4>Coming Soon </h4>
-      -
+      <h4>Managing Digitalisation and Digital Transformation </h4>
+      <em>Alexander Lau, Principal Design Lead (Innovation Lab), Public Sector Transformation, Public Service Division, Prime Minister’s Office
+; Pauline Tan, Founding Partner, Excabaa Ptd Ltd;  Mark Lim, Managing Director of Digital Technology,Temasek. Moderated by Mr Ashok Kumar, Centre Director, e-Government Leadership Centre / Chief, International Programme</em> 
+      <br><br>
+      True Digital Transformation re-shapes an organization to be agile, innovative, service-oriented and customer-centric – with technology. This is not an IT initiative alone but touches every process that impacts the customer journey. Ops/Business functions are just as important to the success of the transformation. This session focuses on how to enable an enterprise-wide digital transformation mindset, and adopt best practices to deliver agility and positive customer experience, for sustainable digital leadership
     </td>
   </tr>
 </table>

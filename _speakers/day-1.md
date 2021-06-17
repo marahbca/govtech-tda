@@ -82,7 +82,7 @@ Wee Wei is currently part of Accenture’s CEO Advisory Forum, a team of 100 glo
   </tr>
     <tr>
     <td width="30%"><img src="/images/patrick.png" alt="patrick"></td>
-    <td width="70%"> <strong>Mr Patrick Teo</strong><br>
+    <td width="70%"> <strong>Dr Patrick Teo</strong><br>
     <em>Head of Engineering for Payments, Next Billion Users and Site Leader, Google Singapore </em>
     <br><br>
     <p>Experienced executive with a passion for invention and delivering results in complex and high-ambiguity environments.<br>

@@ -112,7 +112,7 @@ Daniel has over 29 years of experience in product management, development, testi
   <tr>
     <td width="30%"><img src="/images/kendrick.png" alt="kendrick"></td>
     <td width="70%"><strong> Mr Kendrick Lee</strong><br> 
-        <em>Principal Lecturer & Consultant, Digital Products & Platforms Practice</em>
+        <em>Kendrick Lee, Director (Trusted Data & Services), GovTech</em>
         <br><br>
         <p>Kendrick Lee is Director of National Digital Identity (Singpass) programme at the Government Technology Agency of Singapore (GovTech). In this role, he oversees product management of application programming interfaces (API) as well as digital payments; with the aim of enabling secure and seamless transactions for residents, businesses and government agencies.<br>
 Prior to re-joining the public service in 2015, Kendrick held regional leadership roles in consulting, business development and solution architecture at Ernst & Young and Hewlett-Packard. He started his career at the Defence Science and Technology Agency (DSTA) where he was pioneering programme manager of the government's Risk Assessment and Horizon Scanning system.<br>

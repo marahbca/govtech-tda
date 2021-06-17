@@ -80,6 +80,15 @@ Daniel has over 29 years of experience in product management, development, testi
     </td>
   </tr>
   
+  <tr>
+    <td width="30%"><img src="/images/edy.png" alt="edy"></td>
+    <td width="70%"> <strong>Mr Edy Tan </strong><br>
+    <em> Senior Solution Architect, Qlik </em>
+    <br><br>
+    <p>Edy is a Senior Solution Architect in Presales at Qlik.  His team focus on business value engagement with clients in ASEAN region to empower customer in their analytics journey. He brings to his role over 20 years of experience in Business Analytics, ranging from development, system integration to solutioning.  He has extensive experience in the government sector where he has delivered many projects and solutions. </p>
+    </td>
+  </tr>
+  
   <!--Speaker-->
   <tr>
     <td width="30%"><img src="/images/jacelyn.png" alt="jacelyn"></td>

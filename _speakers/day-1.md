@@ -47,9 +47,9 @@ Before entering politics, Dr Puthucheary worked as a Senior Consultant at KK Wom
   <tr>
     <td width="30%"><img src="/images/kelvin.png" alt="kelvin"></td>
     <td width="70%"> <strong>Mr Kelvin Chung</strong><br>
-    <em>Enterprise Account Executive - APAC, Secure Code Warrior</em>
+    <em>Enterprise Account Executive - Asia, Secure Code Warrior</em>
     <br><br>
-    <p>-</p> 
+    <p>Kelvin Chung is an Enterprise Account Executive for SCW Asia. He combines a strong technical background with a pragmatic business acumen. When he's not busy connecting with various communities and organizations across APAC on a variety of subjects, on a business and personal level, he is actively involved in advocating Security Awareness and Secure Coding Best Practices through a series of workshops, webinars and tournaments across various Marketing events in Asia Pacific.</p> 
   </td>
   </tr>
    <tr>

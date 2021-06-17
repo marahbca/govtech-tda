@@ -25,6 +25,22 @@ He has been a judge for many awards and a top-ranked keynote speaker, chairman o
     </td>
   </tr>
   
+  <tr>
+    <td width="30%"><img src="/images/mark.png" alt="mark"></td>
+    <td width="70%"> <strong>Mr Mark Lim</strong><br>
+    <em>Managing Director, Temasek </em>
+    <br><br>
+    <p>Mark is the Managing Director of Digital Technology in Temasek. He leads his team in driving positive change in business, tech and operation by leveraging digital technology, design thinking, modern digital product management and development methodology. Mark is a big believer that Digital and Cyber must work hand-in-hand in order to drive Digital Transformation and the adoption of new digital business strategies successfully. Before Temasek, Mark was the Director of Government Digital Service at GovTech Hive, where he built in-house digital technology, Agile, UX and Software Engineering teams.<br>
+
+He builds cross-functional agile tribes and squads focusing on innovation and collaboration through Digital Strategy, User Experience Design, Agile Software Development, DevSecOps, Continuous Delivery, Quality Engineering, Cybersecurity, Digital Risk Mgt, Cloud Technology, Big Data Platform, Process Redesign, Data Science and Machine Learning.<br>
+
+Mark is very passionate about organizational culture and its effects on developing high-performance teams and individuals. He believes that happy people produce high-quality work and it is important for leaders to seed the right tone for a positive culture to flourish to meet organizational goals well.<br>
+
+Apart from this, Mark has also been appointed to the 16th National Youth Council, where he advises on how to leverage digital technologies to better engage and empower the Youth. He also serves in the 4th National Youth Fund Advisory Committee, where he advises the committee in the evaluation and seed funding of ground-up initiatives and start-ups.
+</p>
+    </td>
+  </tr>
+  
   <!--Speaker-->
   <tr>
     <td width="30%"><img src="/images/nikolay.png" alt="nikolay"></td>
@@ -32,6 +48,22 @@ He has been a judge for many awards and a top-ranked keynote speaker, chairman o
     <em>Senior Blockchain Architect, Amazon Web Services</em>
     <br><br>
     <p>Nikolay Vlasov is a Senior Blockchain Architect with AWS Professional Services. Being part of a Global Speciality Practice team, he helps clients worldwide to turn their ideas into Pilots, Minimally Viable Products, and Production-ready systems based on blockchain technology.
+</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="30%"><img src="/images/pauline.png" alt="pauline"></td>
+    <td width="70%"> <strong>Ms Pauline Tan </strong><br>
+    <em>Founding Partner, Excabaa Pte Ltd</em>
+    <br><br>
+    <p>Pauline serves on the TVS Advisory Board and is the Technology Advisor to Sunway Digital Pte Ltd. She is also an adjunct lecturer with the National University of Singapore for the eGovernment Leadership Institute. Pauline works closely with business leaders and government leaders on their digital strategy to transform and leapfrog into a digital future. <br>
+At the National University of Singapore, she served as the Chief of Artificial Intelligence Practice responsible for the newly launched Master of Technology in Artificial Intelligence programme. <br>
+At SATS, she was responsible for creating solutions to realise the Group’s strategy through the delivery of the technology roadmap for SATS which includes process and product innovation. She set-up the SATS Technology Innovation Centre which had won multiple international accolades, such as, CIO 100 Honoree 2017, IATA IGHC Innovator Award 2018, and Asia Pacific Steve Platinum Award 2017/2018. <br>
+AT NOL, she oversaw about 400 staff supporting 104 countries, and an annual operating budget of about US$200 million. She also oversaw a major US$500 million modernisation programme to replace and modernise 300 core business applications. The modernisation programme reports into the NOL Board and involves implementation at 153 NOL locations in 104 countries.  <br>
+At the Infocomm Development Authority of Singapore (IDA), she oversaw the Standard ICT Operating Environment (SOE) Programme Directorate with implementation at more than 800 locations world-wide. The SOE programme, worth S$1.3 billion, is the largest IT outsourcing contract in Singapore and in Asia. At IDA, she also helmed the Government Chief Information Office responsible for setting strategies, directions, policies, standards and driving the implementation of government-wide IT services and infrastructures so as to ensure the Singapore Government’s leadership in IT exploitation. <br>
+During her tenure with the Singapore Government, she also conceived and implemented other large projects that won international accolades, such as, eCitizen portal, Singpass and Singapore Public Services Infrastructure. <br>
+An outcome-oriented leader who possesses excellent skills in Relationship Management, People Management and Coaching.  Possesses deep and extensive experience in large scale Technology programme transformation, change management, complex IT contract management, and IT application development lifecycle and infrastructure management. 
 </p>
     </td>
   </tr>

@@ -62,7 +62,7 @@ Chi Siong brings with him over 20 years of industry experience and a strong pass
   
   <!--Speaker-->
   <tr>
-    <td width="30%"><img src="" alt=""></td>
+    <td width="30%"><img src="/images/timothy.png" alt="timothy"></td>
     <td width="70%"> <strong>Mr Timothy Tan </strong><br>
     <em>Senior Robotics Engineer, Sensors & IoT, GovTech </em>
     <br><br>

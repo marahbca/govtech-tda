@@ -32,7 +32,7 @@ permalink: /speakers/day-1
     <td width="70%"> <strong>Dr Janil Puthucheary</strong><br>
     <em>Senior Minister of State, Ministry of Communications and Information of Singapore</em>
     <br><br>
-    <p>Dr Janil Puthucheary is Senior Minister of State, Ministry of Communications and Information and Ministry of Transport. He is concurrently Minister-in-charge of GovTech and a member of the Ministerial Committee overseeing the Smart Nation and Digital Government Group. He previously held appointments as Senior Minister of State, Ministry of Transport and Ministry of Education.
+    <p>Dr Janil Puthucheary is Senior Minister of State, Ministry of Communications and Information and Ministry of Health. He is concurrently Minister-in-charge of GovTech and a member of the Ministerial Committee overseeing the Smart Nation and Digital Government Group. He previously held appointments as Senior Minister of State, Ministry of Transport and Ministry of Education.
 Before entering politics, Dr Puthucheary worked as a Senior Consultant at KK Women’s and Children’s Hospital, as well as an Associate Professor at Duke-NUS Medical School.
 </p> 
   </td>
@@ -43,6 +43,14 @@ Before entering politics, Dr Puthucheary worked as a Senior Consultant at KK Wom
     <em>Chief Singh & Co-Founder,Secure Code Warrior</em>
     <br><br>
     <p>Jaap K Singh aka 'Chief Singh' is one of the co-founders of SCW and our Director of Customer Strategy. Jaap is an SME in all things Cyber Security - past, present, and future trends. He has a strong background in development practices and cybersecurity initiatives and trends and has spoken at various Security workshops, seminars, and online events across the globe pushing for the message of security awareness to development communities and other Technology groups.</p></td>
+  </tr>
+  <tr>
+    <td width="30%"><img src="/images/kelvin.png" alt="kelvin"></td>
+    <td width="70%"> <strong>Mr Kelvin Chung</strong><br>
+    <em>Enterprise Account Executive - APAC, Secure Code Warrior</em>
+    <br><br>
+    <p>-</p> 
+  </td>
   </tr>
    <tr>
     <td width="30%"><img src="/images/janet.png" alt="janet"></td>

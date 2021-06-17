@@ -131,7 +131,7 @@ Trained several thousands on information technology professionals in various IT 
   
   <!--Speaker-->
   <tr>
-    <td width="30%"><img src="" alt=""></td>
+    <td width="30%"><img src="/images/nitin.png" alt="nitin"></td>
     <td width="70%"> <strong>Mr Nitin Bhawsar </strong><br>
     <em>Consultant, Processworks Group</em>
     <br><br>

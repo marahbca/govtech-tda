@@ -15,6 +15,19 @@ He has been a judge for many awards and a top-ranked keynote speaker, chairman o
     </td>
   </tr>
   
+   <tr>
+    <td width="30%"><img src="/images/debashis.png" alt="debashis"></td>
+    <td width="70%"> <strong>Mr Debashis Tarafdar</strong><br>
+    <em>Principal Lecturer & Consultant, e-Government Leadership Centre, NUS-ISS</em>
+    <br><br>
+    <p>With over 30 years in consulting, research, advisory and operations, Debashis helps private and public sector leaders create world class, integrated and sustainable processes that deliver positive outcome through streamlined business and digitalization, by empowering them with the knowledge of industry best practices and global standards that improve stakeholder value through service innovation.<br>
+Debashis’ core areas of expertise include business process re-engineering, performance management and digital transformation. He has also assisted organizations leverage information technology to enhance business and operational efficiency.<br>
+Debashis spent 13 years in consulting, project management and business process re-engineering. Over a span of 11 years in research and advisory role, Debashis developed process maturity models, roadmaps, benchmarks, in-depth analysis of business processes, best practices, priorities and deployment strategies in key sectors, which also included smart cities and sustainable energy. He analyzed global and regional trends to identify emerging agenda and opportunities for service providers.<br>
+Prior to joining NUS-ISS, Debashis was a Research Director at Gartner and IDC Asia/Pacific, and a Senior Manager at Singapore Computer Systems.<br>
+Debashis graduated from the Indian Institute of Technology with a Bachelor of Technology (Honors) in Mechanical Engineering. He also holds a Master of Business Management from the same university.</p>
+    </td>
+  </tr>
+    
   <!--Speaker-->
   <tr>
     <td width="30%"><img src="/images/matt.png" alt="matt"></td>

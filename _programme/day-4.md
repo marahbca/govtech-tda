@@ -96,7 +96,7 @@ What is the best way to deliver all these, yet ensure we meet the organisational
     <td width="20%"><strong>1.15pm - 2.15pm</strong></td>
     <td width="80%">
       <h4>Active Intelligence in Public Sector</h4>
-      <em>Tan Chin Kuan (CK), Senior Director, Solutions & Value Engineering, Qlik</em>
+      <em>Tan Chin Kuan (CK), Senior Director, Solutions & Value Engineering, Qlik; Edy Tan, Senior Solution Architect, Qlik</em>
       <br><br>
       This session looks at how government agencies globally advanced their data-driven initiatives during the pandemic and how they are preparing for the new normal. We will also showcase how Active Intelligence can help agencies deliver continuous intelligence from real-time, up-to-date information designed to trigger immediate action.
     <hr>

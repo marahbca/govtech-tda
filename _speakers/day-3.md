@@ -109,9 +109,16 @@ As a data researcher by training, he strongly advocates the use of data in guidi
   <tr>
     <td width="30%"><img src="/images/adeel.png" alt="adeel"></td>
     <td width="70%"> <strong>Mr Mohammad Adeel Khan </strong><br>
-    <em>Technology Specialist, Microsoft </em>
+    <em>TTechnical Specialist, Power Platform & Dynamics 365, Microsoft Singapore </em>
     <br><br>
-    <p>Seasoned Technology professional with experience in various digitization solutions for various industries. Experienced in devising, envisioning and managing implementations for Enterprise wide solutions with special focus on Microsoft Dynamics CRM. Fortunate to work with global brands in EMEA and APAC region. </p>
+    <p>Adeel has more than 19 years of enterprise software development , project management and technical sales management experience. A seasoned IT professional with enterprise and complex technical sales and implementation global experience spanned across Middle east  , Africa , Europe and Southeast Asia. 
+
+At Microsoft , Adeel leads technical engagements for business applications and help Singapore public and private sector organizations to  transform their employee and customer experience.  He works closely with customers and partners in making digital aspirations comes true and help mapping the business problems with right Microsoft business application solutions. 
+
+Adeel holds Masters in Computer sciences (SZABIST)  as well as Masters in Business Administration (Coventry University) . In addition, He holds various technical certifications including prestigious Microsoft Certified Solution Architect Expert for Power Platform and Dynamics 365. 
+
+Adeel is a citizen developer advocate and passionate about enabling citizen developers in every segment of community. He frequently speaks at various citizen developer platforms globally  and truly believes in “Democratizing Digital Transformation” through Citizen development platform. 
+ </p>
     </td>
   </tr>
   

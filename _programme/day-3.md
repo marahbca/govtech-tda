@@ -77,7 +77,7 @@ breadcrumb: 'Day 3'
     <td width="20%"><strong>1.15pm - 2.15pm</strong></td>
     <td width="80%">
       <h4>Democratising Application Development</h4>
-      <em>Mohammad Adeel Khan, Technology Specialist, Microsoft</em>
+      <em>Mohammad Adeel Khan, Technical Specialist, Power Platform & Dynamics 365, Microsoft Singapore</em>
       <br><br>
       For decades , the scarcity of application development professionals has been the top blocker  in organizations road to digitalization. In this session we will introduce the cure to the age old problem and help you unleash application developer from every part of business, blossoming Citizen Developers. The session will cover foundations of Microsoft citizen developer platform , resources and how anyone with basic Microsoft office skills can begin their app making  journey. The session will also provide guidance to become a certified citizen developer targeting PL-900 exam. By the end of this session , an attendee will have enough tools and knowledge to begin making mobile applications , create automated workflows that can digitalize their manual mundane work task and make them catalyst for Organizations digital transformation. 
     <hr>

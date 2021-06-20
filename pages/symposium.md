@@ -13,15 +13,15 @@ permalink: /symposium
   <tr>
     <td width="30%">9.00am - 9.10am</td>
     <td width="70%">
-      <strong>Launch Ceremony Commences</strong><br>
-     Opening address Ms Janet Ang, Chairman, NUS-ISS
+      <strong>Welcome Address</strong><br>
+      by Ms Janet Ang, Chairman, NUS-ISS
     </td>
   </tr>
   <tr>
     <td>9.10am - 9.25am</td>
     <td>
-      <strong>Welcome Address</strong><br>
-      by Dr Janil Puthucheary,Senior Minister of State, Ministry of Communications and Information of Singapore
+      <strong>Opening Address</strong><br>
+      by Dr Janil Puthucheary, Senior Minister of State, Ministry of Communications and Information of Singapore
     </td>
   </tr>
   

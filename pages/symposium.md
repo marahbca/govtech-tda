@@ -63,7 +63,7 @@ AWS, Coursera, Google, Microsoft, Qlik, Secure Code Warrior, TrustWave, Tableau 
 
   <tr>
     <td>10.25am - 10.45am</td>
-    <td>Keynote by Ms Ng Wee Wei, Country Managing Director, Accenture Singapore </td>
+    <td>Keynote by Ms Ng Wee Wei, Senior Managing Director & Country Managing Director – Accenture Singapore </td>
   </tr>
  
   <tr>

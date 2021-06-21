@@ -116,7 +116,7 @@ breadcrumb: 'Day 2'
       <h4>Using CircuitPython on Raspberry Pico</h4>
       <em>Kenneth Phang, Senior Lecturer & Consultant, Software Systems Practice, NUS-ISS</em>
       <br><br>
-      Build your own custom macro keypad that runs on the Raspberry Pi Pico RP2040 using CircuitPython. Desktop software is written in flutter able to customize the keypad profile and save it to the firebase cloud store. Demo multi-core and programmable io
+      Build your custom macro keypad that runs on the Raspberry Pi Pico RP2040 using CircuitPython. Desktop software is written in Google latest flutter cross-platform framework, able to customize the keypad profile and save it to the firebase cloud store. Demo on the usage of multi-core, custom made project and programmable io
     </td>
   </tr>
 </table>

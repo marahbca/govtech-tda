@@ -23,6 +23,12 @@ Category 2: Anyone interested in secure coding but may not be developers
 <br>
 <strong>How to register</strong>
 <br><br>
+Please create a new account on Secure Code Warrior with this <a href="https://portal.securecodewarrior.com/#/register/266433216582 ">link</a>
+
+Token number for registration is
+266433216582
+
+Once you have an account, you can click in the link below to join the tournament (Or select the Tournament within the Platform when you have logon)
 
 Category 1: Developers, Dev Managers, Appsec people
 

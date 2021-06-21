@@ -116,7 +116,7 @@ breadcrumb: 'Day 2'
       <h4>Using CircuitPython on Raspberry Pico</h4>
       <em>Kenneth Phang, Senior Lecturer & Consultant, Software Systems Practice, NUS-ISS</em>
       <br><br>
-      Cybersecurity crisis management isn’t just about cyber incident response. In this interactive session, improve your understanding of the entire crisis management             lifecycle – including readiness, response, and recovery. Learn more about industry best practices and be better equipped in managing a cyber crisis.
+      Build your own custom macro keypad that runs on the Raspberry Pi Pico RP2040 using CircuitPython. Desktop software is written in flutter able to customize the keypad profile and save it to the firebase cloud store. Demo multi-core and programmable io
     </td>
   </tr>
 </table>

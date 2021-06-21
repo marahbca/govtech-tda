@@ -142,7 +142,7 @@ lopments. The speaker will then zoom into the relevant processes, tools and even
       <h4>The Age of Exploration in testing has arrived!</h4>
       <em> Nitin Bhawsar, Consultant, Processworks Group </em>
       <br><br>
-        Learn why a cyber security crisis is very different from a conventional one and what are the key lessons in effective cyber crisis management.
+        This talk is on the increasingly popular Software Testing approach “Exploratory Testing” that recommends performing various test-related activities (such as test design, test execution, and interpretation of results) in an interleaved manner, throughout the project, rather than in a fixed sequence and at a particular “phase”.  It emphasises the mutually supportive nature of these techniques, and the need for a plurality of testing approaches. 
         </td>
   </tr>
 </table>

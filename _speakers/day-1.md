@@ -72,7 +72,7 @@ Before entering politics, Dr Puthucheary worked as a Senior Consultant at KK Wom
    <tr>
     <td width="30%"><img src="/images/weewei.png" alt="weewei"></td>
     <td width="70%"> <strong>Ms Ng Wee Wei</strong><br>
-    <em>Country Managing Director, Accenture Singapore</em>
+    <em>Senior Managing Director & Country Managing Director – Accenture Singapore</em>
     <br><br>
     <p>Ng Wee Wei is currently the Managing Director with responsibility for Accenture's Health and Public Service business in ASEAN. She also leads the Defence and Public Safety practice across Asia Pacific in Accenture.<br>
 Wee Wei joined Accenture in 1995. She spent the majority of her career working with government and government linked companies. Wee Wei’s first project was to enable the corporatization of the Public Utilities Board. Her other significant government projects include the development of the New Financial Systems for the whole of government in Singapore, the development of School Cockpit which is a central system used by all pre-tertiary schools in Singapore and the development of E-HR as part of the HR Transformation program with the Singapore Ministry of Defence. Recently, she also led the Accenture team to deliver the OneService@SG system to facilitate joint collaboration across agencies to deliver better municipal services to citizens and residents of Singapore.<br>

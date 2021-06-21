@@ -59,10 +59,10 @@ breadcrumb: 'Day 5'
   <tr>
     <td width="20%"><strong>11.15am - 12.15pm</strong></td>
     <td width="80%">
-      <h4>The Design and Manufacturing Journey behind TraceTogether Tokens</h4>
+      <h4>An in-depth look at DECADA, the whole of government IoT device management system, and its applications</h4>
       <em>Quek Yang Boon, Director, Sensors & IoT, GovTech</em>
       <br><br>
-      Enabling the digitally excluded to participate in the national TraceTogether initiative was a problem statement tasked to the Sensors and IoT team of GovTech – and the TraceTogether Token is the solution. Yang Boon will share how they brought a product from concept to mass distribution within a matter of months.  
+      In-depth sharing of the components of DECADA, from the embedded device layer, to the Edge and to the Cloud. We discuss the plugins and micro services made available to developers and users, especially the secure onboarding and authentication of devices. Finally, we share the system implementation of exciting use cases with DECADA in many agencies such as the Wireless Alert and Alarm System deployed in thousands of households in HDB to help monitor and respond to emergencies in the elderly.  
     <hr>
       <h4>Azure Quantum and Industry Use Cases</h4>
       <em>Ujjwal Kumar, Lead Architect, Microsoft</em>

@@ -8,6 +8,8 @@ breadcrumb: 'Day 5'
 ### New Technology - Sensors IoT, Modelling & Simulation, Digital Leadership
 **Fri, 25 Jun 2021**
 <br>
+Please note that these are closed door sessions only for the Whole of Government public officers.
+<br>
 <a href="https://form.gov.sg/60b5ff7eadb885001238b51a" class="bp-button is-secondary is-uppercase search-button" target="_blank">Register Now</a>
 <hr style="margin-top:0;">
 <table>

@@ -10,6 +10,8 @@ breadcrumb: 'Day 2'
 <br>
 <a href="https://form.gov.sg/60b5ff7eadb885001238b51a" class="bp-button is-secondary is-uppercase search-button" target="_blank">Register Now</a>
 <hr style="margin-top:0;">
+Please note that these are closed door sessions only for the Whole of Government public officers.
+<hr style="margin-top:0;">
 <table>
   <tr>
     <td width="20%"><strong>8.15am</strong></td>
